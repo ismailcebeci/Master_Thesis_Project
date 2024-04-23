@@ -1,0 +1,501 @@
+EmbeddedPackageInstallableTest.java:
+  JNoseTool: Redundant Assertion: 2
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 3
+FunTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Magic Number Test: 39
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 36
+OsgiConfigInstallableTest.java:
+  JNoseTool: Eager Test: 1
+PathActionTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 7
+ProgressCheckTest.java:
+  JNoseTool: Lazy Test: 1
+ResultTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sensitive Equality: 3
+RuleTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Sensitive Equality: 8
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Verbose Test: 1
+SimpleProgressCheckTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 1
+  JNoseTool: Magic Number Test: 1
+SimpleViolationTest.java:
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Eager Test: 6
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Sensitive Equality: 5
+  JNoseTool: Verbose Test: 2
+ViolationTest.java:
+  JNoseTool: Lazy Test: 1
+CommandTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Duplicate Assert: 14
+  JNoseTool: Mystery Guest: 3
+ConsoleTest.java:
+  JNoseTool: Resource Optimism: 1
+IOTest.java:
+  JNoseTool: Sensitive Equality: 1
+MainTest.java:
+  JNoseTool: Unknown Test: 8
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+OptionsTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 5
+  JNoseTool: Resource Optimism: 9
+  JNoseTool: Duplicate Assert: 5
+  JNoseTool: Mystery Guest: 4
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: General Fixture: 1
+ReportMessageTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Sensitive Equality: 1
+AbortedScanExceptionTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+ChecklistPlannerTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 8
+  JNoseTool: Magic Number Test: 11
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: General Fixture: 4
+ChecklistTest.java:
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: General Fixture: 3
+CheckReportTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 8
+AcHandlingTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Duplicate Assert: 2
+CompositeStoreAlignmentTest.java:
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: General Fixture: 3
+EchoTest.java:
+  JNoseTool: Unknown Test: 14
+ExpectAcesTest.java:
+  JNoseTool: Redundant Assertion: 2
+  JNoseTool: Magic Number Test: 30
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 15
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Duplicate Assert: 10
+ExpectPathsTest.java:
+  JNoseTool: Magic Number Test: 14
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 7
+FilterSetsTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Duplicate Assert: 4
+JcrPropertiesTest.java:
+  JNoseTool: Magic Number Test: 16
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Duplicate Assert: 8
+  JNoseTool: Mystery Guest: 2
+OverlapsTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 2
+PackageGraphTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 4
+PathsTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+SlingJcrInstallerTest.java:
+  JNoseTool: Unknown Test: 3
+SubpackagesTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 3
+CheckSpecTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 3
+CNDURLInstallerTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: General Fixture: 8
+DefaultErrorListenerTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 3
+  JNoseTool: Unknown Test: 15
+  JNoseTool: Magic Number Test: 1
+DefaultPackagingServiceTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 6
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 2
+ErrorListenerTest.java:
+  JNoseTool: Unknown Test: 1
+ForcedRootTest.java:
+  JNoseTool: Redundant Assertion: 2
+  JNoseTool: Sensitive Equality: 1
+InitStageTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Duplicate Assert: 17
+  JNoseTool: General Fixture: 4
+InternalImportOptionsTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Duplicate Assert: 1
+ItemFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: General Fixture: 1
+JackrabbitWorkspaceFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+LockFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+LockManagerFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+NodeFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: General Fixture: 1
+NodeTypeManagerFacadeTest.java:
+  JNoseTool: Lazy Test: 1
+ObservationManagerFacadeTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 1
+PropertyFacadeTest.java:
+  JNoseTool: Magic Number Test: 1
+QueryObjectModelFactoryFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+QueryFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+QueryManagerFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+QueryResultFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+RowFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+RowIteratorFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+RepositoryFacadeTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 6
+  JNoseTool: Magic Number Test: 1
+GroupFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+UserFacadeTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1
+UserManagerFacadeTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Unknown Test: 1
+VersionFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+VersionHistoryFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+VersionManagerFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+WorkspaceFacadeTest.java:
+  JNoseTool: Unknown Test: 1
+JcrNsTest.java:
+  JNoseTool: Redundant Assertion: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 1
+JsonCndTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Magic Number Test: 16
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 9
+  JNoseTool: Verbose Test: 11
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: IgnoredTest: 3
+OakMachineTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Magic Number Test: 18
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Verbose Test: 6
+  JNoseTool: Resource Optimism: 32
+  JNoseTool: Duplicate Assert: 6
+  JNoseTool: Mystery Guest: 32
+  JNoseTool: Exception Catching Throwing: 1
+OakpalPlanTest.java:
+  JNoseTool: Sensitive Equality: 5
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: General Fixture: 1
+AdhocOpearTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 2
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+OpearFileTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 7
+  JNoseTool: Mystery Guest: 7
+  JNoseTool: Exception Catching Throwing: 1
+ProgressCheckAliasFacadeTest.java:
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Eager Test: 25
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+DefaultRepoInitFactoryTest.java:
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+ReportMapperTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+ScriptProgressCheckTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Resource Optimism: 4
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: IgnoredTest: 1
+SilencingCheckFacadeTest.java:
+  JNoseTool: Lazy Test: 9
+  JNoseTool: Eager Test: 24
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+SimpleReportTest.java:
+  JNoseTool: Redundant Assertion: 2
+  JNoseTool: Lazy Test: 12
+  JNoseTool: Eager Test: 5
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 2
+DefaultSlingSimulatorTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Conditional Test Logic: 5
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 1
+EmbeddedPackageInstallableParamsTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+OsgiConfigInstallableParamsTest.java:
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Eager Test: 3
+SlingRepoInitScriptsTest.java:
+  JNoseTool: Eager Test: 1
+SlingNodetypesScannerTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 1
+UtilTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 4
+JsonConverterTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Sensitive Equality: 5
+  JNoseTool: Conditional Test Logic: 2
+AbstractITestMojoTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 1
+DependencyFilterTest.java:
+  JNoseTool: Verbose Test: 1
+MojoWithPlanParamsTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Resource Optimism: 5
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Mystery Guest: 5
+MojoWithRepositoryParamsTest.java:
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+OpearPackageMojoTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 30
+  JNoseTool: Verbose Test: 12
+  JNoseTool: Resource Optimism: 11
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Mystery Guest: 11
+  JNoseTool: Exception Catching Throwing: 3
+OpearPlanMojoTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 1
+PlanParamsTest.java:
+  JNoseTool: Lazy Test: 13
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 1
+ScanArtifactMojoTest.java:
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+ScanManyArtifactsMojoTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+VerifyMojoTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Resource Optimism: 4
+  JNoseTool: Mystery Guest: 4
+WebsterMojoTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Resource Optimism: 9
+  JNoseTool: Mystery Guest: 8
+HandlerTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+TestPackageUtilTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 5
+  JNoseTool: Mystery Guest: 8
+ChecklistExporterTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Conditional Test Logic: 24
+  JNoseTool: Verbose Test: 5
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Duplicate Assert: 15
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 9
+CliArgParserTest.java:
+  JNoseTool: Sensitive Equality: 1
+CndExporterTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Mystery Guest: 3
+  JNoseTool: Exception Catching Throwing: 4
+FileVaultNameFinderTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 6
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Mystery Guest: 6
+  JNoseTool: Exception Catching Throwing: 2
+JcrFactoryTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 4
+  JNoseTool: Mystery Guest: 4
+  JNoseTool: Exception Catching Throwing: 4
+PrivilegeXmlExporterTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 1
+QNameTest.java:
+  JNoseTool: Sensitive Equality: 4
+JsonTargetFactoryTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 4
+  JNoseTool: Mystery Guest: 3
+WebsterChecklistTargetTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 4
+WebsterNodetypesTargetTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 6
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Resource Optimism: 7
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Mystery Guest: 7
+WebsterPrivilegesTargetTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Mystery Guest: 3
+WebsterPlanTest.java:
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Resource Optimism: 4
+  JNoseTool: Mystery Guest: 8

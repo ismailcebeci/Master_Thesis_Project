@@ -1,0 +1,4 @@
+PlayerNameHistoryFetcherTest.java:
+  JNoseTool: Assertion Roulette: 6
+PlayerUUIDFetcherTest.java:
+  JNoseTool: Assertion Roulette: 1

@@ -1,0 +1,33 @@
+TokenServiceTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 6
+AuthorityRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+ProductRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 1
+StockRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+StoreRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+UserRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+AuthorityServiceTest.java:
+  JNoseTool: Assertion Roulette: 2
+CartServiceTest.java:
+  JNoseTool: Unknown Test: 1
+ProductServiceTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 1
+StockServiceTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 1
+StoreServiceTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 1
+UserServiceTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 2

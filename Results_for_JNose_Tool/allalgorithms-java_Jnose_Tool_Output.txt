@@ -1,0 +1,14 @@
+FibonacciTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Assertion Roulette: 6
+BinarySearchTest.java:
+  JNoseTool: Magic Number Test: 24
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Lazy Test: 1
+BubbleSortTest.java:
+  JNoseTool: Lazy Test: 1
+MergeSortTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 1
+PalindromeTest.java:
+  JNoseTool: Assertion Roulette: 2

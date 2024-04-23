@@ -1,0 +1,77 @@
+SimpleDbAttributeValueSplitterTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 1
+DomainItemBuilderTest.java:
+  JNoseTool: Assertion Roulette: 2
+EntityWrapperTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 19
+  JNoseTool: Verbose Test: 1
+JsonMarshallerTest.java:
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: General Fixture: 1
+QueryBuilderTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 4
+SimpleDbExceptionTranslatorTest.java:
+  JNoseTool: Assertion Roulette: 28
+MultipleResultExecutionTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 8
+PagedResultExecutionTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 2
+PartTreeConverterTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 3
+SimpleDbQueryRunnerTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 4
+SimpleDbRepositoryQueryTest.java:
+  JNoseTool: Eager Test: 1
+SimpleDbResultConverterTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 9
+AlphanumStringComparatorTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 3
+MapUtilsTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Conditional Test Logic: 1
+SampleConfigurationTest.java:
+  JNoseTool: Assertion Roulette: 1
+DomainManagerTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Eager Test: 4
+SimpleDbTemplateTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+BasicSimpleDbUserRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+UserJobTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 2
+NamedQueryRepositoryTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Assertion Roulette: 17
+PagedAnnotatedQueryRepositoryTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Assertion Roulette: 17
+SimpleDbReferencesRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 1

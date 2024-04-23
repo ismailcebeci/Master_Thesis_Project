@@ -1,0 +1,2 @@
+SecurityApplicationTests.java:
+  JNoseTool: EmptyTest: 1

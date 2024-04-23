@@ -1,0 +1,8 @@
+ZhihuCommentServiceTest.java:
+  JNoseTool: Assertion Roulette: 3
+ZhihuDailyServiceTest.java:
+  JNoseTool: Assertion Roulette: 3
+ZhihuStartupServiceTest.java:
+  JNoseTool: Assertion Roulette: 1
+ZhihuThemeServiceTest.java:
+  JNoseTool: Assertion Roulette: 3

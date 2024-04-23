@@ -1,0 +1,2 @@
+UserServiceApplicationTests.java:
+  JNoseTool: EmptyTest: 1

@@ -1,0 +1,7 @@
+PdfJsonSerializerTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+PdfXmlSerializerTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Verbose Test: 1

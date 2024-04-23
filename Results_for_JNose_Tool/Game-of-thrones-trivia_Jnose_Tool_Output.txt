@@ -1,0 +1,6 @@
+GeneralAlgorithmsTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Print Statement: 3

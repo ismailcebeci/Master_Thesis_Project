@@ -1,0 +1,8 @@
+ContractTests.java:
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Magic Number Test: 41
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Verbose Test: 19
+  JNoseTool: Duplicate Assert: 26
+  JNoseTool: Assertion Roulette: 7

@@ -1,0 +1,15 @@
+DDPMessageEndpointTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 2
+JsonMessageConverterTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Print Statement: 1
+RPCClientTest.java:
+  JNoseTool: Exception Catching Throwing: 1
+MapSubscriptionAdapterTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 2

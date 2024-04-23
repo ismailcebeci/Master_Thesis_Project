@@ -1,0 +1,91 @@
+UtilsTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 9
+ConversionOutputAnalyzerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Constructor Initialization: 2
+  JNoseTool: Print Statement: 6
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Verbose Test: 1
+DefaultFFMPEGLocatorTest.java:
+  JNoseTool: Constructor Initialization: 2
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Mystery Guest: 2
+EncoderTest.java:
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Constructor Initialization: 2
+  JNoseTool: Print Statement: 29
+  JNoseTool: Resource Optimism: 15
+  JNoseTool: Eager Test: 29
+  JNoseTool: Conditional Test Logic: 19
+  JNoseTool: Exception Catching Throwing: 5
+  JNoseTool: Mystery Guest: 17
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Verbose Test: 6
+EncodingAttributesTest.java:
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Verbose Test: 1
+AssSubtitlesFilterTest.java:
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Mystery Guest: 1
+CropFilterTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Mystery Guest: 2
+ScaleFilterTest.java:
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Mystery Guest: 2
+VideoFilterTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 4
+  JNoseTool: Resource Optimism: 11
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Exception Catching Throwing: 5
+  JNoseTool: Mystery Guest: 11
+  JNoseTool: Verbose Test: 3
+MultimediaInfoTest.java:
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+MultimediaObjectTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 92
+  JNoseTool: Constructor Initialization: 2
+  JNoseTool: Print Statement: 15
+  JNoseTool: Resource Optimism: 14
+  JNoseTool: Eager Test: 15
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Mystery Guest: 14
+  JNoseTool: Magic Number Test: 45
+  JNoseTool: Redundant Assertion: 2
+ScreenExtractorTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 8
+  JNoseTool: Resource Optimism: 6
+  JNoseTool: Eager Test: 8
+  JNoseTool: Conditional Test Logic: 11
+  JNoseTool: Mystery Guest: 8
+  JNoseTool: Magic Number Test: 3

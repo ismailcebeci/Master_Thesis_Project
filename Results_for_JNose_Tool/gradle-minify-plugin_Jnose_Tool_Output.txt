@@ -1,0 +1,14 @@
+CssMinifierTest.java:
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Mystery Guest: 3
+JsMinifierTest.java:
+  JNoseTool: Resource Optimism: 5
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Mystery Guest: 5
+  JNoseTool: Lazy Test: 2
+MinifyPluginTest.java:
+  JNoseTool: Assertion Roulette: 1
+MinifyTaskTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: IgnoredTest: 1

@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+Picuang;PicuangApplicationTests;C:\Users\cebec\.jnose_projects\Picuang\src\test\java\pers\adlered\picuang\picuang\PicuangApplicationTests.java;C:\Users\cebec\.jnose_projects\Picuang\src\main\java\pers\adlered\picuang\PicuangApplication.java;JUnit4;16;1;EmptyTest;contextLoads;12-14;12-14

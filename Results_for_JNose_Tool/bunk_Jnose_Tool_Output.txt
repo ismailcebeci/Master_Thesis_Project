@@ -1,0 +1,9 @@
+ResponseParserTest.java:
+  JNoseTool: Magic Number Test: 11
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 9
+  JNoseTool: Assertion Roulette: 18
+SubjectTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 8

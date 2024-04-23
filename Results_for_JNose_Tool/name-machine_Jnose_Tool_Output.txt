@@ -1,0 +1,19 @@
+NameGeneratorOptionsTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 12
+NameGeneratorTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Conditional Test Logic: 5
+NameTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Sensitive Equality: 1

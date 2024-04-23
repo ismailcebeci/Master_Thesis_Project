@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+dian;GunsRestApplicationTests;C:\Users\cebec\.jnose_projects\dian\rito-rest\src\test\java\com\stylefeng\guns\GunsRestApplicationTests.java;C:\Users\cebec\.jnose_projects\dian\rito-rest\src\main\java\com\stylefeng\guns\rest\GunsRestApplication.java;JUnit4;16;1;EmptyTest;contextLoads;12-14;12-14

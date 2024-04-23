@@ -1,0 +1,31 @@
+AppMapperTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 18
+DataProviderCacheTest.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 10
+RoomTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 2
+ScheduleDayTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+ScheduleSlotTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+ScheduleTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+SessionTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Eager Test: 1
+SpeakerTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Eager Test: 1
+SelectedSessionsMemoryTest.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 4
+DbMapperTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 24

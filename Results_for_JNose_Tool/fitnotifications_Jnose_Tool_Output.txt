@@ -1,0 +1,8 @@
+GroupSummaryMessageExtractorTest.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 3
+TranslitUtilTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 3

@@ -1,0 +1,15 @@
+AssignabilityAnalysisTest.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Assertion Roulette: 4
+AstScannerTest.java:
+  JNoseTool: Assertion Roulette: 6
+FeatureGraphChecksTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+FeaturePluginTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+SymbolScannerTest.java:
+  JNoseTool: Assertion Roulette: 17
+TypeScannerTest.java:
+  JNoseTool: Assertion Roulette: 8

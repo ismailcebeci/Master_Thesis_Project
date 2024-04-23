@@ -1,0 +1,60 @@
+OfferingTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 2
+InsertObservationTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Duplicate Assert: 1
+TimeSeriesRepositoryTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 1
+TimestampTest.java:
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Assertion Roulette: 34
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 8
+  JNoseTool: Conditional Test Logic: 5
+  JNoseTool: General Fixture: 1
+DescriptionBuilderTest.java:
+  JNoseTool: Assertion Roulette: 75
+  JNoseTool: Magic Number Test: 9
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: General Fixture: 1
+  JNoseTool: Verbose Test: 1
+FileHelperTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+Step2ControllerTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: IgnoredTest: 8
+Step7ControllerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: IgnoredTest: 3
+CsvDataTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Conditional Test Logic: 1
+Step2ModelTest.java:
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Magic Number Test: 3
+Step7ModelTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 4
+Step2ModelHandlerTest.java:
+  JNoseTool: Assertion Roulette: 14
+Step7ModelHandlerTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Sensitive Equality: 1
+Step2PanelTest.java:
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: IgnoredTest: 16
+Step7PanelTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: IgnoredTest: 10

@@ -1,0 +1,2 @@
+CorsResponseFilterTest.java:
+  JNoseTool: Assertion Roulette: 6

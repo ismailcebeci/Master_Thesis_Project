@@ -1,0 +1,16 @@
+DistributionDBTest.java:
+  JNoseTool: Assertion Roulette: 11
+FileUtilsTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Mystery Guest: 1
+DistributionSubjectNSDBTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 1
+JaccardSimilarityTest.java:
+  JNoseTool: Assertion Roulette: 1
+NSUtilsTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Print Statement: 3

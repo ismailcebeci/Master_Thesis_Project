@@ -1,0 +1,24 @@
+IterableUtilTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 18
+TreeLayoutTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Exception Catching Throwing: 3
+AbstractTreeForTreeLayoutTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 22
+  JNoseTool: Exception Catching Throwing: 4
+DefaultTreeForTreeLayoutTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 35
+  JNoseTool: Exception Catching Throwing: 7
+FixedNodeExtentProviderTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Exception Catching Throwing: 2

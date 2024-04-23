@@ -1,0 +1,5 @@
+LinkedListTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 3

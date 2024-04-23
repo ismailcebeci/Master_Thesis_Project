@@ -1,0 +1,4 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+apkeditor;SignApkTest;C:\Users\cebec\.jnose_projects\apkeditor\src\test\java\com\zzzmode\apkeditor\SignApkTest.java;C:\Users\cebec\.jnose_projects\apkeditor\src\main\java\com\zzzmode\apkeditor\apksigner\SignApk.java;JUnit4;24;1;Unknown Test;signApkTest;13-22;13-22
+apkeditor;SignApkTest;C:\Users\cebec\.jnose_projects\apkeditor\src\test\java\com\zzzmode\apkeditor\SignApkTest.java;C:\Users\cebec\.jnose_projects\apkeditor\src\main\java\com\zzzmode\apkeditor\apksigner\SignApk.java;JUnit4;24;1;Resource Optimism;signApkTest;13-22;13-22
+apkeditor;SignApkTest;C:\Users\cebec\.jnose_projects\apkeditor\src\test\java\com\zzzmode\apkeditor\SignApkTest.java;C:\Users\cebec\.jnose_projects\apkeditor\src\main\java\com\zzzmode\apkeditor\apksigner\SignApk.java;JUnit4;24;1;Mystery Guest;signApkTest;13-22;13-22

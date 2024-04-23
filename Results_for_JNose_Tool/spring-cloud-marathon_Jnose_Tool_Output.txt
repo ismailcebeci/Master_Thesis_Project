@@ -1,0 +1,21 @@
+MarathonDiscoveryClientTests.java:
+  JNoseTool: Verbose Test: 3
+MarathonPingTests.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+MarathonServerListTests.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 1
+MarathonServerTests.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 3
+MarathonServiceHealthCheckFilterTests.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+MarathonEndpointTests.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+MarathonPropertiesTests.java:
+  JNoseTool: Assertion Roulette: 2

@@ -1,0 +1,5 @@
+GreetTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+UtilsTest.java:
+  JNoseTool: Unknown Test: 2

@@ -1,0 +1,30 @@
+DirectBufferMmapAllocatorTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Exception Catching Throwing: 3
+HeapArrayTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Sensitive Equality: 1
+HeapPointerTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Exception Catching Throwing: 3
+  JNoseTool: Sensitive Equality: 1
+MmapArrayTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+NativeStructTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Exception Catching Throwing: 1
+StructTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Exception Catching Throwing: 5
+UnsafeNativeHeapAllocatorTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Exception Catching Throwing: 3

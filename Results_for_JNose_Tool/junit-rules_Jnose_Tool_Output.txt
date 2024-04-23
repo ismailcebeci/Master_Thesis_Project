@@ -1,0 +1,13 @@
+DerbyDataSourceRuleTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Exception Catching Throwing: 1
+ExpectedExceptionsTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Redundant Assertion: 2
+HttpServerRuleTest.java:
+  JNoseTool: Assertion Roulette: 9
+JettyServerRuleTest.java:
+  JNoseTool: Assertion Roulette: 9
+HibernatePersistenceContextTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 2

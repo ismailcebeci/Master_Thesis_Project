@@ -1,0 +1,11 @@
+ContractApplicationAddPresenterImplExTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Duplicate Assert: 15
+  JNoseTool: Assertion Roulette: 57
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: General Fixture: 2
+ContractApplicationChangePresenterImplExTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Duplicate Assert: 14
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Verbose Test: 1

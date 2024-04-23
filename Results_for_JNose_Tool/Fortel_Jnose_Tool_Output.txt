@@ -1,0 +1,11 @@
+LunarUtilTest.java:
+  JNoseTool: Magic Number Test: 15
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 5
+  JNoseTool: Assertion Roulette: 26
+  JNoseTool: Conditional Test Logic: 16
+  JNoseTool: Print Statement: 13
+DestinyTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 22
+  JNoseTool: Eager Test: 1

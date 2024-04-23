@@ -1,0 +1,20 @@
+GSetTests.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 11
+LWWSetTests.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Verbose Test: 1
+ORSetTests.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Verbose Test: 1
+OURSetTests.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Verbose Test: 1
+TwoPSetTests.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Verbose Test: 2

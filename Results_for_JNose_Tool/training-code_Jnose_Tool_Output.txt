@@ -1,0 +1,14 @@
+AppTest.java:
+  JNoseTool: Redundant Assertion: 2
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: General Fixture: 1
+JpaApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+IntroSpringApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+ArtistMicroApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+DiscoveryApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+GatewayApplicationTests.java:
+  JNoseTool: EmptyTest: 1

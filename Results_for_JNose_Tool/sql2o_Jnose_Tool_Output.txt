@@ -1,0 +1,23 @@
+ArrayParametersTest.java:
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Assertion Roulette: 16
+StringConverterTest.java:
+  JNoseTool: Assertion Roulette: 1
+QueryTest.java:
+  JNoseTool: Unknown Test: 1
+Sql2oTest.java:
+  JNoseTool: Magic Number Test: 59
+  JNoseTool: Verbose Test: 11
+  JNoseTool: Assertion Roulette: 162
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 14
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Exception Catching Throwing: 31
+  JNoseTool: Print Statement: 4
+UnderscoreToCamelCaseTests.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Lazy Test: 1

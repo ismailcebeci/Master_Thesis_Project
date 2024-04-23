@@ -1,0 +1,64 @@
+ConnectionManagerTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 9
+  JNoseTool: Sleepy Test: 6
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Exception Catching Throwing: 15
+  JNoseTool: Print Statement: 4
+HttpTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Verbose Test: 15
+  JNoseTool: Sleepy Test: 4
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 26
+  JNoseTool: Conditional Test Logic: 9
+  JNoseTool: Exception Catching Throwing: 14
+  JNoseTool: Redundant Assertion: 4
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: General Fixture: 1
+DefaultsTest.java:
+  JNoseTool: Assertion Roulette: 2
+HostsTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 21
+SafeSSLSocketFactoryTest.java:
+  JNoseTool: Conditional Test Logic: 1
+CapabilityTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+ClientOptionsTest.java:
+  JNoseTool: Assertion Roulette: 1
+MessageExtrasTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+MessageTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Eager Test: 1
+RecoveryKeyContextTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 2
+AgentHeaderCreatorTest.java:
+  JNoseTool: Lazy Test: 1
+CryptoTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 2
+ParamsUtilsTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 10
+ReconnectionStrategyTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Conditional Test Logic: 2

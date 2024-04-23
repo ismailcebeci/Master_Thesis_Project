@@ -1,0 +1,136 @@
+ContainerProjectDAOTest.java:
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Mystery Guest: 2
+FilterFileDAOTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 4
+MavenProjectDAOTest.java:
+  JNoseTool: Resource Optimism: 5
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 5
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Mystery Guest: 5
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Unknown Test: 1
+ProcessingProfileDAOTest.java:
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Assertion Roulette: 34
+  JNoseTool: Conditional Test Logic: 14
+  JNoseTool: Mystery Guest: 5
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 1
+WorkflowModelDAOTest.java:
+  JNoseTool: Resource Optimism: 7
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Mystery Guest: 7
+  JNoseTool: Unknown Test: 1
+WorkflowRunnerConfigDAOTest.java:
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Mystery Guest: 3
+  JNoseTool: Magic Number Test: 4
+WorkflowStepConfigurationTest.java:
+  JNoseTool: Assertion Roulette: 2
+CustomerProjectLoaderTest.java:
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Conditional Test Logic: 13
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Exception Catching Throwing: 1
+WorkflowBuilderTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 4
+LauncherDisablerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+MigrationReportWriterTest.java:
+  JNoseTool: Resource Optimism: 8
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Conditional Test Logic: 33
+  JNoseTool: Mystery Guest: 9
+  JNoseTool: Verbose Test: 7
+ModelTransformerTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Unknown Test: 3
+CreatePdfPreviewProcessMapperTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 4
+CreateWebEnabledImageProcessMapperTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+FFMpegThumbnailProcessMapperTest.java:
+  JNoseTool: Unknown Test: 2
+FFMpegTranscodeProcessMapperTest.java:
+  JNoseTool: Unknown Test: 2
+ThumbnailProcessMapperTest.java:
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Conditional Test Logic: 17
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Verbose Test: 2
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Redundant Assertion: 2
+ProcessingProfileCreatorTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Unknown Test: 11
+  JNoseTool: Verbose Test: 2
+  JNoseTool: General Fixture: 1
+VarNodeCleanerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Unknown Test: 1
+WorkflowRunnerConfigCreatorTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Unknown Test: 3
+FileQueryServiceTest.java:
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Magic Number Test: 3
+FileUtilTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Mystery Guest: 1
+JcrUtilTest.java:
+  JNoseTool: Assertion Roulette: 1
+StringUtilTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 4
+TestHelloWorldModel.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: General Fixture: 1
+LoggingFilterTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Magic Number Test: 12
+SimpleResourceListenerTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Magic Number Test: 12
+HelloWorldModelTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: General Fixture: 1
+SimpleScheduledTaskTest.java:
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 9
+SimpleServletTest.java:
+  JNoseTool: Assertion Roulette: 3

@@ -1,0 +1,28 @@
+DefaultAppSearchAlgorithmTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 34
+  JNoseTool: Conditional Test Logic: 1
+DbDowngradeHelperTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: General Fixture: 3
+  JNoseTool: Mystery Guest: 2
+LoaderCursorTest.java:
+  JNoseTool: Assertion Roulette: 28
+  JNoseTool: General Fixture: 6
+  JNoseTool: Lazy Test: 1
+PopupPopulatorTest.java:
+  JNoseTool: Unknown Test: 2
+SwipeDetectorTest.java:
+  JNoseTool: General Fixture: 1
+  JNoseTool: Unknown Test: 5
+GridOccupancyTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 12
+WidgetsListAdapterTest.java:
+  JNoseTool: General Fixture: 4
+  JNoseTool: Unknown Test: 4
+  JNoseTool: EmptyTest: 2

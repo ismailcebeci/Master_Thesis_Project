@@ -1,0 +1,21 @@
+StringMatcherTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 3
+SDPTest.java:
+  JNoseTool: Magic Number Test: 11
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 1
+ClcJavaPreferenceStorageTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Lazy Test: 1
+ClcKeyValueStorageTest.java:
+  JNoseTool: Magic Number Test: 13
+  JNoseTool: Assertion Roulette: 37
+  JNoseTool: Duplicate Assert: 5
+  JNoseTool: General Fixture: 1
+ClcListStorageTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: General Fixture: 1

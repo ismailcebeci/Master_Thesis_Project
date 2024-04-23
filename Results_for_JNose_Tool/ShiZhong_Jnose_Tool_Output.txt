@@ -1,0 +1,3 @@
+PosterUtilsTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 1

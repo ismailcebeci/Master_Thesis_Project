@@ -1,0 +1,284 @@
+KeycloakDataServiceImplTest.java:
+  JNoseTool: Unknown Test: 8
+  JNoseTool: Assertion Roulette: 4
+KeycloakTokenServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Redundant Assertion: 1
+KeycloakAuthMapperTest.java:
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Print Statement: 1
+KeycloakDataMapperTest.java:
+  JNoseTool: Assertion Roulette: 31
+  JNoseTool: Magic Number Test: 6
+KeycloakClientTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+KeycloakRealmTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+MockbankInitDataTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: IgnoredTest: 2
+DisableEndpointFilterTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Conditional Test Logic: 1
+DepositAccountCleanupRepositoryImplTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: General Fixture: 1
+CurrencyExchangeRatesServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 5
+DepositAccountPaymentServiceImplTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Conditional Test Logic: 2
+DepositAccountServiceImplTest.java:
+  JNoseTool: Unknown Test: 6
+  JNoseTool: Assertion Roulette: 29
+  JNoseTool: Magic Number Test: 3
+DepositAccountTransactionServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 63
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 7
+PaymentExecutionSchedulerTest.java:
+  JNoseTool: Unknown Test: 3
+PaymentExecutionServiceTest.java:
+  JNoseTool: Assertion Roulette: 9
+TransactionServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 2
+DepositAccountMapperTest.java:
+  JNoseTool: Assertion Roulette: 2
+PaymentMapperTest.java:
+  JNoseTool: Assertion Roulette: 17
+PostingMapperTest.java:
+  JNoseTool: Assertion Roulette: 48
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Verbose Test: 2
+TransactionDetailsMapperTest.java:
+  JNoseTool: Assertion Roulette: 2
+ExceptionAdvisorTest.java:
+  JNoseTool: Assertion Roulette: 3
+AccountResourceTest.java:
+  JNoseTool: Assertion Roulette: 2
+AdminResourceTest.java:
+  JNoseTool: Assertion Roulette: 6
+ConsentResourceTest.java:
+  JNoseTool: Unknown Test: 2
+DataMgmtStaffResourceTest.java:
+  JNoseTool: Unknown Test: 11
+  JNoseTool: General Fixture: 1
+OperationInitiationResourceTest.java:
+  JNoseTool: Unknown Test: 4
+UserMgmtStaffResourceTest.java:
+  JNoseTool: Unknown Test: 9
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: General Fixture: 2
+BbanStructureTest.java:
+  JNoseTool: Unknown Test: 1
+LoginKeyDataTOTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: IgnoredTest: 1
+EmailVerificationPropertiesTest.java:
+  JNoseTool: Assertion Roulette: 8
+AccountDetailsMapperTest.java:
+  JNoseTool: Assertion Roulette: 2
+AuthCodeDataConverterTest.java:
+  JNoseTool: Assertion Roulette: 3
+KeycloakUserMapperTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: IgnoredTest: 1
+PaymentConverterTest.java:
+  JNoseTool: Assertion Roulette: 3
+ScaInfoMapperTest.java:
+  JNoseTool: Assertion Roulette: 2
+ScaResponseConverterTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Verbose Test: 2
+ScaResponseResolverTest.java:
+  JNoseTool: Assertion Roulette: 6
+AccessServiceTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 7
+AppManagementServiceImplTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Sleepy Test: 2
+EmailVerificationServiceImplTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 1
+PsuMessageResolverImplTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: General Fixture: 1
+AuthorizeStepMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: General Fixture: 1
+ConfirmationAuthCodeStepMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 1
+ConsentMessageHelperTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: General Fixture: 1
+GetScaMethodsStepMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 1
+InitiateOperationObjectStepMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: General Fixture: 1
+InitiationStepMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 2
+PaymentMessageHelperTest.java:
+  JNoseTool: Assertion Roulette: 8
+SelectScaMethodStepMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 2
+StartScaStepMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 1
+MiddlewareAccountManagementServiceImplTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Assertion Roulette: 31
+  JNoseTool: Magic Number Test: 3
+MiddlewareAuthConfirmationServiceTest.java:
+  JNoseTool: Assertion Roulette: 8
+MiddlewareCleanupServiceImplTest.java:
+  JNoseTool: Unknown Test: 4
+MiddlewareOauthServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: IgnoredTest: 1
+MiddlewarePaymentServiceImplTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 1
+MiddlewareRecoveryPointServiceImplTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Sleepy Test: 1
+MiddlewareRedirectScaServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 8
+MiddlewareUserManagementServiceImplTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Assertion Roulette: 30
+  JNoseTool: Magic Number Test: 4
+OperationServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 37
+  JNoseTool: Magic Number Test: 6
+SCAUtilsTest.java:
+  JNoseTool: Assertion Roulette: 5
+PaymentGenerationServiceTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+UploadDepositAccountServiceTest.java:
+  JNoseTool: Unknown Test: 2
+UploadPaymentServiceTest.java:
+  JNoseTool: Unknown Test: 2
+UploadUserServiceTest.java:
+  JNoseTool: Assertion Roulette: 2
+PaymentAccountValidatorTest.java:
+  JNoseTool: Assertion Roulette: 15
+PaymentFieldValidatorTest.java:
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 6
+PaymentIdValidatorTest.java:
+  JNoseTool: Assertion Roulette: 12
+PaymentSyntacticalValidatorTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: IgnoredTest: 1
+PostingLineMapperTest.java:
+  JNoseTool: Assertion Roulette: 30
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Verbose Test: 2
+AbstractServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 3
+AccountStmtServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 3
+ChartOfAccountServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 7
+LedgerServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 23
+PostingServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 8
+PostingsMockServiceImplTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 1
+AuthCodeGeneratorImplTest.java:
+  JNoseTool: Assertion Roulette: 4
+AppOtpMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 1
+EmailOtpMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 5
+PushOtpMessageHandlerTest.java:
+  JNoseTool: Assertion Roulette: 11
+RecoveryPointServiceImplTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 6
+ScaMessageResolverImplTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+SCAOperationServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 49
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: General Fixture: 5
+  JNoseTool: Verbose Test: 4
+ScaOperationValidationServiceTest.java:
+  JNoseTool: Assertion Roulette: 11
+AppOtpSenderTest.java:
+  JNoseTool: Assertion Roulette: 2
+MailSCASenderTest.java:
+  JNoseTool: Assertion Roulette: 6
+PushOTPSenderTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Sensitive Equality: 1
+SCAOperationExpirationJobTest.java:
+  JNoseTool: Unknown Test: 1
+UserResourceTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 2
+AisConsentMapperTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: IgnoredTest: 1
+EmailVerificationMapperTest.java:
+  JNoseTool: Assertion Roulette: 9
+UserConverterTest.java:
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Magic Number Test: 2
+OauthAuthorisationServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: IgnoredTest: 1
+ScaUserDataServiceImplTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 2
+ScaVerificationServiceImplTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: General Fixture: 2
+UserServiceImplTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Assertion Roulette: 26
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: General Fixture: 2
+HashGeneratorImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Lazy Test: 1
+IdsTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Conditional Test Logic: 2

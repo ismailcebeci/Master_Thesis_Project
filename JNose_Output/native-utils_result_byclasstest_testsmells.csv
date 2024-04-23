@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+native-utils;NativeUtilsTest;C:\Users\cebec\.jnose_projects\native-utils\src\test\java\cz\adamh\utils\NativeUtilsTest.java;C:\Users\cebec\.jnose_projects\native-utils\src\main\java\cz\adamh\utils\NativeUtils.java;JUnit4;29;4;Lazy Test;testLoadLibraryNullPath, testLoadLibraryNonExistentPath, testLoadLibraryIllegalPrefix, testLoadLibraryIllegalPath;27, 22, 17, 12;27, 22, 17, 12

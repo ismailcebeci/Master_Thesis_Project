@@ -1,0 +1,3 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+hibernate-hdb-demo;TestEmployee;C:\Users\cebec\.jnose_projects\hibernate-hdb-demo\src\test\java\nz\geek\caffe\hdb\hibernate\demo\TestEmployee.java;C:\Users\cebec\.jnose_projects\hibernate-hdb-demo\src\test\java\nz\geek\caffe\hdb\hibernate\demo\Employee.java;JUnit5;95;4;Assertion Roulette;testHdb;93-93;93-93
+hibernate-hdb-demo;TestEmployee;C:\Users\cebec\.jnose_projects\hibernate-hdb-demo\src\test\java\nz\geek\caffe\hdb\hibernate\demo\TestEmployee.java;C:\Users\cebec\.jnose_projects\hibernate-hdb-demo\src\test\java\nz\geek\caffe\hdb\hibernate\demo\Employee.java;JUnit5;95;4;Exception Catching Throwing;testHdb;87-91;87-91

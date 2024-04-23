@@ -1,0 +1,10 @@
+GoogleTokenTest.java:
+  JNoseTool: Assertion Roulette: 2
+LRUCacheTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: IgnoredTest: 3
+UrlBuilderTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+TextUtilTest.java:
+  JNoseTool: Assertion Roulette: 18

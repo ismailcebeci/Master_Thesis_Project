@@ -1,0 +1,15 @@
+CustomThreadFactoryExposerTest.java:
+  JNoseTool: Assertion Roulette: 1
+ExecutorServiceExposerTest.java:
+  JNoseTool: Assertion Roulette: 27
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Duplicate Assert: 1
+ExecutorConfigurationTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 3
+InstrumentedThreadPoolExecutorTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Conditional Test Logic: 1
+HttpHeaderStatisticInjectorTest.java:
+  JNoseTool: Assertion Roulette: 2

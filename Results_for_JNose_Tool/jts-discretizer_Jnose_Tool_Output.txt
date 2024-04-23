@@ -1,0 +1,24 @@
+GeometryCollectionDiscretizerTest.java:
+  JNoseTool: Assertion Roulette: 1
+LineStringDiscretizerTest.java:
+  JNoseTool: Assertion Roulette: 1
+PointDiscretizerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+PolygonDiscretizerTest.java:
+  JNoseTool: Assertion Roulette: 1
+Coordinate2WGS84PointTest.java:
+  JNoseTool: Assertion Roulette: 2
+CoordinateDiscretizerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+GeoHash2ChildrenStreamTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 4
+GeoHash2GeometryTest.java:
+  JNoseTool: Assertion Roulette: 1
+SegmentDiscretizerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+WGS84Point2CoordinateTest.java:
+  JNoseTool: Assertion Roulette: 2

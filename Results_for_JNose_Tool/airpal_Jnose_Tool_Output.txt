@@ -1,0 +1,2 @@
+QueryExecutionAuthorizerTest.java:
+  JNoseTool: Assertion Roulette: 17

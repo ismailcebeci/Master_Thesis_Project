@@ -1,0 +1,12 @@
+HistoryTableTest.java:
+  JNoseTool: Unknown Test: 1
+HotelTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Print Statement: 10

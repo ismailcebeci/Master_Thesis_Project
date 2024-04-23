@@ -1,0 +1,11 @@
+ManifestHelperTest.java:
+  JNoseTool: Assertion Roulette: 8
+SslContextFactoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+TaskwarriorMessageFactoryTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Conditional Test Logic: 2
+TaskwarriorPropertiesConfigurationTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Lazy Test: 1

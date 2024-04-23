@@ -1,0 +1,6 @@
+GenericCSRFStatelessFilterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Exception Catching Throwing: 3

@@ -1,0 +1,23 @@
+ChecksumTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 2
+GDiffWriterTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 2
+DeltaTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Sensitive Equality: 1
+GDiffTextWriterTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Sensitive Equality: 1
+TextPatcherTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1

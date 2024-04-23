@@ -1,0 +1,3 @@
+ConfiguratorTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 11

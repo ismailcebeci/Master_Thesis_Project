@@ -1,0 +1,32 @@
+CertificateServiceTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 1
+CertificateControllerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 1
+AccountSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 7
+TestDataConfigurationTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 3
+TestDataFileReaderTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Exception Catching Throwing: 3
+  JNoseTool: Magic Number Test: 2
+TestDataMapperTest.java:
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Assertion Roulette: 50
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Sensitive Equality: 6
+  JNoseTool: Duplicate Assert: 1
+TestDataServiceTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 49
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Conditional Test Logic: 10
+TabDelimitedCertificateFilterTest.java:
+  JNoseTool: Assertion Roulette: 1

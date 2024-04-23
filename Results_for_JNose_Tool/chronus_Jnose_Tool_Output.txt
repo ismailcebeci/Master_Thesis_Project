@@ -1,0 +1,4 @@
+ClusterH2DaoImplTest.java:
+  JNoseTool: Assertion Roulette: 5
+ClusterJpaRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 2

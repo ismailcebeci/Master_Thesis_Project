@@ -1,0 +1,13 @@
+ChartRepositoryApiTest.java:
+  JNoseTool: Unknown Test: 12
+  JNoseTool: IgnoredTest: 12
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Mystery Guest: 3
+LabelApiTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: IgnoredTest: 3
+ProductsApiTest.java:
+  JNoseTool: Unknown Test: 106
+  JNoseTool: IgnoredTest: 106
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Mystery Guest: 3

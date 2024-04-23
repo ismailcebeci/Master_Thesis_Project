@@ -1,0 +1,62 @@
+AdvancedTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+AeadTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 3
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 1
+BoxTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 5
+  JNoseTool: Exception Catching Throwing: 2
+HashTest.java:
+  JNoseTool: Exception Catching Throwing: 3
+PasswordTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Exception Catching Throwing: 1
+PointTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 4
+  JNoseTool: Sensitive Equality: 1
+SealedBoxTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 4
+SecretBoxTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 3
+  JNoseTool: Exception Catching Throwing: 1
+UtilTest.java:
+  JNoseTool: Assertion Roulette: 1
+RawTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Exception Catching Throwing: 2
+AuthenticationKeyTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 7
+  JNoseTool: Exception Catching Throwing: 5
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Redundant Assertion: 1
+KeyPairTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 6
+  JNoseTool: Exception Catching Throwing: 8
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: IgnoredTest: 1
+SigningKeyTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 6
+  JNoseTool: Exception Catching Throwing: 7
+  JNoseTool: Sensitive Equality: 2
+VerifyKeyTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Eager Test: 6
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Redundant Assertion: 1

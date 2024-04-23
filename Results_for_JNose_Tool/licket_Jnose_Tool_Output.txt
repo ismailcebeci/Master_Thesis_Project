@@ -1,0 +1,7 @@
+LicketComponentModelTest.java:
+  JNoseTool: Assertion Roulette: 2
+ComponentChildLocatorTest.java:
+  JNoseTool: Assertion Roulette: 4
+LicketComponentTreeWalkSequenceTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Duplicate Assert: 1

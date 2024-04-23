@@ -1,0 +1,11 @@
+EnglishLetterDecoderEncoderTest.java:
+  JNoseTool: Assertion Roulette: 5
+EnglishStemmerTest.java:
+  JNoseTool: Assertion Roulette: 19
+  JNoseTool: Eager Test: 1
+RussianLetterDecoderEncoderTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 5
+MorphologyFilterFactoryTest.java:
+  JNoseTool: Eager Test: 3
+  JNoseTool: Lazy Test: 3

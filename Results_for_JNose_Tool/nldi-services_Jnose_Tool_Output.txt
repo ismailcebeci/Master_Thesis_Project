@@ -1,0 +1,39 @@
+HtmlControllerTest.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 3
+LinkedDataControllerTest.java:
+  JNoseTool: Unknown Test: 11
+  JNoseTool: Verbose Test: 5
+LookupControllerTest.java:
+  JNoseTool: Unknown Test: 3
+NetworkControllerTest.java:
+  JNoseTool: Unknown Test: 6
+  JNoseTool: Verbose Test: 1
+StreamingResultHandlerTest.java:
+  JNoseTool: Unknown Test: 2
+GlobalDefaultExceptionHandlerTest.java:
+  JNoseTool: Unknown Test: 5
+NavigationTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Exception Catching Throwing: 3
+ParametersTest.java:
+  JNoseTool: Assertion Roulette: 44
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Magic Number Test: 11
+CharacteristicDataTransformerTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Exception Catching Throwing: 3
+CharacteristicMetadataTransformerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Exception Catching Throwing: 2
+FeatureCollectionTransformerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Exception Catching Throwing: 1
+FeatureTransformerTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Lazy Test: 1
+FlowLineTransformerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Exception Catching Throwing: 1

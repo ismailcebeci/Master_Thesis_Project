@@ -1,0 +1,4 @@
+UserRepositoryTest.java:
+  JNoseTool: Unknown Test: 33
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 2

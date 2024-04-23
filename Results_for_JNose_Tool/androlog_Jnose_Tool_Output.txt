@@ -1,0 +1,20 @@
+LogTest.java:
+  JNoseTool: Resource Optimism: 5
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Assertion Roulette: 51
+  JNoseTool: General Fixture: 1
+  JNoseTool: Mystery Guest: 5
+MailReporterTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Conditional Test Logic: 1
+PostReporterTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sleepy Test: 1

@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+spring-security-rest;SecurityApplicationTests;C:\Users\cebec\.jnose_projects\spring-security-rest\src\test\java\security\SecurityApplicationTests.java;C:\Users\cebec\.jnose_projects\spring-security-rest\src\main\java\security\SecurityApplication.java;JUnit4;18;1;EmptyTest;contextLoads;14-16;14-16

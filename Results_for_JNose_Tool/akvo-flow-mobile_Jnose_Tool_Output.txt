@@ -1,0 +1,37 @@
+AddUserActivityTest.java:
+  JNoseTool: Unknown Test: 1
+CascadeQuestionViewTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 2
+DateQuestionViewTest.java:
+  JNoseTool: Unknown Test: 2
+FreeTextQuestionViewTest.java:
+  JNoseTool: Unknown Test: 2
+FormActivityTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+SurveyMetadataParserTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 9
+CascadeValueTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Lazy Test: 1
+MediaValueTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 1
+SignatureValueTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 1
+ViewFormMapperTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Lazy Test: 1
+ApkFileBrowserTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Resource Optimism: 6
+  JNoseTool: Eager Test: 10
+  JNoseTool: Mystery Guest: 6
+StringUtilTest.java:
+  JNoseTool: Lazy Test: 3

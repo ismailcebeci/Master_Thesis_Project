@@ -1,0 +1,9 @@
+MainActivityPresenterTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: General Fixture: 4
+SettingsActivityPresenterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 2

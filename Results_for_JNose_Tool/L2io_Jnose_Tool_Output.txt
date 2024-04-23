@@ -1,0 +1,13 @@
+BufferUtilTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Conditional Test Logic: 3
+ByteUtilTests.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 7
+UnrealPackageTests.java:
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Exception Catching Throwing: 7

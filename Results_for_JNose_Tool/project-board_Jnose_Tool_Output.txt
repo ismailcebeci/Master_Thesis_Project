@@ -1,0 +1,118 @@
+RepositoryUserAccessServiceTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 18
+RepositoryApplicationServiceTest.java:
+  JNoseTool: Assertion Roulette: 6
+RepositoryProjectServiceTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 23
+RepositoryUserProjectServiceTest.java:
+  JNoseTool: Assertion Roulette: 8
+LdapAdapterTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 2
+  JNoseTool: EmptyTest: 1
+BaseAttributeMapperTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 9
+  JNoseTool: Lazy Test: 1
+LdapUserNodeMapperTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 1
+ThumbnailPhotoMapperTest.java:
+  JNoseTool: Assertion Roulette: 1
+UserUpdateJobTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 2
+UserUpdaterTest.java:
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Unknown Test: 4
+RepositoryBookmarkServiceTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Unknown Test: 2
+RepositoryUserServiceTest.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Unknown Test: 8
+MailProjectApplicationEventHandlerTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Unknown Test: 1
+MailUserAccessEventHandlerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 5
+MailSenderAdapterTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Unknown Test: 2
+TimeAwareMessageTest.java:
+  JNoseTool: Unknown Test: 3
+VelocityMailTemplateServiceTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 4
+AccessIntervalTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 1
+ProjectApplicationTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Lazy Test: 1
+ApplicationsAndBookmarkCleanerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 1
+FieldNormalizerTest.java:
+  JNoseTool: Assertion Roulette: 1
+ProjectLobNormalizerTest.java:
+  JNoseTool: Assertion Roulette: 2
+RootTermDistanceCalculatorTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 2
+UserDataLobNormalizerTest.java:
+  JNoseTool: Assertion Roulette: 2
+ProjectServiceTest.java:
+  JNoseTool: Assertion Roulette: 2
+ProjectUpdaterTest.java:
+  JNoseTool: Assertion Roulette: 6
+BaseProjectionFactoryTest.java:
+  JNoseTool: Assertion Roulette: 10
+ProjectionServiceTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Unknown Test: 2
+ProjectionTypeArgumentResolverTest.java:
+  JNoseTool: Assertion Roulette: 3
+FixedHourScheduledJobTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Unknown Test: 1
+ScheduledJobExecutorTest.java:
+  JNoseTool: Assertion Roulette: 10
+HibernateSearchServiceTest.java:
+  JNoseTool: Assertion Roulette: 6
+HibernateSimpleQueryUtilsTest.java:
+  JNoseTool: Assertion Roulette: 48
+  JNoseTool: Lazy Test: 8
+AuthenticationInfoRetrieverTest.java:
+  JNoseTool: Assertion Roulette: 2
+UserDataTest.java:
+  JNoseTool: Assertion Roulette: 1
+HierarchyTreeNodeTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 27
+  JNoseTool: Unknown Test: 6
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Redundant Assertion: 1
+UserTest.java:
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 12
+UserProjectionFactoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+DefaultUserAuthServiceTest.java:
+  JNoseTool: Assertion Roulette: 7
+ProjectBoardApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+JiraProjectReaderTest.java:
+  JNoseTool: Assertion Roulette: 2
+UserAccessExpressionEvaluatorTest.java:
+  JNoseTool: Assertion Roulette: 28
+FieldTruncationUtilsTest.java:
+  JNoseTool: Assertion Roulette: 12

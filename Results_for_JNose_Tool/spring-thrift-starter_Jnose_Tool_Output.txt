@@ -1,0 +1,5 @@
+TGreetingServiceHandlerTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Exception Catching Throwing: 2

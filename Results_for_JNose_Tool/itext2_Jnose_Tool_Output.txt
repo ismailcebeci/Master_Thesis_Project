@@ -1,0 +1,44 @@
+PdfVersionTest.java:
+  JNoseTool: Unknown Test: 1
+HyphenationTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+FactoryPropertiesTest.java:
+  JNoseTool: Assertion Roulette: 1
+WebColorsTest.java:
+  JNoseTool: Assertion Roulette: 47
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Constructor Initialization: 1
+AcroFieldsTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 1
+DocumentFontTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Mystery Guest: 1
+CMapTest.java:
+  JNoseTool: Unknown Test: 1
+PdfContentStreamProcessorTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: General Fixture: 1
+PdfTextExtractorTest.java:
+  JNoseTool: Assertion Roulette: 14
+PdfReaderTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: IgnoredTest: 1
+PdfRectangleTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 1
+PRAcroFormTest.java:
+  JNoseTool: Exception Catching Throwing: 1
+RtfCodePageTest.java:
+  JNoseTool: Assertion Roulette: 1
+RtfProtectionTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1

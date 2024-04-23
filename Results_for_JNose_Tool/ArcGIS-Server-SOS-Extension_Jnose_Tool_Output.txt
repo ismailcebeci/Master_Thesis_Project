@@ -1,0 +1,22 @@
+TimeConverterTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+PropertyUnitMappingCacheTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Mystery Guest: 1
+OutputTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Eager Test: 8
+  JNoseTool: Lazy Test: 2
+ProcedureTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 1
+GetFeatureOfInterestOperationHandlerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+GetObservationOperationHandlerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1

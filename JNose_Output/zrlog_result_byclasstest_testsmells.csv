@@ -1,0 +1,4 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+zrlog;TestTag;C:\Users\cebec\.jnose_projects\zrlog\web\src\test\java\com\zrlog\test\model\TestTag.java;C:\Users\cebec\.jnose_projects\zrlog\data\src\main\java\com\zrlog\model\Tag.java;JUnit4;13;1;Unknown Test;testUpdate;9-12;9-12
+zrlog;TestApplication;C:\Users\cebec\.jnose_projects\zrlog\web\src\test\java\com\zrlog\test\TestApplication.java;C:\Users\cebec\.jnose_projects\zrlog\web\src\main\java\com\zrlog\web\Application.java;JUnit4;40;3;Unknown Test;testPortCanBind;31-39;31-39
+zrlog;TestApplication;C:\Users\cebec\.jnose_projects\zrlog\web\src\test\java\com\zrlog\test\TestApplication.java;C:\Users\cebec\.jnose_projects\zrlog\web\src\main\java\com\zrlog\web\Application.java;JUnit4;40;3;Exception Catching Throwing;testPortCanBind;32-37;32-37

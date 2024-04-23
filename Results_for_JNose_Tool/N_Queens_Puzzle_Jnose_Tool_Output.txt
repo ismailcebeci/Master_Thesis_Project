@@ -1,0 +1,24 @@
+AlgebraicNotationTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 1
+BoardLogicTest.java:
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 3
+ClockTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 4
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 3
+LineElementTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Eager Test: 2

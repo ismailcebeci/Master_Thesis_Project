@@ -1,0 +1,16 @@
+FormatUtilTest.java:
+  JNoseTool: Unknown Test: 11
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Exception Catching Throwing: 2
+XmlCheckPluginTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Lazy Test: 6
+XmlFormatPluginTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Lazy Test: 6
+  JNoseTool: General Fixture: 2

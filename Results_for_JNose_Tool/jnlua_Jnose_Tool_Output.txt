@@ -1,0 +1,22 @@
+JavaFunctionTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+JavaModuleTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1
+LuaConsoleTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Eager Test: 1
+LuaExceptionTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Exception Catching Throwing: 5
+LuaScriptEngineTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Assertion Roulette: 31
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 8

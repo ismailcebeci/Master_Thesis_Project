@@ -1,0 +1,62 @@
+PrefixNSServiceTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 1
+RdfResultsWriterFactoryTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 1
+LOVEndpointTest.java:
+  JNoseTool: IgnoredTest: 1
+AbstractTestSourceTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: General Fixture: 2
+DatasetStatisticsAllIrisTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+DatasetStatisticsClassesCountTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+DatasetStatisticsClassesTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+DatasetStatisticsPropertiesCountTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+DatasetStatisticsPropertiesTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+NamespaceStatisticsTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: General Fixture: 1
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+TestGeneratorFactoryTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: General Fixture: 1
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+QueryGenerationFactoryTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+RDFUnitUtilsTest.java:
+  JNoseTool: Assertion Roulette: 2
+RDFUnitStaticValidatorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 2
+FormatServiceTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 17
+RdfFirstSuccessReaderTest.java:
+  JNoseTool: Exception Catching Throwing: 3
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 4
+  JNoseTool: Duplicate Assert: 2

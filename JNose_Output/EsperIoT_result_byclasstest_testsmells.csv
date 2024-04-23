@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+EsperIoT;CepManagerApplicationTests;C:\Users\cebec\.jnose_projects\EsperIoT\src\test\java\org\esperiot\CepManagerApplicationTests.java;C:\Users\cebec\.jnose_projects\EsperIoT\src\main\java\org\esperiot\CepManagerApplication.java;JUnit4;16;1;EmptyTest;contextLoads;Ara.14;Ara.14

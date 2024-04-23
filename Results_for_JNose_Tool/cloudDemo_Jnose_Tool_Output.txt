@@ -1,0 +1,8 @@
+EurekaApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+FeignApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+RibbonApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+RibbonConsumerApplicationTests.java:
+  JNoseTool: EmptyTest: 1

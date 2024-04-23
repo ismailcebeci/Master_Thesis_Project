@@ -1,0 +1,129 @@
+DFSConfigWithStorageCredsTest.java:
+  JNoseTool: Assertion Roulette: 7
+BucketAccessServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 2
+DefaultDFSConfigTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 1
+StorageKeyStoreOperationsImplTest.java:
+  JNoseTool: Unknown Test: 1
+ProfileStorageCredentialsServiceImplTest.java:
+  JNoseTool: Unknown Test: 2
+ProfileStoreServiceTest.java:
+  JNoseTool: Unknown Test: 2
+ProfileUpdatingServiceImplTest.java:
+  JNoseTool: Unknown Test: 3
+CmsEncryptionServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: General Fixture: 1
+  JNoseTool: Mystery Guest: 1
+KeyStoreAuthTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 1
+KeyStoreServiceTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Magic Number Test: 3
+IntegrityPreservingUriEncryptionTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: IgnoredTest: 4
+ListInboxImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+ReadFromInboxImplTest.java:
+  JNoseTool: Assertion Roulette: 2
+RemoveFromInboxImplTest.java:
+  JNoseTool: Unknown Test: 1
+WriteToInboxImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+DefaultVersionEncoderDecoderTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 1
+EncryptedResourceResolverImplTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Conditional Test Logic: 2
+ListPrivateImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+ReadFromPrivateImplTest.java:
+  JNoseTool: Assertion Roulette: 2
+WriteToPrivateImplTest.java:
+  JNoseTool: Assertion Roulette: 3
+DatasafeConfigTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: IgnoredTest: 1
+AuthenticateControllerTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 4
+DocumentControllerTest.java:
+  JNoseTool: Unknown Test: 4
+InboxControllerTest.java:
+  JNoseTool: Unknown Test: 4
+UserControllerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 10
+VersionControllerTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Verbose Test: 2
+DocumentDirectoryFQNTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 4
+DocumentFQNTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 3
+DFSCredentialsFactoryTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Sensitive Equality: 1
+SchemeDelegatingStorageTest.java:
+  JNoseTool: Unknown Test: 5
+DatabaseStorageServiceTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Exception Catching Throwing: 4
+DefaultDbUriExtractorTest.java:
+  JNoseTool: Assertion Roulette: 1
+FileSystemStorageServiceTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Exception Catching Throwing: 13
+MultipartUploadS3StorageOutputStreamTest.java:
+  JNoseTool: Assertion Roulette: 22
+UriTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+UriEncoderDecoderTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 2
+VersionedPrivateResourceTest.java:
+  JNoseTool: Assertion Roulette: 8
+ReadKeyPasswordTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Lazy Test: 3
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Eager Test: 3
+BaseResolvedResourceTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: IgnoredTest: 1
+CustomizableByteArrayOutputStreamTest.java:
+  JNoseTool: Assertion Roulette: 29
+  JNoseTool: Duplicate Assert: 9
+ObfuscateTest.java:
+  JNoseTool: Assertion Roulette: 27
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Sensitive Equality: 9

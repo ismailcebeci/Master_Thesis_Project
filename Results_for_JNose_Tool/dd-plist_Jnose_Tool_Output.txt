@@ -1,0 +1,15 @@
+NSNumberTest.java:
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Eager Test: 24
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Exception Catching Throwing: 3
+NSSetTests.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 2
+NSStringTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 23
+  JNoseTool: Assertion Roulette: 75
+  JNoseTool: Magic Number Test: 22

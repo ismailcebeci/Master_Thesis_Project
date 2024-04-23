@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+WeatherDataCollector;MuensterwetterRealTimeCollectorTest;C:\Users\cebec\.jnose_projects\WeatherDataCollector\src\test\java\org\n52\sensorweb\wdc\ms\MuensterwetterRealTimeCollectorTest.java;C:\Users\cebec\.jnose_projects\WeatherDataCollector\src\main\java\org\n52\sensorweb\wdc\ms\MuensterwetterRealTimeCollector.java;JUnit4;43;1;Unknown Test;shouldNotThrowAnyExceptionIfTryingToConnectToNotExistingService;32-41;32-41

@@ -1,0 +1,64 @@
+HolidayTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Print Statement: 12
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 2
+LunarTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 5
+  JNoseTool: Eager Test: 54
+  JNoseTool: Lazy Test: 12
+  JNoseTool: Assertion Roulette: 108
+  JNoseTool: Sensitive Equality: 67
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Magic Number Test: 10
+SolarTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 5
+  JNoseTool: Eager Test: 24
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Assertion Roulette: 37
+  JNoseTool: Sensitive Equality: 14
+  JNoseTool: Magic Number Test: 5
+FotoTest.java:
+  JNoseTool: Eager Test: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 7
+FuTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Sensitive Equality: 12
+JieQiTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Assertion Roulette: 62
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 12
+LunarMonthTest.java:
+  JNoseTool: Eager Test: 7
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Magic Number Test: 6
+NineStarTest.java:
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Sensitive Equality: 13
+ShuJiuTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Sensitive Equality: 6
+SolarWeekTest.java:
+  JNoseTool: Eager Test: 12
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 12
+TaoTest.java:
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Duplicate Assert: 1
+YunTest.java:
+  JNoseTool: Print Statement: 6
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Magic Number Test: 12

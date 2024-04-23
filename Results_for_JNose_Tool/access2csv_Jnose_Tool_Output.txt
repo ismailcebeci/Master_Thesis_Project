@@ -1,0 +1,6 @@
+DriverTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: IgnoredTest: 4
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 1

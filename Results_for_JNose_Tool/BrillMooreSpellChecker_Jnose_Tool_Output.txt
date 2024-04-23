@@ -1,0 +1,21 @@
+TrieTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 8
+AlignmentTest.java:
+  JNoseTool: Assertion Roulette: 3
+AlignmentUtilsTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Assertion Roulette: 11
+LevenshteinAlignerTest.java:
+  JNoseTool: Magic Number Test: 17
+  JNoseTool: Assertion Roulette: 17
+ErrorModelTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 1
+SpellCheckerTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Eager Test: 2
+  JNoseTool: Lazy Test: 2

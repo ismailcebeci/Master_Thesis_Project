@@ -1,0 +1,14 @@
+SampleApplicationTests.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: EmptyTest: 1
+ProcessLauncherStateTests.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 3
+ApplicationTests.java:
+  JNoseTool: Unknown Test: 3
+TypeSystemTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Print Statement: 1

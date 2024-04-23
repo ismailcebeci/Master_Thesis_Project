@@ -1,0 +1,22 @@
+DialogsDataSourceTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Conditional Test Logic: 1
+DialogRewriteUtilsTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Lazy Test: 1
+DialogConversionServletTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Sensitive Equality: 1
+NodeBasedRewriteRuleTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Eager Test: 16
+  JNoseTool: Assertion Roulette: 36
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Sensitive Equality: 1

@@ -1,0 +1,4 @@
+EncodingEnumTest.java:
+  JNoseTool: Lazy Test: 1
+TLVTransformatorTest.java:
+  JNoseTool: Assertion Roulette: 3

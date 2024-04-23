@@ -1,0 +1,3 @@
+TestLRS.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Constructor Initialization: 1

@@ -1,0 +1,11 @@
+DeptTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+DictTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 3
+MenuTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 5

@@ -1,0 +1,19 @@
+TestBootstrap.java:
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Exception Catching Throwing: 2
+TestConfigurationAwareModule.java:
+  JNoseTool: Assertion Roulette: 5
+TestLifeCycleManager.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 32
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Magic Number Test: 3
+TestAsyncSemaphore.java:
+  JNoseTool: Duplicate Assert: 8
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Magic Number Test: 13
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Verbose Test: 3

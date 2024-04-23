@@ -1,0 +1,4 @@
+EncryptionTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Conditional Test Logic: 3

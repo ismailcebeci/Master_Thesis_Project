@@ -1,0 +1,13 @@
+ConstantsTest.java:
+  JNoseTool: Conditional Test Logic: 4
+GameManagerTest.java:
+  JNoseTool: Magic Number Test: 9
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: General Fixture: 2
+GameTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: General Fixture: 1
+ChatFilterTest.java:
+  JNoseTool: Assertion Roulette: 4

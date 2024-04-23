@@ -1,0 +1,2 @@
+PicuangApplicationTests.java:
+  JNoseTool: EmptyTest: 1

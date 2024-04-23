@@ -1,0 +1,35 @@
+ComponentRewriteRuleServiceImplTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 2
+ComponentTreeRewriterTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 3
+ComponentJobExecutorTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+ColumnControlRewriteRuleTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Assertion Roulette: 20
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 8
+ListPageVisitorTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 1
+RewriteUtilsTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Duplicate Assert: 4
+AbstractConversionJobExecutorTest.java:
+  JNoseTool: Assertion Roulette: 5
+ConversionJobBucketDataSourceTest.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 3
+ConversionJobDataSourceTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 4

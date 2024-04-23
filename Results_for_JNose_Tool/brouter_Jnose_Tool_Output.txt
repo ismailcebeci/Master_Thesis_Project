@@ -1,0 +1,74 @@
+LinkedListContainerTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 6
+StatCoderContextTest.java:
+  JNoseTool: Eager Test: 4
+  JNoseTool: Conditional Test Logic: 18
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+OsmNodeNamedTest.java:
+  JNoseTool: Magic Number Test: 13
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+OsmNogoPolygonTest.java:
+  JNoseTool: Magic Number Test: 27
+  JNoseTool: Conditional Test Logic: 7
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: General Fixture: 2
+RoutingEngineTest.java:
+  JNoseTool: General Fixture: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 2
+IntegrityCheckProfileTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+BRouterActivityTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 3
+CoordinateReaderTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Eager Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 2
+  JNoseTool: Exception Catching Throwing: 2
+DownloadWorkerTest.java:
+  JNoseTool: Assertion Roulette: 3
+RequestHandlerTest.java:
+  JNoseTool: IgnoredTest: 1
+RouteServerTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 25
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Sensitive Equality: 2
+BitCoderContextTest.java:
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 9
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 2
+CheapAngleMeterTest.java:
+  JNoseTool: Magic Number Test: 35
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 6
+  JNoseTool: Assertion Roulette: 27
+DenseLongMapTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Unknown Test: 1
+ReducedMedianFilterTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Eager Test: 1
+SortedHeapTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Conditional Test Logic: 6
+StringUtilsTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Assertion Roulette: 2

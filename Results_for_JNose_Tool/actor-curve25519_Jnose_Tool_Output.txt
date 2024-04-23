@@ -1,0 +1,3 @@
+TestMD5.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 2

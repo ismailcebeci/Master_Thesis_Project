@@ -1,0 +1,25 @@
+JsonMessageMarshallerTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 14
+SnsInboundChannelAdapterParserTests.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: General Fixture: 3
+SnsOutboundGatewayParserTests.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: General Fixture: 2
+  JNoseTool: Magic Number Test: 1
+SqsChannelParserTests.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: General Fixture: 1
+SqsInboundChannelAdapterParserTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: General Fixture: 2
+  JNoseTool: Unknown Test: 1
+SqsOutboundGatewayParserTests.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: General Fixture: 2
+  JNoseTool: Magic Number Test: 1

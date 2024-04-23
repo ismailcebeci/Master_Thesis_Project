@@ -1,0 +1,2 @@
+SimpleRestApisApplicationTests.java:
+  JNoseTool: EmptyTest: 1

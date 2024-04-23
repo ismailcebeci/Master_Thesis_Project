@@ -1,0 +1,2 @@
+ServerApplicationTests.java:
+  JNoseTool: EmptyTest: 1

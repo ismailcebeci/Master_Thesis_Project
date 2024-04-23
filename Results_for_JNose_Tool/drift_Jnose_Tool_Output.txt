@@ -1,0 +1,15 @@
+TestDriftMethodInvocation.java:
+  JNoseTool: IgnoredTest: 12
+  JNoseTool: Magic Number Test: 15
+  JNoseTool: Verbose Test: 8
+  JNoseTool: Assertion Roulette: 25
+  JNoseTool: Conditional Test Logic: 11
+  JNoseTool: Exception Catching Throwing: 12
+TestRetryPolicy.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Eager Test: 1
+TestThriftCodecModule.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1

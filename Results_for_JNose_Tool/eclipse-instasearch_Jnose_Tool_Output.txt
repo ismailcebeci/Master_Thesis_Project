@@ -1,0 +1,6 @@
+SearcherTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 10

@@ -1,0 +1,6 @@
+DnsSecTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Print Statement: 12

@@ -1,0 +1,3 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+audiencemanager-api-sample-app;ApplicationTest;C:\Users\cebec\.jnose_projects\audiencemanager-api-sample-app\test\ApplicationTest.java;C:\Users\cebec\.jnose_projects\audiencemanager-api-sample-app\app\controllers\Application.java;JUnit4;41;2;Assertion Roulette;simpleCheck;33-33;33-33
+audiencemanager-api-sample-app;ApplicationTest;C:\Users\cebec\.jnose_projects\audiencemanager-api-sample-app\test\ApplicationTest.java;C:\Users\cebec\.jnose_projects\audiencemanager-api-sample-app\app\controllers\Application.java;JUnit4;41;2;EmptyTest;renderTemplate;36-38;36-38

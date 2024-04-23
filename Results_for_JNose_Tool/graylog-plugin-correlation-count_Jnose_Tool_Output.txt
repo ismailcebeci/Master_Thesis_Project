@@ -1,0 +1,6 @@
+CorrelationCountCheckTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+CorrelationCountProcessorTest.java:
+  JNoseTool: Verbose Test: 1

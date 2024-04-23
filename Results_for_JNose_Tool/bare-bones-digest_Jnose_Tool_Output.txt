@@ -1,0 +1,4 @@
+DigestAuthenticationTest.java:
+  JNoseTool: Lazy Test: 15
+  JNoseTool: Eager Test: 66
+  JNoseTool: Assertion Roulette: 19

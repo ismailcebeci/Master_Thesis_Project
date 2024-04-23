@@ -1,0 +1,12 @@
+IdentifierEncodingTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 1
+IndexTest.java:
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 12
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 7
+  JNoseTool: Conditional Test Logic: 19
+  JNoseTool: Exception Catching Throwing: 12

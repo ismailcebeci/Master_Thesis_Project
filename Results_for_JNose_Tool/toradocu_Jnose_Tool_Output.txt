@@ -1,0 +1,11 @@
+CommentTest.java:
+  JNoseTool: Magic Number Test: 14
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 24
+JavadocExtractorTest.java:
+  JNoseTool: Magic Number Test: 11
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Assertion Roulette: 43
+  JNoseTool: Sensitive Equality: 1

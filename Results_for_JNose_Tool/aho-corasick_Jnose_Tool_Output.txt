@@ -1,0 +1,8 @@
+TestAhoCorasick.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 46
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 5
+  JNoseTool: Assertion Roulette: 102
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Exception Catching Throwing: 1

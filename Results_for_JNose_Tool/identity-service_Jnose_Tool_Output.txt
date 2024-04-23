@@ -1,0 +1,8 @@
+AdminControllerTests.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 7
+CompanySettingsControllerTests.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Unknown Test: 5
+  JNoseTool: IgnoredTest: 1

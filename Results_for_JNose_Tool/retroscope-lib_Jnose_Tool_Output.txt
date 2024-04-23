@@ -1,0 +1,54 @@
+RQLStructTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 4
+  JNoseTool: Assertion Roulette: 14
+DataParserTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 2
+RQLDataTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Print Statement: 1
+HLCTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Assertion Roulette: 22
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Print Statement: 4
+  JNoseTool: Sleepy Test: 7
+  JNoseTool: Duplicate Assert: 5
+  JNoseTool: General Fixture: 1
+TimestampTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Lazy Test: 7
+  JNoseTool: Eager Test: 7
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: General Fixture: 1
+ScanningEnvironmentTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Print Statement: 3
+DistributedQueryRunnerTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Print Statement: 5
+  JNoseTool: General Fixture: 1
+LocalQueryRunnerTest.java:
+  JNoseTool: Magic Number Test: 15
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 15
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Print Statement: 18

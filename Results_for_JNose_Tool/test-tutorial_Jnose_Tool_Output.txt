@@ -1,0 +1,2 @@
+BonusPointCalculatorTest.java:
+  JNoseTool: Assertion Roulette: 11

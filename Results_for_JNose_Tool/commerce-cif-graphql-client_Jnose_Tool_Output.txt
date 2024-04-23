@@ -1,0 +1,23 @@
+GraphqlRequestTest.java:
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Eager Test: 4
+  JNoseTool: Assertion Roulette: 12
+CacheKeyTest.java:
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 4
+  JNoseTool: Assertion Roulette: 12
+GraphqlClientAdapterFactoryTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Duplicate Assert: 1
+GraphqlClientConfigurationImplTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Duplicate Assert: 2
+RequestOptionsTest.java:
+  JNoseTool: Redundant Assertion: 2
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 10
+  JNoseTool: Assertion Roulette: 28

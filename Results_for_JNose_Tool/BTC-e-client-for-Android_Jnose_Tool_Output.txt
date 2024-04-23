@@ -1,0 +1,9 @@
+ApiTest.java:
+  JNoseTool: Magic Number Test: 24
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Assertion Roulette: 127
+  JNoseTool: General Fixture: 1
+PairUtilsTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Assertion Roulette: 13

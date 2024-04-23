@@ -1,0 +1,32 @@
+AgreementsApiTest.java:
+  JNoseTool: Unknown Test: 38
+  JNoseTool: IgnoredTest: 38
+BaseUrisApiTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+GroupsApiTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: IgnoredTest: 3
+LibraryDocumentsApiTest.java:
+  JNoseTool: Unknown Test: 16
+  JNoseTool: IgnoredTest: 16
+MegaSignsApiTest.java:
+  JNoseTool: Unknown Test: 10
+  JNoseTool: IgnoredTest: 10
+TransientDocumentsApiTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+UsersApiTest.java:
+  JNoseTool: Unknown Test: 7
+  JNoseTool: IgnoredTest: 7
+WebhooksApiTest.java:
+  JNoseTool: Unknown Test: 6
+  JNoseTool: IgnoredTest: 6
+WidgetsApiTest.java:
+  JNoseTool: Unknown Test: 22
+  JNoseTool: IgnoredTest: 22
+WorkflowsApiTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1

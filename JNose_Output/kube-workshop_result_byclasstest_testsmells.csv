@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+kube-workshop;ChuckNorrisApplicationTests;C:\Users\cebec\.jnose_projects\kube-workshop\lab-01\chucknorris\src\test\java\com\github\akranga\ChuckNorrisApplicationTests.java;C:\Users\cebec\.jnose_projects\kube-workshop\lab-01\chucknorris\src\main\java\com\github\akranga\ChuckNorrisApplication.java;JUnit4;16;1;EmptyTest;contextLoads;Ara.14;Ara.14

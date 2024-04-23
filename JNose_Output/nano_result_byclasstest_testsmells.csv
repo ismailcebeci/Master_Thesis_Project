@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+nano;ContextsTest;C:\Users\cebec\.jnose_projects\nano\nano\src\test\java\com\airhacks\nano\ContextsTest.java;C:\Users\cebec\.jnose_projects\nano\nano\src\main\java\com\airhacks\nano\Contexts.java;JUnit4;24;1;Assertion Roulette;extractContext;21-21;21-21

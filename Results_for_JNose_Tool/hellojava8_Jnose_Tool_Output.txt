@@ -1,0 +1,4 @@
+TailTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 8

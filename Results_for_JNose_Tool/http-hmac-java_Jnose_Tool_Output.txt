@@ -1,0 +1,24 @@
+HMACFilterTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 1
+HMACHttpRequestInterceptorTest.java:
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 3
+HMACHttpResponseInterceptorTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Mystery Guest: 1
+HMACHttpServletTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 1

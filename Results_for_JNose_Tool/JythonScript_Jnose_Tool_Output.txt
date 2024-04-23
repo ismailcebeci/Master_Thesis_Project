@@ -1,0 +1,31 @@
+JythonResultNotFoundExceptionTest.java:
+  JNoseTool: IgnoredTest: 6
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+JythonScriptExceptionTest.java:
+  JNoseTool: IgnoredTest: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+JythonScriptNotFoundExceptionTest.java:
+  JNoseTool: IgnoredTest: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+JythonScriptTest.java:
+  JNoseTool: IgnoredTest: 67
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Assertion Roulette: 54
+  JNoseTool: Unknown Test: 6
+  JNoseTool: Resource Optimism: 15
+  JNoseTool: Magic Number Test: 34
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Mystery Guest: 4
+FileUtilsTest.java:
+  JNoseTool: IgnoredTest: 12
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Resource Optimism: 5
+  JNoseTool: Mystery Guest: 2
+StringUtilsTest.java:
+  JNoseTool: IgnoredTest: 9
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 19

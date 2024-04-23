@@ -1,0 +1,33 @@
+BSLCoreSensorTest.java:
+  JNoseTool: IgnoredTest: 6
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 15
+BSLHighlighterTest.java:
+  JNoseTool: IgnoredTest: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Unknown Test: 4
+BSLPluginTest.java:
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Assertion Roulette: 3
+ExternalReportersTest.java:
+  JNoseTool: Assertion Roulette: 1
+IssuesLoaderTest.java:
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 11
+BSLLanguageServerRuleDefinitionTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+BSLLanguageTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Assertion Roulette: 3
+LanguageServerDiagnosticsLoaderSensorTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2

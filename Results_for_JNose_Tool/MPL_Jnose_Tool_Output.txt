@@ -1,0 +1,33 @@
+Coordinate3DTest.java:
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 11
+  JNoseTool: Assertion Roulette: 20
+TargetSelectorTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 56
+MplValueTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Exception Catching Throwing: 1
+LocalVariableScopeTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 8
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Exception Catching Throwing: 2
+MplUtilsTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 8
+MplChainPlacerTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Exception Catching Throwing: 1
+MplDebugProgramPlacerTest.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 4
+MplProgramPlacerTest.java:
+  JNoseTool: Assertion Roulette: 2
+MinecraftVersionTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4

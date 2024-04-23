@@ -1,0 +1,7 @@
+ConfigMemorySizeTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 4
+MemorySizeUnitTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 3

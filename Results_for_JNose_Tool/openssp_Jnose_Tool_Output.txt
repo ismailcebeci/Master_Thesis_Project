@@ -1,0 +1,6 @@
+BidRequestBuilderTest.java:
+  JNoseTool: Magic Number Test: 17
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 28
+  JNoseTool: EmptyTest: 1
+  JNoseTool: General Fixture: 2

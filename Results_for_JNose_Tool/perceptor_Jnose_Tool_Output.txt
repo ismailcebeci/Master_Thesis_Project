@@ -1,0 +1,5 @@
+InvocationMonitoringTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 9
+InvocationStatisticsTest.java:
+  JNoseTool: Assertion Roulette: 6

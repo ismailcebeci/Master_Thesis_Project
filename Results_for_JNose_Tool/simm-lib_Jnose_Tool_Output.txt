@@ -1,0 +1,9 @@
+ScheduleTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 10
+AddOnSubTypeTest.java:
+  JNoseTool: Assertion Roulette: 1
+RiskClassTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 13

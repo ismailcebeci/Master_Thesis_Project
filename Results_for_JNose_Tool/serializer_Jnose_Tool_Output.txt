@@ -1,0 +1,15 @@
+GsonSerializationStrategyFactoryTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+GsonSerializationStrategyTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Magic Number Test: 2
+MoshiSerializationStrategyFactoryTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+MoshiSerializationStrategyTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Magic Number Test: 2
+SerializerTest.java:
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Magic Number Test: 4

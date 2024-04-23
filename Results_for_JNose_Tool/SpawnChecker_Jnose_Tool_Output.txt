@@ -1,0 +1,6 @@
+ScanRangeTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+ColorTest.java:
+  JNoseTool: Magic Number Test: 34

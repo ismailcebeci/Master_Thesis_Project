@@ -1,0 +1,118 @@
+AnalyzerTest.java:
+  JNoseTool: Unknown Test: 21
+LocationResolverTest.java:
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Exception Catching Throwing: 4
+PMDNatureTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 2
+RuleSetsCacheTest.java:
+  JNoseTool: Lazy Test: 2
+WorkspaceModelTest.java:
+  JNoseTool: Lazy Test: 5
+MarkerUtilTest.java:
+  JNoseTool: Unknown Test: 2
+WrappingPMDMarkerTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 7
+PMDPropertyPageControllerTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+ProjectModelSerializerTest.java:
+  JNoseTool: Magic Number Test: 2
+AddRuleSetConfigurationModelTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 1
+ASTQuickFixTestCase.java:
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Constructor Initialization: 1
+DefaultLabelNotLastInSwitchStmtQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+MethodReturnsInternalArrayQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+UseCollectionIsEmptyQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+UseVarargsQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+ExtendsObjectQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+LocalVariableCouldBeFinalQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+MethodArgumentCouldBeFinalQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+UnnecessaryReturnQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+SingularFieldQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+UselessOverridingMethodQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+UseUtilityClassQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptyFinallyBlockQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptyIfStmtQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptyInitializerQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptyStatementBlockQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptyStatementNotInLoopQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptyStaticInitializerQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptySwitchStatementsQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptySynchronizedBlockQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptyTryBlockQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EmptyWhileStmtQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+EqualsNullQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+SuspiciousHashcodeMethodNameQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+JavaQuickFixGeneratorTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Constructor Initialization: 1
+UseNotifyAllInsteadOfNotifyQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+AddEmptyStringQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+AppendCharacterWithCharQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+ByteInstantiationAutoboxingQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+ByteInstantiationValueOfQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+IntegerInstantiationAutoboxingQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+IntegerInstantiationValueOfQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+LongInstantiationAutoboxingQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+LongInstantiationValueOfQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+RedundantFieldInitializerQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+ShortInstantiationAutoboxingQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+ShortInstantiationValueOfQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+SimplifyStartsWithQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+StringToStringQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+UnnecessaryCaseChangeQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+UseIndexOfCharQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+SuppressWarningsQuickFixTest.java:
+  JNoseTool: Constructor Initialization: 1
+ProjectPropertyTesterTest.java:
+  JNoseTool: Lazy Test: 1

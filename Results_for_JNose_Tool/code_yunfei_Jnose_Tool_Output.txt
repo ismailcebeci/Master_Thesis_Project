@@ -1,0 +1,52 @@
+Ch10ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch10dockerApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch10warApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch104ApplicationTests.java:
+  JNoseTool: Magic Number Test: 1
+DemoApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch123ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch522ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch523ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch623ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch64ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch65ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch72ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch74ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch76ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch77ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch82ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch83ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch84ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch85ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch861ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch862ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch91ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch92ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch934ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch935ApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+Ch94ApplicationTests.java:
+  JNoseTool: EmptyTest: 1

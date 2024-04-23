@@ -1,0 +1,12 @@
+MetricTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 2
+EnvironmentVariablesTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Print Statement: 1
+ExtractorTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Print Statement: 1

@@ -1,0 +1,80 @@
+OptionTest.java:
+  JNoseTool: Unknown Test: 1
+BarTest1.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+BarTest12.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+BarTest14.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+BarTest4.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+FunnelTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+FunnelTest2.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+GaugeTest1.java:
+  JNoseTool: Unknown Test: 1
+HeatmapTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 1
+LineTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+LineTest3.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+LineTest5.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+LineTest6.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+LineTest9.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+MapTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+PieTest6.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+PieTest7.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 1
+RadarTest1.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Print Statement: 1
+ScatterTest2.java:
+  JNoseTool: Unknown Test: 1
+ScatterTest3.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 4
+ScatterTest6.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: IgnoredTest: 1
+TreemapTest1.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1

@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+e-adr;YStatementAnnotationDemoClassReflectionTest;C:\Users\cebec\.jnose_projects\e-adr\io.github.adr.embedded.demo\src\test\java\io\github\adr\embedded\demo\YStatementAnnotationDemoClassReflectionTest.java;C:\Users\cebec\.jnose_projects\e-adr\io.github.adr.embedded.demo\src\main\java\io\github\adr\embedded\demo\YStatementAnnotationDemoClassReflection.java;JUnit4;11;1;Unknown Test;executesWithoutException;7-10;7-10

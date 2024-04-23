@@ -1,0 +1,135 @@
+UtilsTest.java:
+  JNoseTool: Unknown Test: 1
+AutoInsuranceActionTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+AutoInsuranceProcessorTests.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Constructor Initialization: 1
+PersistenceLayerTests.java:
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 1
+PasswordResultTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+RegistrationResultTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Lazy Test: 1
+UserTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+LoginServletTests.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 1
+LoginUtilsTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: General Fixture: 1
+RegisterServletTests.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 1
+RegistrationUtilsTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Lazy Test: 1
+  JNoseTool: IgnoredTest: 1
+CheckUtilsTests.java:
+  JNoseTool: Lazy Test: 1
+DateUtilsTests.java:
+  JNoseTool: IgnoredTest: 2
+StringUtilsTests.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 2
+BookTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+BorrowerTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 3
+LoanTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+LibraryBookListAvailableServletTests.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 1
+LibraryBookListSearchServletTests.java:
+  JNoseTool: Unknown Test: 9
+  JNoseTool: Lazy Test: 1
+LibraryBorrowerListSearchServletTests.java:
+  JNoseTool: Unknown Test: 11
+  JNoseTool: Lazy Test: 1
+LibraryLendServletTests.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+LibraryRegisterBookServletTests.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Lazy Test: 1
+LibraryRegisterBorrowerServletTests.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Lazy Test: 1
+LibraryUtilsTests.java:
+  JNoseTool: Unknown Test: 9
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: General Fixture: 1
+AckServletTests.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 1
+CalculatorTests.java:
+  JNoseTool: IgnoredTest: 6
+FibonacciTests.java:
+  JNoseTool: Assertion Roulette: 6
+FibServletTests.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Lazy Test: 1
+MathServletTests.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Lazy Test: 1
+DbServletTests.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Lazy Test: 1
+ParameterObjectTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 1
+SqlDataTests.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: General Fixture: 1
+WebAppListenerTests.java:
+  JNoseTool: Unknown Test: 2
+TestEmployee.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Exception Catching Throwing: 1
+SimpleExampleApiApplicationTests.java:
+  JNoseTool: EmptyTest: 2
+WgClientSimpleApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+WgServerSimpleApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+WgUpdateSimpleApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+GolferTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 3

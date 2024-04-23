@@ -1,0 +1,19 @@
+ScoopSettingsActivityTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 4
+DefaultColorAdapterTest.java:
+  JNoseTool: Assertion Roulette: 3
+TextViewColorAdapterTest.java:
+  JNoseTool: Assertion Roulette: 2
+ViewGroupColorAdapterTest.java:
+  JNoseTool: Assertion Roulette: 3
+FlavorTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 5
+  JNoseTool: General Fixture: 1
+ScoopTest.java:
+  JNoseTool: Assertion Roulette: 4
+ToppingTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Eager Test: 1

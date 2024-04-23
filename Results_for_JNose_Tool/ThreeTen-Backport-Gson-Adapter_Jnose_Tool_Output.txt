@@ -1,0 +1,14 @@
+InstantConverterTest.java:
+  JNoseTool: Assertion Roulette: 2
+LocalDateConverterTest.java:
+  JNoseTool: Assertion Roulette: 2
+LocalDateTimeConverterTest.java:
+  JNoseTool: Assertion Roulette: 2
+LocalTimeConverterTest.java:
+  JNoseTool: Assertion Roulette: 2
+OffsetDateTimeConverterTest.java:
+  JNoseTool: Assertion Roulette: 2
+OffsetTimeConverterTest.java:
+  JNoseTool: Assertion Roulette: 2
+ZonedDateTimeConverterTest.java:
+  JNoseTool: Assertion Roulette: 2

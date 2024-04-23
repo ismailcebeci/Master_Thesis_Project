@@ -1,0 +1,4 @@
+ExpandableSavedStateTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 2

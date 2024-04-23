@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+dt-example-plugins;ExampleValidatorTest;C:\Users\cebec\.jnose_projects\dt-example-plugins\tests\org.example.itests\src\org\example\itests\ExampleValidatorTest.java;C:\Users\cebec\.jnose_projects\dt-example-plugins\bundles\org.example\src\org\example\ExampleValidator.java;JUnit4;96;4;Unknown Test;testMethodStartsWithCapitalLetterWarning;40-45;40-45

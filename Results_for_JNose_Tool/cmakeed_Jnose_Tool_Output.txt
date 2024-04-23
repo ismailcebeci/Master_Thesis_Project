@@ -1,0 +1,38 @@
+CMakeCommandsTest.java:
+  JNoseTool: IgnoredTest: 2
+CMakeCommandTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 4
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Exception Catching Throwing: 5
+ClassUtilsTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Constructor Initialization: 1
+StringUtilsTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Constructor Initialization: 1
+CMakeNameDetectorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 20
+  JNoseTool: Constructor Initialization: 1
+CMakeScannerMgrTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Conditional Test Logic: 1
+ColorMgrTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Constructor Initialization: 1
+MessagesTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Exception Catching Throwing: 1

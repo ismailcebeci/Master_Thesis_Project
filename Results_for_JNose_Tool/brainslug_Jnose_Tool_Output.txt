@@ -1,0 +1,81 @@
+BpmnModelExporterTest.java:
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 9
+  JNoseTool: Assertion Roulette: 68
+  JNoseTool: Print Statement: 1
+BpmnModelImporterTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Print Statement: 1
+BrainslugContextBuilderTest.java:
+  JNoseTool: Assertion Roulette: 7
+DefaultBrainslugContextTest.java:
+  JNoseTool: Unknown Test: 1
+AsyncTriggerExecutorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 2
+ExecutorServiceAsyncTriggerSchedulerTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Unknown Test: 1
+ExecutorServiceFlowStartSchedulerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1
+CallDefinitionExecutorTest.java:
+  JNoseTool: Assertion Roulette: 4
+DefaultExpressionEvaluatorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+HashMapInstanceStoreTest.java:
+  JNoseTool: Assertion Roulette: 5
+EventNodeExecutorTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Unknown Test: 2
+FlowNodeExecutionResultTest.java:
+  JNoseTool: Assertion Roulette: 1
+ScriptExecutorTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 2
+ExecutionPropertiesTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Eager Test: 1
+ChoiceNodeExecutorTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 6
+TaskNodeExecutorTest.java:
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 7
+TokenFlowExecutorTest.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 7
+TriggerTest.java:
+  JNoseTool: Assertion Roulette: 1
+DatabaseTest.java:
+  JNoseTool: Unknown Test: 1
+JuelExpressionEvaluatorTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+FlowPathDefinitionTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Sensitive Equality: 1
+IdUtilTest.java:
+  JNoseTool: Assertion Roulette: 1
+QuartzSchedulerTest.java:
+  JNoseTool: Unknown Test: 2
+JGraphBpmnRendererTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Unknown Test: 9
+  JNoseTool: Eager Test: 2
+  JNoseTool: Mystery Guest: 3
+SpringBrainslugContextTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 2

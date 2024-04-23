@@ -1,0 +1,6 @@
+WgClientSimpleApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+WgServerSimpleApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+WgUpdateSimpleApplicationTests.java:
+  JNoseTool: EmptyTest: 1

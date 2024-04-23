@@ -1,0 +1,2 @@
+VoterApplicationTests.java:
+  JNoseTool: EmptyTest: 1

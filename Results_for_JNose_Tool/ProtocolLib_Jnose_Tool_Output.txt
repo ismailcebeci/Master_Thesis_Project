@@ -1,0 +1,144 @@
+BlockingHashMapTest.java:
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: Assertion Roulette: 1
+PacketContainerTest.java:
+  JNoseTool: Assertion Roulette: 85
+  JNoseTool: Unknown Test: 10
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Magic Number Test: 36
+  JNoseTool: Verbose Test: 6
+  JNoseTool: Lazy Test: 11
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Eager Test: 42
+  JNoseTool: Conditional Test Logic: 31
+  JNoseTool: Exception Catching Throwing: 2
+SerializedOfflinePlayerTest.java:
+  JNoseTool: Assertion Roulette: 10
+EntityUtilitiesTest.java:
+  JNoseTool: Unknown Test: 1
+PluginVerifierTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: IgnoredTest: 1
+SortedCopyOnWriteArrayTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Conditional Test Logic: 3
+TemporaryPlayerFactoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Redundant Assertion: 1
+WirePacketTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 1
+MinecraftVersionTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+PacketTypeTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Exception Catching Throwing: 2
+AccessorsTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 3
+AggregateClonerTest.java:
+  JNoseTool: Assertion Roulette: 3
+UpdaterTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 2
+CachedPackageTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Duplicate Assert: 2
+MinecraftMethodsTest.java:
+  JNoseTool: Assertion Roulette: 3
+MinecraftReflectionTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Lazy Test: 3
+SnapshotVersionTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+StreamSerializerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 2
+AutoWrapperTest.java:
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Magic Number Test: 4
+BukkitConvertersTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Conditional Test Logic: 2
+ChunkCoordIntPairTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Eager Test: 1
+EitherTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: IgnoredTest: 2
+EnumWrappersTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Exception Catching Throwing: 1
+NbtConfigurationSerializerTest.java:
+  JNoseTool: Assertion Roulette: 1
+NbtCompoundTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+NbtFactoryTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 2
+PlayerInfoDataTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+WrappedAttributeTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Redundant Assertion: 1
+WrappedBlockDataTest.java:
+  JNoseTool: Assertion Roulette: 6
+WrappedChatComponentTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+WrappedDataWatcherTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 4
+WrappedGameProfileTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: IgnoredTest: 5
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 3
+WrappedLevelChunkDataTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Constructor Initialization: 1
+WrappedParticleTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 3
+WrappedProfilePublicKeyTest.java:
+  JNoseTool: Assertion Roulette: 20
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+WrappedRegistryTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+WrappedSaltedSignatureTest.java:
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Eager Test: 2
+WrappedServerPingTest.java:
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1

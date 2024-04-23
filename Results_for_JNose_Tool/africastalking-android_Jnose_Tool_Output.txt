@@ -1,0 +1,8 @@
+AirtimeServiceTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+PaymentServiceTest.java:
+  JNoseTool: Assertion Roulette: 1
+VoiceServiceTest.java:
+  JNoseTool: EmptyTest: 2
+  JNoseTool: General Fixture: 1

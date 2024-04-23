@@ -1,0 +1,7 @@
+AbilityBotTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: General Fixture: 2

@@ -1,0 +1,7 @@
+AmazonsqsRiverTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Sleepy Test: 5
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Exception Catching Throwing: 1

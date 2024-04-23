@@ -1,0 +1,14 @@
+GCounterTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 5
+GStateTest.java:
+  JNoseTool: Assertion Roulette: 3
+PNCounterTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 4
+GSetTest.java:
+  JNoseTool: Assertion Roulette: 3
+ORSetTest.java:
+  JNoseTool: Assertion Roulette: 5
+TwoPSetTest.java:
+  JNoseTool: Assertion Roulette: 5

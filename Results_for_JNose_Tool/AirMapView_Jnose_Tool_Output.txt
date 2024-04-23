@@ -1,0 +1,13 @@
+AirMapTypeTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 1
+DefaultAirMapViewBuilderTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 5
+NativeAirMapViewBuilderTest.java:
+  JNoseTool: Assertion Roulette: 1
+WebAirMapViewBuilderTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: IgnoredTest: 1

@@ -1,0 +1,39 @@
+ScheduleRepositoryTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Exception Catching Throwing: 1
+ScheduleTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Eager Test: 1
+SendNotifyMessageJobTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 1
+ScheduleServiceImplTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Exception Catching Throwing: 1
+SimpleJJWTWebTokenServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 2
+DateUtilsTest.java:
+  JNoseTool: Assertion Roulette: 1
+JsonUtilsTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+NotifyMessageTemplateTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+MeetingRoomControllerTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 2
+ScheduleControllerTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Exception Catching Throwing: 1
+TeamControllerTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 8

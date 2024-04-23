@@ -1,0 +1,16 @@
+AttacksInfoTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Print Statement: 6
+BitBoardUtilsTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: IgnoredTest: 3
+BoardTest.java:
+  JNoseTool: Magic Number Test: 16
+  JNoseTool: Lazy Test: 7
+  JNoseTool: Eager Test: 14
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: IgnoredTest: 14

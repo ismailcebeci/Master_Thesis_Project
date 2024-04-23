@@ -1,0 +1,5 @@
+CallLogFragmentTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: General Fixture: 5

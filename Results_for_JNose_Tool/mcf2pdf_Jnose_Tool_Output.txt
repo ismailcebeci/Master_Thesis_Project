@@ -1,0 +1,5 @@
+ImageUtilTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2

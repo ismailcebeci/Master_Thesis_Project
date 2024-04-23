@@ -1,0 +1,10 @@
+FilterTypeTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 6
+  JNoseTool: Assertion Roulette: 36
+LogicTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Mystery Guest: 1
+MainActivityTest.java:
+  JNoseTool: Assertion Roulette: 3

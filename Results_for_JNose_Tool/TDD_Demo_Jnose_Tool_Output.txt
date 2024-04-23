@@ -1,0 +1,8 @@
+LoginActivityTest.java:
+  JNoseTool: Unknown Test: 4
+LoginPresenterTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 5
+  JNoseTool: Assertion Roulette: 5

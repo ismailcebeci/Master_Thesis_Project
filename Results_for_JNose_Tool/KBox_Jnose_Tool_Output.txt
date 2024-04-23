@@ -1,0 +1,8 @@
+KBoxTest.java:
+  JNoseTool: Resource Optimism: 10
+  JNoseTool: Lazy Test: 10
+  JNoseTool: Assertion Roulette: 52
+  JNoseTool: Mystery Guest: 3
+  JNoseTool: Magic Number Test: 20
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Duplicate Assert: 1

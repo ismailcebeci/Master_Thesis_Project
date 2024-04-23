@@ -1,0 +1,17 @@
+Neo4JInputFormatTest.java:
+  JNoseTool: Assertion Roulette: 3
+Neo4JOutputFormatTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1
+DeserializationMapperTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Sensitive Equality: 1
+Neo4JDeserializationMappingStrategyTest.java:
+  JNoseTool: Assertion Roulette: 2
+Neo4JDriverWrapperTest.java:
+  JNoseTool: Assertion Roulette: 7
+Neo4JSinkTest.java:
+  JNoseTool: Unknown Test: 1
+Neo4JSourceTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1

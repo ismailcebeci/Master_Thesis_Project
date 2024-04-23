@@ -1,0 +1,34 @@
+AddressTest.java:
+  JNoseTool: Sensitive Equality: 7
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 20
+SignTest.java:
+  JNoseTool: Assertion Roulette: 2
+TransactionTest.java:
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 6
+EosTransactionTest.java:
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Print Statement: 1
+  JNoseTool: Eager Test: 2
+TransactionActionDataTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 3
+PublicKeyTest.java:
+  JNoseTool: Sensitive Equality: 6
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Exception Catching Throwing: 2
+SecretKeyTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2

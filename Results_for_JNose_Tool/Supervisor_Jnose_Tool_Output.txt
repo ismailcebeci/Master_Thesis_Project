@@ -1,0 +1,4 @@
+ResultDatabaseTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 2

@@ -1,0 +1,103 @@
+GraphqlProductViewHandlerTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: General Fixture: 6
+GraphqlDataServiceImplTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Duplicate Assert: 6
+  JNoseTool: Assertion Roulette: 54
+  JNoseTool: General Fixture: 3
+  JNoseTool: Magic Number Test: 18
+  JNoseTool: Eager Test: 4
+  JNoseTool: Exception Catching Throwing: 2
+CategoryProductsIteratorTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+GraphqlQueryLanguageProviderTest.java:
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: General Fixture: 4
+  JNoseTool: Magic Number Test: 15
+GraphqlResourceProviderFactoryTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: General Fixture: 1
+  JNoseTool: Magic Number Test: 2
+GraphqlResourceProviderTest.java:
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Assertion Roulette: 107
+  JNoseTool: General Fixture: 6
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Conditional Test Logic: 4
+InitializerTest.java:
+  JNoseTool: Assertion Roulette: 40
+  JNoseTool: Unknown Test: 7
+  JNoseTool: IgnoredTest: 2
+ChildrenDataSourceServletTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 50
+  JNoseTool: General Fixture: 2
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Conditional Test Logic: 6
+SearchDataSourceServletTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: General Fixture: 6
+  JNoseTool: Unknown Test: 1
+ConfigurationColumnPreviewTest.java:
+  JNoseTool: Lazy Test: 1
+ConfigurationColumnViewItemTest.java:
+  JNoseTool: Lazy Test: 2
+ConfigurationInheritanceServletTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: General Fixture: 3
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Unknown Test: 2
+ProductsSuggestionOmniSearchHandlerTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 20
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 2
+MultiFieldDropTargetPostProcessorTest.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 33
+  JNoseTool: Unknown Test: 4
+  JNoseTool: IgnoredTest: 1
+IsProductDetailPageServletTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: General Fixture: 1
+IsProductListPageServletTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: General Fixture: 1
+CatalogIdentifierDatasourceTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: General Fixture: 4
+  JNoseTool: Magic Number Test: 2
+CatalogDataResourceProviderManagerImplTest.java:
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 13
+  JNoseTool: Assertion Roulette: 83
+  JNoseTool: General Fixture: 3
+  JNoseTool: Magic Number Test: 35
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 11
+  JNoseTool: Unknown Test: 10
+  JNoseTool: IgnoredTest: 6
+  JNoseTool: Sleepy Test: 15
+ProductBindingCreatorTest.java:
+  JNoseTool: Assertion Roulette: 4
+ConfigurationReferenceTest.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 2

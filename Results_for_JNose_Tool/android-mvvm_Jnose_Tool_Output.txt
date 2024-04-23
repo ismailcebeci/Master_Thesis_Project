@@ -1,0 +1,48 @@
+BaseViewModelTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 3
+ActivityDelegateTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Unknown Test: 2
+MvvmDelegateTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Duplicate Assert: 1
+ViewModelCacheTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: General Fixture: 1
+MvvmActivityTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 5
+  JNoseTool: General Fixture: 2
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Eager Test: 4
+MvvmDialogFragmentTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 4
+  JNoseTool: General Fixture: 1
+  JNoseTool: Redundant Assertion: 1
+MvvmFragmentTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 4
+  JNoseTool: General Fixture: 1
+  JNoseTool: Redundant Assertion: 1
+NavigatingViewModelTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 7
+NavigatingActivityDelegateTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 2
+NavigatingMvvmActivityTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+NavigatingMvvmDialogFragmentTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+NavigatingMvvmFragmentTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2

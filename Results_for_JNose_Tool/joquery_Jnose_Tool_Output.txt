@@ -1,0 +1,6 @@
+FilterTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Conditional Test Logic: 1
+SelectionQueryTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Conditional Test Logic: 1

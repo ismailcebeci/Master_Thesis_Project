@@ -1,0 +1,39 @@
+ApiRequestManagerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 5
+  JNoseTool: Exception Catching Throwing: 2
+ChampionMasteryResourceImplTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 3
+ChampionResourceImplTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 2
+GameResourceImplTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Magic Number Test: 3
+LeagueResourceImplTest.java:
+  JNoseTool: Assertion Roulette: 23
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Sensitive Equality: 4
+LolStaticDataResourceImplTest.java:
+  JNoseTool: Assertion Roulette: 113
+  JNoseTool: Conditional Test Logic: 15
+  JNoseTool: Verbose Test: 2
+StatsResourceImplTest.java:
+  JNoseTool: Assertion Roulette: 26
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Magic Number Test: 9
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 11
+SummonerResourceImplTest.java:
+  JNoseTool: Assertion Roulette: 33
+  JNoseTool: Conditional Test Logic: 15
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: IgnoredTest: 2
+TeamResourceImplTest.java:
+  JNoseTool: Assertion Roulette: 64
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 1

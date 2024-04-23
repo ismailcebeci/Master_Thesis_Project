@@ -1,0 +1,22 @@
+CertificateCoderSSLTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 4
+CertificateCoderTest.java:
+  JNoseTool: Assertion Roulette: 4
+CoderTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Redundant Assertion: 3
+  JNoseTool: Verbose Test: 1
+DESCoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+DHCoderTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Verbose Test: 1
+DSACoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+ECCCoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+PBECoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+RSACoderTest.java:
+  JNoseTool: Assertion Roulette: 3

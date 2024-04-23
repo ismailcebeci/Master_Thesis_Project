@@ -1,0 +1,4 @@
+ResourceMapperTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1

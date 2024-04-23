@@ -1,0 +1,33 @@
+EntityIteratorTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 8
+FakeBuildsTest.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 22
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+FakeBuildTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+FakeJenkinsTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Lazy Test: 1
+FakeJobsTest.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Lazy Test: 1
+FakeJobTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+FakeUsersTest.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Sleepy Test: 2

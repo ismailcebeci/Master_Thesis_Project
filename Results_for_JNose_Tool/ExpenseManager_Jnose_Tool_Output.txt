@@ -1,0 +1,36 @@
+MainActivityTest.java:
+  JNoseTool: Unknown Test: 1
+ExpenseDatabaseHelperTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Conditional Test Logic: 1
+CategoryPresenterTest.java:
+  JNoseTool: Assertion Roulette: 3
+CurrentMonthExpensePresenterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+CurrentWeekExpensePresenterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: General Fixture: 1
+ExpensePresenterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 5
+NavigationDrawerPresenterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 2
+TodaysExpensePresenterTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: General Fixture: 2
+DateUtilTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Sensitive Equality: 2
+ExpenseCollectionTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: General Fixture: 2

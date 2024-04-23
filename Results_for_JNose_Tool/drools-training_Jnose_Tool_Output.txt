@@ -1,0 +1,65 @@
+InvalidPassportTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 2
+ValidPassportTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Assertion Roulette: 1
+StatelessPassportValidationTest.java:
+  JNoseTool: IgnoredTest: 6
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 1
+StatefulPassportValidationTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+VisaApplicationValidationTest.java:
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Verbose Test: 3
+VisaIssueTest.java:
+  JNoseTool: IgnoredTest: 7
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1
+VisaInsertLogicalTest.java:
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1
+FamilyVisaApplicationValidationTest.java:
+  JNoseTool: IgnoredTest: 6
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1
+PassportValidationOOTest.java:
+  JNoseTool: IgnoredTest: 6
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 1
+StatefulPassportValidationOOTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+VisaApplicationValidationOOTest.java:
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Lazy Test: 1
+VisaIssueOOTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+VisaAddLogicalOOTest.java:
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1
+FamilyVisaApplicationValidationOOTest.java:
+  JNoseTool: IgnoredTest: 6
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1

@@ -1,0 +1,16 @@
+RedisTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 3
+StyxQueueTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: General Fixture: 1
+StyxTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 1

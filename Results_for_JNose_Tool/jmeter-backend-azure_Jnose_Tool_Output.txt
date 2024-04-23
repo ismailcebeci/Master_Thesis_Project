@@ -1,0 +1,5 @@
+TestAzureBackendClient.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: General Fixture: 1

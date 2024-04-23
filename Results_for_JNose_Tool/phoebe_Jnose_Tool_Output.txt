@@ -1,0 +1,13 @@
+StartupCommandTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+HeaderOnlyMessagesTest.java:
+  JNoseTool: Conditional Test Logic: 3
+EitherTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Lazy Test: 2
+TryTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Lazy Test: 2

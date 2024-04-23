@@ -1,0 +1,20 @@
+NMapsTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Assertion Roulette: 17
+NSetsTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 4
+NCollectionPredicatesTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 8
+NComparablePredicatesTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 4
+NOptionalPredicatesTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 10
+NPredicatesTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 37

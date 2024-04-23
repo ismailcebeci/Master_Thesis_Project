@@ -1,0 +1,6 @@
+JobKafkaServiceApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+JobServiceApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+WeChatApiApplicationTests.java:
+  JNoseTool: EmptyTest: 1

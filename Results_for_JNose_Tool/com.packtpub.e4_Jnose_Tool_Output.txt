@@ -1,0 +1,7 @@
+MathUtilTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+AppTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Constructor Initialization: 1

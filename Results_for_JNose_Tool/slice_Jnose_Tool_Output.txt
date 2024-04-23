@@ -1,0 +1,25 @@
+TestBasicSliceInput.java:
+  JNoseTool: Assertion Roulette: 1
+TestFnvHash.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 2
+TestInputStreamSliceInput.java:
+  JNoseTool: Assertion Roulette: 28
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: EmptyTest: 1
+TestMurmur3Hash128.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Lazy Test: 2
+TestMurmur3Hash32.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Lazy Test: 1
+TestOutputStreamSliceOutput.java:
+  JNoseTool: Magic Number Test: 16
+TestXxHash64.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 16
+  JNoseTool: Duplicate Assert: 1

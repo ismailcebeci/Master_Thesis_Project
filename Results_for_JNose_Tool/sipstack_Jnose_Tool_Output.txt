@@ -1,0 +1,3 @@
+RawMessageTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Constructor Initialization: 1

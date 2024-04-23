@@ -1,0 +1,386 @@
+SettingValueFactoryTest.java:
+  JNoseTool: Assertion Roulette: 3
+AbstractXmlBindingTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 2
+SimpleBindingTest.java:
+  JNoseTool: Assertion Roulette: 8
+I18NSerializerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 1
+ComparisonFilterTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Eager Test: 1
+OwsServiceIdentificationFactoryTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Eager Test: 1
+ElasticsearchSettingsTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Duplicate Assert: 1
+EventHandlerFinderTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+CharacterClassTest.java:
+  JNoseTool: Assertion Roulette: 1
+LocaleHelperTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 2
+NcNameTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+IPAddressRangeTest.java:
+  JNoseTool: Assertion Roulette: 58
+  JNoseTool: Unknown Test: 4
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Verbose Test: 2
+IPAddressTest.java:
+  JNoseTool: Assertion Roulette: 23
+  JNoseTool: Magic Number Test: 23
+  JNoseTool: Duplicate Assert: 1
+ProxyChainTest.java:
+  JNoseTool: Unknown Test: 4
+FeatureServiceConstantsTest.java:
+  JNoseTool: Assertion Roulette: 32
+TimeInstantTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 4
+TimePeriodTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 4
+TimeTest.java:
+  JNoseTool: Sensitive Equality: 2
+FeatureCollectionTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Eager Test: 1
+  JNoseTool: Magic Number Test: 1
+SamplingFeatureComplexTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+SamplingFeatureTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Eager Test: 4
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Duplicate Assert: 1
+OmObservationConstellationTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Duplicate Assert: 4
+OmObservationTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 1
+ProfileLevelTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 3
+ProfileValueTest.java:
+  JNoseTool: Assertion Roulette: 6
+AbstractSensorMLTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 2
+SmlClassifierTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 4
+  JNoseTool: Duplicate Assert: 2
+SmlIdentifierTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 6
+SmlIoTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 4
+  JNoseTool: Duplicate Assert: 1
+GetObservationRequestTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+SweDataRecordTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Magic Number Test: 5
+SweEnvelopeTest.java:
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Sensitive Equality: 1
+ExtensionsTest.java:
+  JNoseTool: Assertion Roulette: 27
+  JNoseTool: Lazy Test: 3
+FormatTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Duplicate Assert: 1
+CollectionHelperTest.java:
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Magic Number Test: 4
+DateTimeHelperTest.java:
+  JNoseTool: Assertion Roulette: 10
+MediaTypeTest.java:
+  JNoseTool: Assertion Roulette: 87
+  JNoseTool: Lazy Test: 9
+  JNoseTool: Eager Test: 21
+  JNoseTool: Magic Number Test: 19
+  JNoseTool: Sensitive Equality: 2
+IdGeneratorTest.java:
+  JNoseTool: Assertion Roulette: 1
+JTSHelperTest.java:
+  JNoseTool: Assertion Roulette: 34
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 8
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Sensitive Equality: 2
+ReferencedEnvelopeTest.java:
+  JNoseTool: Assertion Roulette: 64
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 5
+  JNoseTool: Magic Number Test: 37
+StringHelperTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 3
+UVFEncoderTest.java:
+  JNoseTool: Assertion Roulette: 25
+  JNoseTool: Magic Number Test: 4
+EReportingHeaderJSONDecoderTest.java:
+  JNoseTool: Assertion Roulette: 46
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Verbose Test: 1
+FieldDecoderTest.java:
+  JNoseTool: Assertion Roulette: 55
+GetCapabilitiesRequestDecoderTest.java:
+  JNoseTool: Assertion Roulette: 5
+GetObservationRequestDecoderTest.java:
+  JNoseTool: Assertion Roulette: 78
+  JNoseTool: Magic Number Test: 41
+InsertObservationRequestDecoderTest.java:
+  JNoseTool: Assertion Roulette: 46
+  JNoseTool: Magic Number Test: 19
+InsertResultTemplateRequestDecoderTest.java:
+  JNoseTool: Assertion Roulette: 62
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Verbose Test: 2
+InsertSensorRequestDecoderTest.java:
+  JNoseTool: Assertion Roulette: 13
+ApplicationPackageDecoderTest.java:
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Magic Number Test: 1
+EReportingHeaderJSONEncoderTest.java:
+  JNoseTool: Unknown Test: 1
+OwsExceptionReportEncoderTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Magic Number Test: 1
+JSONEncoderTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 2
+ODataFesParserTest.java:
+  JNoseTool: Assertion Roulette: 87
+  JNoseTool: Magic Number Test: 6
+AbstractCapabilitiesBaseTypeDecoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+DeleteObservationDecoderTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 1
+DeleteObservationV20DecoderTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+DeleteResultTemplateDecoderTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 3
+DescribeSensorResponseSwesDocumentDecoderTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+FesDecoderV20Test.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Unknown Test: 2
+GetDataAvailabilityResponseDecoderTest.java:
+  JNoseTool: Unknown Test: 2
+InsertObservationResponseV20DecoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+InsertResultResponseDecoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+InsertResultTemplateResponseDecoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+InsertSensorResponseDecoderTest.java:
+  JNoseTool: Assertion Roulette: 2
+OgcDecoderv100Test.java:
+  JNoseTool: Assertion Roulette: 45
+OmDecoderV20Test.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 1
+ProcessDocumentDecoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+SensorMLDecoderV101Test.java:
+  JNoseTool: Assertion Roulette: 53
+  JNoseTool: Magic Number Test: 23
+  JNoseTool: Verbose Test: 2
+SensorMLDecoderV20Test.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+SosDecoderv20Test.java:
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Conditional Test Logic: 1
+SweCommonDecoderV101Test.java:
+  JNoseTool: Assertion Roulette: 38
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Verbose Test: 1
+SweCommonDecoderV20Test.java:
+  JNoseTool: Assertion Roulette: 16
+WsaDecoderTest.java:
+  JNoseTool: Unknown Test: 2
+AbstractSwesRequestEncoderTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 1
+DeleteObservationEncoderTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Duplicate Assert: 1
+DeleteObservationV20EncoderTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Duplicate Assert: 1
+DeleteResultTemplateEncoderTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 3
+DeleteSensorResponseEncoderTest.java:
+  JNoseTool: Assertion Roulette: 19
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+DescribeSensorResponseEncoderTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+DescribeSensorV2RequestEncoderTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+FesEncoderv20Test.java:
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+GetCapabilitiesResponseEncoderTest.java:
+  JNoseTool: Assertion Roulette: 3
+GetDataAvailabilityXmlEncoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Sensitive Equality: 1
+GetFeatureOfInterestXmlStreamWriterTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+GetObservationResponseEncoderTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 1
+GetObservationResponseXmlStreamWriterTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+InsertObservationRequestEncoderTest.java:
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 4
+InsertResultRequestEncoderTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Lazy Test: 1
+InsertResultTemplateRequestEncoderTest.java:
+  JNoseTool: Assertion Roulette: 47
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 3
+InsertSensorRequestEncoderTest.java:
+  JNoseTool: Assertion Roulette: 22
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 4
+Iso19139GmdEncoderTest.java:
+  JNoseTool: Assertion Roulette: 29
+OmEncoderv100Test.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 1
+OmEncoderv20Test.java:
+  JNoseTool: Assertion Roulette: 34
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 1
+OwsEncoderv110Test.java:
+  JNoseTool: Assertion Roulette: 8
+ProcessDocumentEncoderTest.java:
+  JNoseTool: Assertion Roulette: 2
+RectifiedGridCoverageDocumentEncoderTest.java:
+  JNoseTool: Assertion Roulette: 3
+SamplingEncoderv20Test.java:
+  JNoseTool: Assertion Roulette: 2
+SensorMLEncoderV101Test.java:
+  JNoseTool: Assertion Roulette: 22
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Verbose Test: 1
+SosInsertionMetadataTypeEncoderTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 2
+SweCommonEncoderv101Test.java:
+  JNoseTool: Assertion Roulette: 135
+  JNoseTool: Magic Number Test: 20
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Sensitive Equality: 2
+SweCommonEncoderv20Test.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 1
+SwesExtensionEncoderv20Test.java:
+  JNoseTool: Assertion Roulette: 7
+TimeLocationValueTripleTypeEncoderTest.java:
+  JNoseTool: Assertion Roulette: 6
+TrajectoryObservationTypeEncoderTest.java:
+  JNoseTool: Assertion Roulette: 6
+TsmlTVPEncoderv10Test.java:
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Exception Catching Throwing: 3
+UpdateSensorResponseEncoderTest.java:
+  JNoseTool: Assertion Roulette: 19
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+WmlTVPEncoderv20Test.java:
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Exception Catching Throwing: 2
+GeographicalNameReaderTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 1
+EReportingHeaderEncoderTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+IndentingXmlStreamWriterTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Sensitive Equality: 1
+RdfStreamWriterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+RelatedOfferingXmlStreamWriterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+ReportingHeaderReaderTest.java:
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Exception Catching Throwing: 1

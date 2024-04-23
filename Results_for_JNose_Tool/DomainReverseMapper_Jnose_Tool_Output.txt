@@ -1,0 +1,30 @@
+DomainObjectTest.java:
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 4
+EdgeTest.java:
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1
+EdgeTypeTest.java:
+  JNoseTool: Assertion Roulette: 6
+DomainClassFinderTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 3
+DomainMapperCliTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 2
+DomainMapperTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Eager Test: 2
+FieldScannerTest.java:
+  JNoseTool: Assertion Roulette: 7
+HierarchyScannerTest.java:
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 2
+DomainMapperMojoTest.java:
+  JNoseTool: Assertion Roulette: 1

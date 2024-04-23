@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+Android-Tutorials;LoginPresenterTest;C:\Users\cebec\.jnose_projects\Android-Tutorials\Unit test using Mockito\src\test\java\com\codace\loginform\LoginPresenterTest.java;C:\Users\cebec\.jnose_projects\Android-Tutorials\Unit test using Mockito\src\main\java\com\codace\loginform\LoginPresenter.java;JUnit4;56;7;Assertion Roulette;login;53-53;53-53

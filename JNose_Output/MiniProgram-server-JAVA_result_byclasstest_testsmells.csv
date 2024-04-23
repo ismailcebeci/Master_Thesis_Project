@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+MiniProgram-server-JAVA;ServerApplicationTests;C:\Users\cebec\.jnose_projects\MiniProgram-server-JAVA\src\test\java\miniprogram\server\ServerApplicationTests.java;C:\Users\cebec\.jnose_projects\MiniProgram-server-JAVA\src\main\java\miniprogram\server\ServerApplication.java;JUnit5;13;1;EmptyTest;contextLoads;9-11;9-11

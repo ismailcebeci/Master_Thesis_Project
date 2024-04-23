@@ -1,0 +1,9 @@
+Raml2HtmlConverterTest.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 6
+RamlAsciiDocTest.java:
+  JNoseTool: Assertion Roulette: 3
+RamlHtmlMojoTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1

@@ -1,0 +1,9 @@
+ArrayConversionsTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Conditional Test Logic: 1
+AuthenticationTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Exception Catching Throwing: 2
+TransactionTest.java:
+  JNoseTool: Magic Number Test: 11

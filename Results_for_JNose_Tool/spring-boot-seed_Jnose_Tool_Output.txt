@@ -1,0 +1,2 @@
+McApplicationTests.java:
+  JNoseTool: EmptyTest: 1

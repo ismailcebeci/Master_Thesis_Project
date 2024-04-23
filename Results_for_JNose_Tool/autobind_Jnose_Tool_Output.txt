@@ -1,0 +1,4 @@
+PackageFilterTests.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Exception Catching Throwing: 1

@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+demo-java-9-migration;UtilsTest;C:\Users\cebec\.jnose_projects\demo-java-9-migration\monitor.utils\src\test\java\monitor\utils\UtilsTest.java;C:\Users\cebec\.jnose_projects\demo-java-9-migration\monitor.utils\src\main\java\monitor\utils\Utils.java;JUnit5;25;1;Unknown Test;earlySupplierProducesNonEmpty_findFirst_laterSuppliersNotCalled;14-23;14-23

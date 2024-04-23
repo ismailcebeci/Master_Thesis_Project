@@ -1,0 +1,15 @@
+ClassPathUtilsTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Print Statement: 2
+MessageUtilsTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 4
+  JNoseTool: Verbose Test: 1
+AccessTokenServiceTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Print Statement: 3
+  JNoseTool: Conditional Test Logic: 2
+WechatUserServiceTest.java:
+  JNoseTool: Assertion Roulette: 35
+  JNoseTool: Magic Number Test: 11

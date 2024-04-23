@@ -1,0 +1,80 @@
+GrpcClientTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Print Statement: 8
+RpcClientTest.java:
+  JNoseTool: Unknown Test: 28
+  JNoseTool: Print Statement: 32
+  JNoseTool: Conditional Test Logic: 8
+AddressBTCTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+AddressETHTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+AddressTest.java:
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 2
+DynamicArrayTest.java:
+  JNoseTool: Assertion Roulette: 3
+OffchainLookupTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 1
+EventTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Eager Test: 1
+FixedPointTypeTest.java:
+  JNoseTool: Assertion Roulette: 3
+StaticArrayTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Exception Catching Throwing: 2
+Utf8StringTest.java:
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 2
+DefaultFunctionEncoderTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 30
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 5
+EventEncoderTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 2
+EventLogDecoderTest.java:
+  JNoseTool: Assertion Roulette: 1
+FunctionReturnDecoderTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 35
+  JNoseTool: Verbose Test: 9
+TypeDecoderTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 180
+  JNoseTool: Magic Number Test: 28
+  JNoseTool: Verbose Test: 5
+  JNoseTool: Duplicate Assert: 3
+TypeEncoderTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 200
+  JNoseTool: Verbose Test: 6
+UtilsTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Magic Number Test: 2
+AccountTest.java:
+  JNoseTool: Unknown Test: 13
+  JNoseTool: Print Statement: 39
+  JNoseTool: Conditional Test Logic: 14
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Sleepy Test: 4
+HandlerTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 2
+  JNoseTool: Exception Catching Throwing: 1

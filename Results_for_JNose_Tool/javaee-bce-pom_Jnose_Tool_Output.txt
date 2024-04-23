@@ -1,0 +1,10 @@
+RegistrationsTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 5
+VatCalculatorTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 4
+RegistrationTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1

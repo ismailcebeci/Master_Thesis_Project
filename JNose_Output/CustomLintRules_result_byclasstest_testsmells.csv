@@ -1,0 +1,3 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+CustomLintRules;CustomIssueRegistryTest;C:\Users\cebec\.jnose_projects\CustomLintRules\src\test\java\de\ad\android\tools\lint\CustomIssueRegistryTest.java;C:\Users\cebec\.jnose_projects\CustomLintRules\src\main\java\de\ad\android\tools\lint\CustomIssueRegistry.java;JUnit4;18;1;Eager Test;testGetIssues;12, 14;12, 14
+CustomLintRules;CustomIssueRegistryTest;C:\Users\cebec\.jnose_projects\CustomLintRules\src\test\java\de\ad\android\tools\lint\CustomIssueRegistryTest.java;C:\Users\cebec\.jnose_projects\CustomLintRules\src\main\java\de\ad\android\tools\lint\CustomIssueRegistry.java;JUnit4;18;1;Assertion Roulette;testGetIssues;16-16;16-16

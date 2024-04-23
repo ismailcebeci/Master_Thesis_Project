@@ -1,0 +1,6 @@
+LocaleUtilsTest.java:
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 23
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: General Fixture: 1

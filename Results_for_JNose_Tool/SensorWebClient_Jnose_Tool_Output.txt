@@ -1,0 +1,96 @@
+ArcGISSoeEReportingMetadataHandlerTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: General Fixture: 2
+FeatureParserTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: General Fixture: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: EmptyTest: 1
+SensorNetworkParserTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+SosRequestBuilderGET_200Test.java:
+  JNoseTool: Assertion Roulette: 8
+ResponseFromFileSosAdapterTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+TimeseriesDataGeneratorTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+TimeseriesFactoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 1
+SosInstanceContentHandlerTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+SosMetadataUpdateTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 2
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Mystery Guest: 1
+DescribeSensorParserTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: General Fixture: 3
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Duplicate Assert: 6
+XmlHelperTest.java:
+  JNoseTool: Assertion Roulette: 1
+QueryBuilderTest.java:
+  JNoseTool: Assertion Roulette: 6
+QueryParserTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: General Fixture: 2
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Eager Test: 8
+HydroMetadataHandlerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+SoapSosRequestBuilder_200Test.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 2
+SOSwithSoapAdapterTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 1
+BasicRule_4_BuilderTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: General Fixture: 1
+BasicRule_5_BuilderTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 1
+UserRoleTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 3
+DesignedParameterSetTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Eager Test: 10
+TimeseriesDataTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 1
+VicinityTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+ResultTimeAdapterTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+ResultPageTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 1
+TimeseriesParameterTest.java:
+  JNoseTool: Assertion Roulette: 4
+EventSubscriptionControllerTest.java:
+  JNoseTool: Assertion Roulette: 4
+ClientUtilsTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 4

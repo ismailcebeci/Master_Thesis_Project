@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+simple-rest-apis;SimpleRestApisApplicationTests;C:\Users\cebec\.jnose_projects\simple-rest-apis\src\test\java\com\example\simplerestapis\SimpleRestApisApplicationTests.java;C:\Users\cebec\.jnose_projects\simple-rest-apis\src\main\java\com\example\simplerestapis\SimpleRestApisApplication.java;JUnit4;16;1;EmptyTest;contextLoads;12-14;12-14

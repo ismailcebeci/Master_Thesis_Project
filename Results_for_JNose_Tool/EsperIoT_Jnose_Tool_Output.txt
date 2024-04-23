@@ -1,0 +1,2 @@
+CepManagerApplicationTests.java:
+  JNoseTool: EmptyTest: 1

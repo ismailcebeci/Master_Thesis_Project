@@ -1,0 +1,3 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+ExampleBots;ExampleBotTest;C:\Users\cebec\.jnose_projects\ExampleBots\src\test\java\org\telegram\examplebots\ExampleBotTest.java;C:\Users\cebec\.jnose_projects\ExampleBots\src\main\java\org\telegram\examplebots\ExampleBot.java;JUnit4;51;8;Unknown Test;canSayHelloWorld;35-45;35-45
+ExampleBots;ExampleBotTest;C:\Users\cebec\.jnose_projects\ExampleBots\src\test\java\org\telegram\examplebots\ExampleBotTest.java;C:\Users\cebec\.jnose_projects\ExampleBots\src\main\java\org\telegram\examplebots\ExampleBot.java;JUnit4;51;8;General Fixture;setUp;28;28

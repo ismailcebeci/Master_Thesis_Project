@@ -1,0 +1,64 @@
+GeneralizerFactoryTest.java:
+  JNoseTool: Assertion Roulette: 1
+LargestTriangleThreeBucketsGeneralizerTest.java:
+  JNoseTool: Assertion Roulette: 1
+OffsetBasedPaginationTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 3
+RequestUtilsTest.java:
+  JNoseTool: Assertion Roulette: 44
+  JNoseTool: Lazy Test: 1
+BaseControllerTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Lazy Test: 1
+HelgolandConfigurationTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+HrefHelperTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+BoundingBoxTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+CRSUtilsTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 1
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: General Fixture: 2
+WGS84UtilTest.java:
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Magic Number Test: 13
+  JNoseTool: General Fixture: 2
+IntervalWithTimeZoneTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Unknown Test: 1
+FilterResolverTest.java:
+  JNoseTool: Assertion Roulette: 36
+  JNoseTool: Lazy Test: 5
+IoParametersTest.java:
+  JNoseTool: Assertion Roulette: 43
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Eager Test: 7
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Sensitive Equality: 1
+RequestParameterSetTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Magic Number Test: 1
+VicinityTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+GeometryTypeTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Lazy Test: 3
+OptionalOutputTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 1
+ParameterOutputTest.java:
+  JNoseTool: Assertion Roulette: 10
+PlatformOutputTest.java:
+  JNoseTool: Assertion Roulette: 1

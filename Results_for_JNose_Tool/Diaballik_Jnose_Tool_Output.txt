@@ -1,0 +1,14 @@
+JeuTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 10
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Conditional Test Logic: 9
+PieceTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 4
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Conditional Test Logic: 35
+  JNoseTool: Verbose Test: 8

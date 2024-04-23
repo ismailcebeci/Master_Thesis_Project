@@ -1,0 +1,8 @@
+SampleLogicTest.java:
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Exception Catching Throwing: 11
+SampleServiceTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Magic Number Test: 6

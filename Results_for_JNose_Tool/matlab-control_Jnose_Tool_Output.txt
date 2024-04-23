@@ -1,0 +1,7 @@
+MatlabProxyFactoryTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Lazy Test: 1
+MatlabProxyTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1

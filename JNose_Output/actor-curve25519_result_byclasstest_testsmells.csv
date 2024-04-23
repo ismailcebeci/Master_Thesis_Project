@@ -1,0 +1,4 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+actor-curve25519;TestMD5;C:\Users\cebec\.jnose_projects\actor-curve25519\src\test\java\im\actor\crypto\TestMD5.java;C:\Users\cebec\.jnose_projects\actor-curve25519\src\main\java\im\actor\crypto\primitives\digest\MD5.java;JUnit4;45;3;Assertion Roulette;testMD5;42-42;42-42
+actor-curve25519;TestMD5;C:\Users\cebec\.jnose_projects\actor-curve25519\src\test\java\im\actor\crypto\TestMD5.java;C:\Users\cebec\.jnose_projects\actor-curve25519\src\main\java\im\actor\crypto\primitives\digest\MD5.java;JUnit4;45;3;Conditional Test Logic;testMD5;38-41;38-41
+actor-curve25519;TestMD5;C:\Users\cebec\.jnose_projects\actor-curve25519\src\test\java\im\actor\crypto\TestMD5.java;C:\Users\cebec\.jnose_projects\actor-curve25519\src\main\java\im\actor\crypto\primitives\digest\MD5.java;JUnit4;45;3;Conditional Test Logic;testMD5;31-43;31-43

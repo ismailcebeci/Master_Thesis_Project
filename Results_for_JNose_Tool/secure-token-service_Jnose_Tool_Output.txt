@@ -1,0 +1,8 @@
+ZonedDateTimeConverterTest.java:
+  JNoseTool: Assertion Roulette: 2
+EncryptedSecretRepositoryTest.java:
+  JNoseTool: Assertion Roulette: 2
+AuthServerTest.java:
+  JNoseTool: IgnoredTest: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 1

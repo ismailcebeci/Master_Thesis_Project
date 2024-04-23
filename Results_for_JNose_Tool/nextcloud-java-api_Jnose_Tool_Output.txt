@@ -1,0 +1,38 @@
+FilesharingConnectorTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 10
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: General Fixture: 4
+  JNoseTool: Print Statement: 10
+TestConfigConnector.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Print Statement: 3
+TestFiles.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Conditional Test Logic: 37
+  JNoseTool: Exception Catching Throwing: 7
+  JNoseTool: Print Statement: 28
+  JNoseTool: Unknown Test: 11
+  JNoseTool: Resource Optimism: 4
+  JNoseTool: Redundant Assertion: 11
+  JNoseTool: Mystery Guest: 6
+TestFolders.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Conditional Test Logic: 15
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 12
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Verbose Test: 1
+WebDavPathResolverBuilderTest.java:
+  JNoseTool: Assertion Roulette: 18

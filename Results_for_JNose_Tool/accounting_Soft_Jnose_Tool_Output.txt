@@ -1,0 +1,24 @@
+AccountingSystemTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 1
+CryptoTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 2
+JsonParserTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 2
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Exception Catching Throwing: 1
+PersonnelTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Eager Test: 4
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 4
+  JNoseTool: Lazy Test: 1

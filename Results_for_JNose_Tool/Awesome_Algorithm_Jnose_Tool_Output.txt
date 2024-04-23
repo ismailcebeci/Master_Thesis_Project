@@ -1,0 +1,8 @@
+CharacterMapperTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Assertion Roulette: 9
+CustomizeTrieTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: General Fixture: 1
+  JNoseTool: Print Statement: 1

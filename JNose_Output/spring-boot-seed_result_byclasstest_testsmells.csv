@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+spring-boot-seed;McApplicationTests;C:\Users\cebec\.jnose_projects\spring-boot-seed\mc-mvc\src\test\java\com\ttsh\mc\McApplicationTests.java;C:\Users\cebec\.jnose_projects\spring-boot-seed\mc-mvc\src\main\java\com\ttsh\mc\McApplication.java;JUnit4;16;1;EmptyTest;contextLoads;12-14;12-14

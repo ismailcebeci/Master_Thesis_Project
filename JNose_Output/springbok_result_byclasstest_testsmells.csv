@@ -1,0 +1,3 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+springbok;MainActivityTest;C:\Users\cebec\.jnose_projects\springbok\app\src\test\java\com\coshx\springbok\MainActivityTest.java;C:\Users\cebec\.jnose_projects\springbok\app\src\main\java\com\coshx\springbok\MainActivity.java;JUnit3;27;3;Assertion Roulette;notNull;25-25;25-25
+springbok;UserTest;C:\Users\cebec\.jnose_projects\springbok\app\src\test\java\com\coshx\springbok\UserTest.java;C:\Users\cebec\.jnose_projects\springbok\app\src\main\java\com\coshx\springbok\User.java;JUnit4;27;1;Assertion Roulette;UserNameTest;19-19;19-19

@@ -1,0 +1,5 @@
+ModelTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 3
+MostProbableStateSequenceFinderTest.java:
+  JNoseTool: Assertion Roulette: 1

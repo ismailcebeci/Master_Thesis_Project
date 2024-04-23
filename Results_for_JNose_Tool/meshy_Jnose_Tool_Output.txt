@@ -1,0 +1,10 @@
+TestMessageFileSystem.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 2
+TestMeshyClientConnector.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Sleepy Test: 3
+  JNoseTool: Eager Test: 1
+  JNoseTool: Exception Catching Throwing: 1

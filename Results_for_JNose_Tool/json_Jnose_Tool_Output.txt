@@ -1,0 +1,11 @@
+JsonFactoryTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 8
+JsonTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 29
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Eager Test: 12
+  JNoseTool: Print Statement: 1

@@ -1,0 +1,11 @@
+TokenRequestTest.java:
+  JNoseTool: EmptyTest: 2
+  JNoseTool: Lazy Test: 14
+  JNoseTool: Duplicate Assert: 7
+  JNoseTool: Eager Test: 14
+  JNoseTool: Assertion Roulette: 21
+LiveStreamConnectionTest.java:
+  JNoseTool: EmptyTest: 3
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 6

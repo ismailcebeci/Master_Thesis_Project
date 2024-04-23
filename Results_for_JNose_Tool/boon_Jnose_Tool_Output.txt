@@ -1,0 +1,182 @@
+LazyValueMapTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: General Fixture: 11
+JsonParserUsingCharacterSourceTest.java:
+  JNoseTool: Unknown Test: 8
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Exception Catching Throwing: 1
+ArryTest.java:
+  JNoseTool: Verbose Test: 9
+  JNoseTool: Magic Number Test: 48
+  JNoseTool: Assertion Roulette: 55
+DatesTest.java:
+  JNoseTool: Unknown Test: 14
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Sensitive Equality: 6
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Print Statement: 7
+IOTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: General Fixture: 1
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Print Statement: 2
+  JNoseTool: Resource Optimism: 7
+  JNoseTool: Sleepy Test: 3
+  JNoseTool: Mystery Guest: 6
+MapsTest.java:
+  JNoseTool: Unknown Test: 8
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 410
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Duplicate Assert: 60
+  JNoseTool: Eager Test: 3
+MethodAccessImplTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 36
+SetsTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 35
+  JNoseTool: Duplicate Assert: 5
+StringScannerTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Lazy Test: 1
+StrTest.java:
+  JNoseTool: Unknown Test: 11
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Magic Number Test: 15
+  JNoseTool: Assertion Roulette: 19
+  JNoseTool: Eager Test: 1
+SysTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Lazy Test: 1
+TypeTypeTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 1
+TypTest.java:
+  JNoseTool: Unknown Test: 1
+ByteScannerTest.java:
+  JNoseTool: Verbose Test: 10
+  JNoseTool: Magic Number Test: 14
+  JNoseTool: Assertion Roulette: 64
+  JNoseTool: Lazy Test: 2
+BytTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Magic Number Test: 35
+  JNoseTool: Assertion Roulette: 43
+  JNoseTool: Print Statement: 1
+CharArrayCharacterSourceTest.java:
+  JNoseTool: Unknown Test: 10
+  JNoseTool: Conditional Test Logic: 11
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Lazy Test: 1
+CharBufTest.java:
+  JNoseTool: Unknown Test: 9
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 9
+CharScannerTest.java:
+  JNoseTool: Unknown Test: 59
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 20
+  JNoseTool: Magic Number Test: 14
+  JNoseTool: Assertion Roulette: 86
+  JNoseTool: Lazy Test: 8
+  JNoseTool: IgnoredTest: 2
+ChrTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 5
+  JNoseTool: Magic Number Test: 36
+  JNoseTool: Assertion Roulette: 46
+DblTest.java:
+  JNoseTool: Unknown Test: 1
+FltTest.java:
+  JNoseTool: Unknown Test: 1
+InMemoryInputStreamTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Eager Test: 1
+InMemoryReaderTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Eager Test: 1
+IntTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Conditional Test Logic: 2
+IOInputStreamTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Eager Test: 1
+IOReaderTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Eager Test: 1
+LngTest.java:
+  JNoseTool: Unknown Test: 2
+ReaderCharacterSourceTest.java:
+  JNoseTool: Unknown Test: 19
+  JNoseTool: Conditional Test Logic: 22
+  JNoseTool: General Fixture: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: EmptyTest: 1
+ShrtTest.java:
+  JNoseTool: Unknown Test: 1
+UtilsTest.java:
+  JNoseTool: Assertion Roulette: 4
+CacheTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 2
+SortableConcurrentListTest.java:
+  JNoseTool: Unknown Test: 1
+ClasspathsTest.java:
+  JNoseTool: Unknown Test: 10
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Mystery Guest: 3
+ConcurrentWeakHashMapTest.java:
+  JNoseTool: Unknown Test: 1
+DoubleListTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Eager Test: 2
+FloatListTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Eager Test: 2
+IntListTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Eager Test: 2
+LongListTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Eager Test: 2
+TerminalTest.java:
+  JNoseTool: Unknown Test: 1

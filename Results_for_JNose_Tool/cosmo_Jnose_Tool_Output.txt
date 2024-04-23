@@ -1,0 +1,213 @@
+ICalendarUtilsTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Sensitive Equality: 11
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 15
+ICalValueParserTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 4
+  JNoseTool: Exception Catching Throwing: 1
+InstanceListTest.java:
+  JNoseTool: Magic Number Test: 21
+  JNoseTool: Sensitive Equality: 138
+  JNoseTool: Assertion Roulette: 228
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Eager Test: 21
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 20
+  JNoseTool: Print Statement: 3
+CalendarFilterEvaluaterTest.java:
+  JNoseTool: Duplicate Assert: 9
+  JNoseTool: Assertion Roulette: 48
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 14
+  JNoseTool: Verbose Test: 6
+StandardCalendarQueryProcessorTest.java:
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: General Fixture: 5
+RecurrenceExpanderTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 15
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Assertion Roulette: 31
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 8
+ContentDaoInvocationHandlerTest.java:
+  JNoseTool: Unknown Test: 5
+PathSegmentsTest.java:
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 4
+UuidExternalGeneratorTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Lazy Test: 1
+CalendarFilterConverterTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Constructor Initialization: 1
+StandardItemFilterProcessorTest.java:
+  JNoseTool: Assertion Roulette: 28
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: General Fixture: 1
+DavUserPrincipalTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 2
+FreeBusyReportTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Exception Catching Throwing: 3
+  JNoseTool: Unknown Test: 1
+MultigetReportTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Exception Catching Throwing: 5
+  JNoseTool: Unknown Test: 4
+QueryReportTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Exception Catching Throwing: 7
+DavCalendarCollectionTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 1
+DavCalendarResourceTest.java:
+  JNoseTool: Unknown Test: 1
+DavCollectionBaseTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 2
+StandardDavRequestTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 3
+  JNoseTool: Exception Catching Throwing: 1
+ReportBaseTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 4
+StandardRequestHandlerTest.java:
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 11
+  JNoseTool: Exception Catching Throwing: 10
+SimpleUrlContentReaderTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 1
+ColorValidatorTest.java:
+  JNoseTool: Lazy Test: 1
+CalendarAttributeTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Eager Test: 1
+  JNoseTool: Verbose Test: 1
+EventStampTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 3
+EntityConverterTest.java:
+  JNoseTool: Magic Number Test: 20
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Duplicate Assert: 9
+  JNoseTool: Assertion Roulette: 83
+  JNoseTool: Verbose Test: 6
+EventStampInterceptorTest.java:
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Verbose Test: 2
+ModificationUidTest.java:
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Exception Catching Throwing: 3
+  JNoseTool: Verbose Test: 1
+NoteItemTest.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Verbose Test: 1
+NoteOccurrenceTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Eager Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Verbose Test: 1
+SecurityAdviceTest.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Verbose Test: 2
+  JNoseTool: General Fixture: 5
+SecurityHelperTest.java:
+  JNoseTool: Duplicate Assert: 7
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Verbose Test: 3
+  JNoseTool: General Fixture: 4
+CollectionPathTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Exception Catching Throwing: 1
+UserPathTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Exception Catching Throwing: 1
+StandardContentServiceTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Duplicate Assert: 8
+  JNoseTool: Assertion Roulette: 49
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: General Fixture: 4
+  JNoseTool: Conditional Test Logic: 1
+StandardTriageStatusQueryProcessorTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: General Fixture: 3
+StandardUserServiceTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: General Fixture: 5
+  JNoseTool: Sleepy Test: 2
+SingleVMLockManagerTest.java:
+  JNoseTool: Magic Number Test: 9
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Sleepy Test: 2
+BufferedContentTest.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Eager Test: 1
+BufferedServletOutputStreamTest.java:
+  JNoseTool: Assertion Roulette: 3
+DomWriterTest.java:
+  JNoseTool: Assertion Roulette: 1
+StringPropertyUtilsTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 12
+UriTemplateTest.java:
+  JNoseTool: Assertion Roulette: 2

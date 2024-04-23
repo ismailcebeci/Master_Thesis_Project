@@ -1,0 +1,16 @@
+DiffPayloadTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: General Fixture: 2
+EpoxyAdapterTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 33
+  JNoseTool: Magic Number Test: 13
+  JNoseTool: Lazy Test: 7
+  JNoseTool: Eager Test: 11
+  JNoseTool: Conditional Test Logic: 5
+EpoxyControllerTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 1

@@ -1,0 +1,4 @@
+MediaDecoderTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 10

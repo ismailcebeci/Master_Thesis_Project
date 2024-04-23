@@ -1,0 +1,138 @@
+OwnerNameServiceTest.java:
+  JNoseTool: Assertion Roulette: 35
+AspspRemoteUrlsTest.java:
+  JNoseTool: Assertion Roulette: 20
+IbanResolverMockServiceTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 2
+AddressMapperTest.java:
+  JNoseTool: Assertion Roulette: 2
+AisConsentMapperTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Magic Number Test: 1
+ChallengeDataMapperTest.java:
+  JNoseTool: Assertion Roulette: 2
+LedgersSpiAccountMapperTest.java:
+  JNoseTool: Assertion Roulette: 13
+LedgersSpiCommonPaymentTOMapperTest.java:
+  JNoseTool: Assertion Roulette: 6
+LedgersSpiPaymentMapperHelperTest.java:
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Conditional Test Logic: 2
+LedgersSpiPaymentMapperTest.java:
+  JNoseTool: Assertion Roulette: 4
+LedgersSpiPaymentToMapperTest.java:
+  JNoseTool: Assertion Roulette: 3
+ScaMethodConverterTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: General Fixture: 2
+ScaMethodUtilsTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Magic Number Test: 2
+SpiScaStatusResponseMapperTest.java:
+  JNoseTool: Assertion Roulette: 2
+AccountSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 86
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: General Fixture: 7
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Mystery Guest: 1
+AspspConsentDataServiceTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Duplicate Assert: 2
+AbstractAuthorisationSpiTest.java:
+  JNoseTool: Assertion Roulette: 4
+AisConsentSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 61
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Unknown Test: 3
+ConsentAuthConfirmationCodeServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Lazy Test: 1
+PaymentAuthConfirmationCodeServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 1
+GeneralAuthorisationServiceTest.java:
+  JNoseTool: Assertion Roulette: 17
+PaymentAuthorisationSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 29
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: General Fixture: 1
+  JNoseTool: Verbose Test: 1
+PaymentCancellationSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 52
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: General Fixture: 2
+PiisConsentSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 52
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: General Fixture: 1
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Eager Test: 1
+CardAccountSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 47
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: General Fixture: 3
+  JNoseTool: Verbose Test: 2
+FeignExceptionHandlerTest.java:
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Lazy Test: 2
+FeignExceptionReaderTest.java:
+  JNoseTool: Assertion Roulette: 4
+FundsConfirmationSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Verbose Test: 1
+GeneralPaymentServiceTest.java:
+  JNoseTool: Assertion Roulette: 51
+  JNoseTool: General Fixture: 1
+  JNoseTool: Verbose Test: 2
+LedgersErrorCodeTest.java:
+  JNoseTool: Assertion Roulette: 2
+MultilevelScaServiceTest.java:
+  JNoseTool: Assertion Roulette: 3
+PaymentSpiImplTest.java:
+  JNoseTool: Unknown Test: 3
+AbstractPaymentSpiTest.java:
+  JNoseTool: Unknown Test: 3
+BulkPaymentSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 4
+CommonPaymentSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 8
+CurrencyConversionInfoSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+PeriodicPaymentSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 4
+SinglePaymentSpiImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 4
+AspspConsentDataExtractorTest.java:
+  JNoseTool: Assertion Roulette: 2
+LedgersValidationConfigImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+LedgersDefaultPaymentValidatorHolderTest.java:
+  JNoseTool: Assertion Roulette: 4
+LedgersPaymentBodyFieldsValidatorImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 1
+CmsPsuPisClientEmbeddedImplTest.java:
+  JNoseTool: Unknown Test: 1
+OAuthConfigurationTest.java:
+  JNoseTool: Assertion Roulette: 5
+OauthProfileServiceWrapperTest.java:
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: General Fixture: 1
+TokenAuthenticationFilterTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Unknown Test: 3
+CmsPsuPisClientRemoteImplTest.java:
+  JNoseTool: Unknown Test: 1

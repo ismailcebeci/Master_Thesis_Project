@@ -1,0 +1,45 @@
+MapUtilsTest.java:
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+PreferencesTest.java:
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Duplicate Assert: 2
+EmptyRecyclerViewTest.java:
+  JNoseTool: Assertion Roulette: 2
+AppUtilsTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 3
+IntentUtilsTest.java:
+  JNoseTool: Assertion Roulette: 9
+NetworkUtilsTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Duplicate Assert: 1
+StringUtilsTest.java:
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Duplicate Assert: 1
+CheckDataServiceTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Duplicate Assert: 1
+BaseImportTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Unknown Test: 2
+ImportBaggersTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+ImportLocationsTest.java:
+  JNoseTool: Assertion Roulette: 1
+CityTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 1
+AboutActivityTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: General Fixture: 1
+AboutPagerAdapterTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Magic Number Test: 1

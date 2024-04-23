@@ -1,0 +1,2 @@
+ErpApplicationTests.java:
+  JNoseTool: EmptyTest: 1

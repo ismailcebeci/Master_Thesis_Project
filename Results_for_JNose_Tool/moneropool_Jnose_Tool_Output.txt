@@ -1,0 +1,18 @@
+DifficultyCalculatorTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 2
+DifficultyTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1
+StratumMessageCodecTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Assertion Roulette: 2
+HexUtilsTest.java:
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2

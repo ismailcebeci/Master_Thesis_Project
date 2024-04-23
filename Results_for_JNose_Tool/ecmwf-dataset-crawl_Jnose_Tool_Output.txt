@@ -1,0 +1,13 @@
+CrawlStatusUpdaterBoltTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 3
+LuceneScoreFilterTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Print Statement: 1

@@ -1,0 +1,26 @@
+BitMapTest.java:
+  JNoseTool: EmptyTest: 3
+JsonArrayTest.java:
+  JNoseTool: EmptyTest: 3
+JsonObjectTest.java:
+  JNoseTool: EmptyTest: 3
+TypeTest.java:
+  JNoseTool: EmptyTest: 3
+HttpListenerTest.java:
+  JNoseTool: EmptyTest: 4
+HeaderParamsTest.java:
+  JNoseTool: EmptyTest: 4
+RequestParamsTest.java:
+  JNoseTool: EmptyTest: 4
+BitMapTaskTest.java:
+  JNoseTool: EmptyTest: 4
+JsonArrayTaskTest.java:
+  JNoseTool: EmptyTest: 4
+JsonObjectTaskTest.java:
+  JNoseTool: EmptyTest: 4
+ResponseTest.java:
+  JNoseTool: EmptyTest: 6
+CacheManagerInterfaceTest.java:
+  JNoseTool: EmptyTest: 4
+CacheManagerTest.java:
+  JNoseTool: EmptyTest: 5

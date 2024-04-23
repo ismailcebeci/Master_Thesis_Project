@@ -1,0 +1,6 @@
+Base64ConversionToolTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Print Statement: 2

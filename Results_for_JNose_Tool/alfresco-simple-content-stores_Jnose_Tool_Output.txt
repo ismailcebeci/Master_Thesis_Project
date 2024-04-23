@@ -1,0 +1,8 @@
+CompressingContentStoreTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 1

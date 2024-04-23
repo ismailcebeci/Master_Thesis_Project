@@ -1,0 +1,3 @@
+IrBillTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 42

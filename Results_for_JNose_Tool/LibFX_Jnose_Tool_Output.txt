@@ -1,0 +1,26 @@
+BackwardsDfsTreeIterationStrategyTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: General Fixture: 1
+DfsTreeIterationStrategyTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: General Fixture: 1
+SimpleTreeNodeTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 3
+TreeIteratorTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 2
+TreePathFactoryTest.java:
+  JNoseTool: Assertion Roulette: 22
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Magic Number Test: 6
+ExecuteAlwaysWhenTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: General Fixture: 1
+  JNoseTool: Magic Number Test: 8
+ExecuteOnceWhenTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: General Fixture: 3
+  JNoseTool: Magic Number Test: 6
+AbstractControlPropertyListenerHandleTest.java:
+  JNoseTool: Unknown Test: 6

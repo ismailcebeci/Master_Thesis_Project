@@ -1,0 +1,20 @@
+GeometryCollectionTest.java:
+  JNoseTool: Assertion Roulette: 1
+LineStringTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+MultiLineStringTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 1
+MultiPointTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+PointTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 2
+PolygonTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Lazy Test: 2

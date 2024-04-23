@@ -1,0 +1,7 @@
+MarshmallowReprintModuleTest.java:
+  JNoseTool: Assertion Roulette: 10
+ReprintTest.java:
+  JNoseTool: Unknown Test: 2
+RxReprintTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 4

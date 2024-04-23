@@ -1,0 +1,29 @@
+BinarySearchTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+BreadthFirstSearchTest.java:
+  JNoseTool: Assertion Roulette: 2
+DepthFirstSearchTest.java:
+  JNoseTool: Assertion Roulette: 2
+MergeSortTest.java:
+  JNoseTool: Assertion Roulette: 1
+QuicksortTest.java:
+  JNoseTool: Assertion Roulette: 1
+DynamicArrayTest.java:
+  JNoseTool: Assertion Roulette: 6
+HashTableTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Conditional Test Logic: 1
+HeapTest.java:
+  JNoseTool: Assertion Roulette: 7
+QueueTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Duplicate Assert: 1
+StackTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Duplicate Assert: 1
+TreeTest.java:
+  JNoseTool: Assertion Roulette: 3
+TrieTest.java:
+  JNoseTool: Assertion Roulette: 4

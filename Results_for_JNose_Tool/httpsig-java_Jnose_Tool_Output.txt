@@ -1,0 +1,48 @@
+ConstantsTest.java:
+  JNoseTool: Conditional Test Logic: 2
+DefaultVerifierTest.java:
+  JNoseTool: Unknown Test: 2
+RequestContentTest.java:
+  JNoseTool: Conditional Test Logic: 2
+SignerTest.java:
+  JNoseTool: EmptyTest: 1
+HmacKeyTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 5
+  JNoseTool: Assertion Roulette: 8
+Http3UtilTest.java:
+  JNoseTool: Unknown Test: 2
+Http4UtilTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Verbose Test: 1
+AsyncUtilTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Verbose Test: 1
+PEMUtilTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Exception Catching Throwing: 2
+AuthorizedKeysTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Mystery Guest: 1
+KeyFormatTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Mystery Guest: 1
+JschKeyTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+KeyTestUtilTest.java:
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Mystery Guest: 3
+  JNoseTool: IgnoredTest: 1

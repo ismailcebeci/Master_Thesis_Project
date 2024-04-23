@@ -1,0 +1,13 @@
+AdamantApiWrapperTest.java:
+  JNoseTool: IgnoredTest: 1
+FCMNotificationServiceFacadeTest.java:
+  JNoseTool: General Fixture: 4
+AdamantAddressExtractorTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 7
+SettingsPresenterTest.java:
+  JNoseTool: General Fixture: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 2

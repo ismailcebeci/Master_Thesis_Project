@@ -1,0 +1,34 @@
+TestChecks.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+TestDates.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Print Statement: 6
+TestExpireMap.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 1
+  JNoseTool: Sleepy Test: 1
+TestExtCollections.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Print Statement: 4
+TestIdCards.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Print Statement: 5
+TestImages.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Print Statement: 2
+TestLogFormats.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 1
+TestNames.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 1
+TestRandoms.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Print Statement: 5

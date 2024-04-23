@@ -1,0 +1,39 @@
+FileClientTest.java:
+  JNoseTool: Unknown Test: 1
+RedisInputStreamTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: EmptyTest: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 1
+RedisOutputStreamTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Lazy Test: 1
+AggResultTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Print Statement: 2
+SimpleGeneralAllocCalculatorTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Conditional Test Logic: 7
+  JNoseTool: Print Statement: 13
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Verbose Test: 5
+SimpleGeneralServiceModelTest.java:
+  JNoseTool: Unknown Test: 9
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Print Statement: 23
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Verbose Test: 1
+ExecutionAnalyzerTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 1
+  JNoseTool: General Fixture: 2
+TopologyListenerTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Print Statement: 4

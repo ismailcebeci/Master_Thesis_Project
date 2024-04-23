@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+Spring-Boot-Demo;DemoApplicationTests;C:\Users\cebec\.jnose_projects\Spring-Boot-Demo\src\test\java\com\example\DemoApplicationTests.java;C:\Users\cebec\.jnose_projects\Spring-Boot-Demo\src\main\java\com\example\DemoApplication.java;JUnit4;16;1;EmptyTest;contextLoads;12-14;12-14

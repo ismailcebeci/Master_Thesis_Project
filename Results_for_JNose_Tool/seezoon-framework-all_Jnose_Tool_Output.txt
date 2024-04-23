@@ -1,0 +1,28 @@
+PropertyUtilTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 2
+FreeMarkerUtilsTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 1
+KaptchaHelperTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+ZxingHelperTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Mystery Guest: 1
+SysFileDaoTest.java:
+  JNoseTool: Unknown Test: 1
+SysGenDaoTest.java:
+  JNoseTool: Unknown Test: 2
+GeneratorServiceTest.java:
+  JNoseTool: Unknown Test: 1
+SysRoleServiceTest.java:
+  JNoseTool: Unknown Test: 7
+  JNoseTool: Print Statement: 6
+  JNoseTool: Conditional Test Logic: 1
+SysParamServiceTest.java:
+  JNoseTool: EmptyTest: 1

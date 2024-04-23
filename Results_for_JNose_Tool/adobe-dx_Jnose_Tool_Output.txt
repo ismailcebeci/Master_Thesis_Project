@@ -1,0 +1,111 @@
+AuthorVhTest.java:
+  JNoseTool: Assertion Roulette: 8
+CaColorfieldModelTest.java:
+  JNoseTool: Assertion Roulette: 2
+SettingsProviderImplTest.java:
+  JNoseTool: Assertion Roulette: 5
+TagImplTest.java:
+  JNoseTool: Assertion Roulette: 4
+ColumnViewItemTest.java:
+  JNoseTool: Assertion Roulette: 1
+ColumnViewDataSourceImplTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 1
+ContextAwareDatasourceTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Conditional Test Logic: 4
+AbstractRenderConditionTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 1
+LockPropertyRenderConditionTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+ResponsiveIncludeTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Magic Number Test: 1
+EncryptionServletTest.java:
+  JNoseTool: Unknown Test: 7
+  JNoseTool: IgnoredTest: 7
+MarketoConfDetailedInfoTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 3
+MarketoFooterTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: IgnoredTest: 1
+MarketoClientServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: IgnoredTest: 4
+  JNoseTool: Sensitive Equality: 1
+MarketoServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: IgnoredTest: 6
+MarketoDatasourceTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 4
+FlexGeneralStyleTest.java:
+  JNoseTool: Assertion Roulette: 3
+FlexItemsDefinitionsTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Verbose Test: 1
+FlexModelTest.java:
+  JNoseTool: Assertion Roulette: 4
+DxBindingsValueProviderTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 2
+AttributeServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 5
+IDTaggerImplTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Conditional Test Logic: 9
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+SpacingTest.java:
+  JNoseTool: Assertion Roulette: 7
+BackgroundTest.java:
+  JNoseTool: Assertion Roulette: 11
+BorderTest.java:
+  JNoseTool: Assertion Roulette: 4
+ColorTest.java:
+  JNoseTool: Assertion Roulette: 4
+InlineStyleServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+ShadowTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: IgnoredTest: 1
+ResponsivePropertiesImplTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Duplicate Assert: 1
+AbstractWorkerManagerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 1
+CloudConfigReaderImplTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 3
+MockCryptoSupportTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: IgnoredTest: 1
+AbstractOakTestTest.java:
+  JNoseTool: Assertion Roulette: 2
+AbstractTestTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 1
+AbstractRequestModelTestTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 2
+ResponsiveContextTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: IgnoredTest: 1
+SomeModelTest.java:
+  JNoseTool: Assertion Roulette: 3

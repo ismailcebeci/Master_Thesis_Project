@@ -1,0 +1,15 @@
+DirectoryWatcherTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Mystery Guest: 1
+GitAlgorithmRepositoryTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1

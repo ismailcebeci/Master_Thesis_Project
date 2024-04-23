@@ -1,0 +1,39 @@
+ComputerTest.java:
+  JNoseTool: Magic Number Test: 36
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 36
+ConditionCodeOpcodesTest.java:
+  JNoseTool: Magic Number Test: 24
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 64
+  JNoseTool: Duplicate Assert: 9
+FloppyControllerTest.java:
+  JNoseTool: Magic Number Test: 15
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: General Fixture: 2
+Sel1RegisterSystemBitsTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Duplicate Assert: 1
+TimerTest.java:
+  JNoseTool: Magic Number Test: 21
+  JNoseTool: Assertion Roulette: 26
+  JNoseTool: Duplicate Assert: 5
+RandomAccessMemoryTest.java:
+  JNoseTool: Magic Number Test: 19
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Duplicate Assert: 3
+ReadOnlyMemoryTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Eager Test: 2
+Crc16UtilsTest.java:
+  JNoseTool: Assertion Roulette: 1

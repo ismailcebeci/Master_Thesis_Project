@@ -1,0 +1,19 @@
+GenealogyTests.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Constructor Initialization: 1
+RelationTests.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Constructor Initialization: 1
+WeightsTests.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 2
+ArticleFactoryTests.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 16
+TagTests.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 7
+RecommenderTests.java:
+  JNoseTool: Assertion Roulette: 4

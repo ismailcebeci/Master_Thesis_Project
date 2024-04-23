@@ -1,0 +1,18 @@
+NonResubscribableTagTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 3
+ObservableGroupTest.java:
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Assertion Roulette: 48
+  JNoseTool: Duplicate Assert: 7
+  JNoseTool: Eager Test: 5
+  JNoseTool: Exception Catching Throwing: 1
+ObservableManagerTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Exception Catching Throwing: 3
+  JNoseTool: Conditional Test Logic: 1
+SubscriptionProxyTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Magic Number Test: 1

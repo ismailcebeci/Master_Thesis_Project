@@ -1,0 +1,44 @@
+AuthorTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+CommitTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+EventTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+RepositoryTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+UserTest.java:
+  JNoseTool: Assertion Roulette: 2
+CommentTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+TransitionInputTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+CommentResponseTest.java:
+  JNoseTool: Assertion Roulette: 2
+TransitionResponseTest.java:
+  JNoseTool: Assertion Roulette: 2
+TransitionTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+GitLabAuthenticatorTest.java:
+  JNoseTool: Assertion Roulette: 3
+IntegrationServiceTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Verbose Test: 1
+JiraServiceTest.java:
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Duplicate Assert: 3
+GitLabJiraConfigurationTest.java:
+  JNoseTool: Assertion Roulette: 2

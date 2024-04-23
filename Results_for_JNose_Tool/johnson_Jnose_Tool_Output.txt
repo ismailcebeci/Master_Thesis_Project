@@ -1,0 +1,9 @@
+TestJohnson.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 18
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 19
+  JNoseTool: Conditional Test Logic: 2
+TestTarjan.java:
+  JNoseTool: Magic Number Test: 18
+  JNoseTool: Assertion Roulette: 18

@@ -1,0 +1,26 @@
+AsyncSqsClientFactoryTest.java:
+  JNoseTool: Assertion Roulette: 5
+AsyncSqsClientImplTest.java:
+  JNoseTool: Assertion Roulette: 20
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Verbose Test: 6
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 7
+  JNoseTool: General Fixture: 2
+  JNoseTool: Print Statement: 2
+MockAsyncSqsClientTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+SchedulerTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: General Fixture: 1
+PartitionWorkerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: General Fixture: 4
+  JNoseTool: Unknown Test: 5

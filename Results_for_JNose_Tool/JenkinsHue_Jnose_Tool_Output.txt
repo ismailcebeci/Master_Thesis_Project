@@ -1,0 +1,30 @@
+JobListenerTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 13
+BridgeServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 19
+  JNoseTool: Magic Number Test: 2
+HolidayServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 30
+HueServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 3
+JobServiceImplTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Conditional Test Logic: 6
+LampServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 35
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Exception Catching Throwing: 3
+TeamServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Exception Catching Throwing: 2
+UserServiceImplTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Exception Catching Throwing: 1

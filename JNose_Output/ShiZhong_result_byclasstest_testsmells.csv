@@ -1,0 +1,3 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+ShiZhong;PosterUtilsTest;C:\Users\cebec\.jnose_projects\ShiZhong\app\src\test\java\com\zhangke\shizhong\util\PosterUtilsTest.java;C:\Users\cebec\.jnose_projects\ShiZhong\app\src\main\java\com\zhangke\shizhong\util\PosterUtils.java;JUnit4;29;1;Resource Optimism;getMoviePosterFileWithName;21-27;21-27
+ShiZhong;PosterUtilsTest;C:\Users\cebec\.jnose_projects\ShiZhong\app\src\test\java\com\zhangke\shizhong\util\PosterUtilsTest.java;C:\Users\cebec\.jnose_projects\ShiZhong\app\src\main\java\com\zhangke\shizhong\util\PosterUtils.java;JUnit4;29;1;Assertion Roulette;getMoviePosterFileWithName;23-26;23-26

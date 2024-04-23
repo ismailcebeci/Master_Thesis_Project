@@ -1,0 +1,27 @@
+RoutesTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 5
+ApplicationControllerTest.java:
+  JNoseTool: Assertion Roulette: 20
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Print Statement: 1
+I18nControllerTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+PersonControllerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Print Statement: 2
+UploadControllerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Resource Optimism: 1
+TemplateEngineRythmI18nMessageResolverTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+TemplateEngineRythmTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Sensitive Equality: 1

@@ -1,0 +1,4 @@
+CircuitTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 8

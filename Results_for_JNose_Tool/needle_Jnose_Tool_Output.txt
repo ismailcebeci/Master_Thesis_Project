@@ -1,0 +1,51 @@
+BlogEntryDaoTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 4
+UserDaoTest.java:
+  JNoseTool: Assertion Roulette: 2
+BlogEntryTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+CommentTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+UserTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 1
+BlogEntryListServiceTest.java:
+  JNoseTool: Magic Number Test: 9
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Duplicate Assert: 1
+BlogEntryServiceTest.java:
+  JNoseTool: Assertion Roulette: 3
+CommentListServiceTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+CommentServiceTest.java:
+  JNoseTool: Assertion Roulette: 1
+AuthenticatorTest.java:
+  JNoseTool: Assertion Roulette: 8
+AddressTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 1
+PersonTest.java:
+  JNoseTool: Assertion Roulette: 2
+AnnotationsTest.java:
+  JNoseTool: Assertion Roulette: 3
+PreconditionsTest.java:
+  JNoseTool: Unknown Test: 2
+ConfigurationLoaderTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Lazy Test: 2
+LookupCustomClassesTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 1
+  JNoseTool: Lazy Test: 1
+PropertyBasedConfigurationFactoryTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 6
+PersistenceConfigurationFactoryTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Redundant Assertion: 1

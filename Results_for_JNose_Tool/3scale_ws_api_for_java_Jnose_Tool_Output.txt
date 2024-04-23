@@ -1,0 +1,10 @@
+ParameterEncoderTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: General Fixture: 1
+ServiceApiDriverTest.java:
+  JNoseTool: Verbose Test: 6
+  JNoseTool: Assertion Roulette: 55
+  JNoseTool: General Fixture: 2
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 4

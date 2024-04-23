@@ -1,0 +1,6 @@
+JPQLTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 1
+ExampleTest.java:
+  JNoseTool: Unknown Test: 1

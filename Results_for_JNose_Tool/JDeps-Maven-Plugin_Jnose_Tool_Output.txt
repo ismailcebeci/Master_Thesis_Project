@@ -1,0 +1,29 @@
+TypeTest.java:
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Eager Test: 9
+  JNoseTool: Assertion Roulette: 12
+ViolationTest.java:
+  JNoseTool: Assertion Roulette: 13
+DependencyRulesConfigurationTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Exception Catching Throwing: 2
+JdkInternalsExecutionServiceTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Print Statement: 1
+InternalTypeLineParserTest.java:
+  JNoseTool: Assertion Roulette: 8
+ViolationParserTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: General Fixture: 1
+AnnotatedViolationTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 15
+ViolationsToRuleTransformerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: General Fixture: 1
+ArrowRuleParserTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Duplicate Assert: 1

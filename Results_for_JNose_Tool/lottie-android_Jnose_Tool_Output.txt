@@ -1,0 +1,14 @@
+KeyPathTest.java:
+  JNoseTool: Magic Number Test: 62
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: General Fixture: 1
+LottieCompositionFactoryTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 19
+LottieCompositionTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+LottieDrawableTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 1

@@ -1,0 +1,5 @@
+HiveTableEnvTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Magic Number Test: 19
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 36

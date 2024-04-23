@@ -1,0 +1,30 @@
+CswToBuilderMapperTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: General Fixture: 2
+SchemaGeneratorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 11
+XPathHelperTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 2
+JsonTransformerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: General Fixture: 4
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Exception Catching Throwing: 2
+MappingEntryTest.java:
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 3
+JsonSchemaValidatorTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 2
+XmlSchemaValidatorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Exception Catching Throwing: 2

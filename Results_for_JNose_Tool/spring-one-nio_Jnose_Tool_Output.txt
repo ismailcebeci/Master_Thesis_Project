@@ -1,0 +1,4 @@
+OneDemoApplicationTests.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Mystery Guest: 1

@@ -1,0 +1,18 @@
+AkkaStreamsDemoTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: General Fixture: 2
+ReactorDemoTest.java:
+  JNoseTool: Unknown Test: 6
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Magic Number Test: 5
+RxJavaDemoTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Resource Optimism: 2

@@ -1,0 +1,5 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+backflow;ProxyServerTest;C:\Users\cebec\.jnose_projects\backflow\src\test\java\backflow\ProxyServerTest.java;C:\Users\cebec\.jnose_projects\backflow\src\main\java\backflow\ProxyServer.java;JUnit4;79;8;Unknown Test;returnsInitialBackend;30-38;30-38
+backflow;ProxyServerTest;C:\Users\cebec\.jnose_projects\backflow\src\test\java\backflow\ProxyServerTest.java;C:\Users\cebec\.jnose_projects\backflow\src\main\java\backflow\ProxyServer.java;JUnit4;79;8;Unknown Test;postAddsNewBackend;40-52;40-52
+backflow;ProxyServerTest;C:\Users\cebec\.jnose_projects\backflow\src\test\java\backflow\ProxyServerTest.java;C:\Users\cebec\.jnose_projects\backflow\src\main\java\backflow\ProxyServer.java;JUnit4;79;8;Unknown Test;deleteRemovesBackend;54-65;54-65
+backflow;ProxyServerTest;C:\Users\cebec\.jnose_projects\backflow\src\test\java\backflow\ProxyServerTest.java;C:\Users\cebec\.jnose_projects\backflow\src\main\java\backflow\ProxyServer.java;JUnit4;79;8;Unknown Test;failesWithoutAuthentication;67-74;67-74

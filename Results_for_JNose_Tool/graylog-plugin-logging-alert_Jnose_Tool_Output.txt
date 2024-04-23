@@ -1,0 +1,5 @@
+LoggingNotificationConfigTest.java:
+  JNoseTool: Assertion Roulette: 3
+MessagesURLBuilderTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 5

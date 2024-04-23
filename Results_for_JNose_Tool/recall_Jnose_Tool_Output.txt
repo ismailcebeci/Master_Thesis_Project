@@ -1,0 +1,18 @@
+ByteSequenceMapTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Conditional Test Logic: 13
+CharSequenceMapTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Conditional Test Logic: 16
+  JNoseTool: Sensitive Equality: 1
+ByteBufferOpsTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+UnsafeBufferOpsTest.java:
+  JNoseTool: Assertion Roulette: 1

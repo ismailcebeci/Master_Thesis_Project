@@ -1,0 +1,56 @@
+AbstractDestinationTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Exception Catching Throwing: 1
+BufferedDestinationTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Duplicate Assert: 1
+DestinationBuilderTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 4
+DestinationPoolTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+ListenableDestinationTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+PipeManagerTest.java:
+  JNoseTool: Assertion Roulette: 1
+PipeTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Verbose Test: 1
+AbstractSourceTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 1
+ListenableSourceTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+ChainedFilterTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 3
+ClassBasedMapperTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+MutationOrderValidatorTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+KafkaDestinationTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 5
+GtidSetTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Redundant Assertion: 2
+  JNoseTool: Sensitive Equality: 6

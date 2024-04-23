@@ -1,0 +1,3 @@
+PkgIntTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 2

@@ -1,0 +1,6 @@
+Il8NHelperTest.java:
+  JNoseTool: Assertion Roulette: 1
+UtilitiesTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: General Fixture: 1

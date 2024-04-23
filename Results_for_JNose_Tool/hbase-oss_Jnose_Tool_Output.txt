@@ -1,0 +1,9 @@
+AuthServiceTest.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Conditional Test Logic: 3
+UserServiceTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Print Statement: 1
+BucketMapperTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: EmptyTest: 6

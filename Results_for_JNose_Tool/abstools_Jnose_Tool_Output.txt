@@ -1,0 +1,21 @@
+CollectionUtilTest.java:
+  JNoseTool: Assertion Roulette: 2
+ByteUtilTest.java:
+  JNoseTool: Assertion Roulette: 3
+DeltaTests.java:
+  JNoseTool: Constructor Initialization: 1
+DeltaTrieTest.java:
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Magic Number Test: 7
+ProgramAbstractionTest.java:
+  JNoseTool: Assertion Roulette: 40
+  JNoseTool: Magic Number Test: 27
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 5
+  JNoseTool: Print Statement: 1
+TopologicalSortingTest.java:
+  JNoseTool: Conditional Test Logic: 1
+LocationTypeTests.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: IgnoredTest: 2

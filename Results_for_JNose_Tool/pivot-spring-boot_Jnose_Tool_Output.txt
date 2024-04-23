@@ -1,0 +1,3 @@
+PivotSpringbootApplicationTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: EmptyTest: 1

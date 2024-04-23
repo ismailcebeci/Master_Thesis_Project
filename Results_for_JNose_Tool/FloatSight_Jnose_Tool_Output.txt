@@ -1,0 +1,19 @@
+RangeMarkerViewTest.java:
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: General Fixture: 1
+TouchableMarkerViewTest.java:
+  JNoseTool: Duplicate Assert: 6
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: General Fixture: 1
+  JNoseTool: Magic Number Test: 21
+FlySightTrackDataTest.java:
+  JNoseTool: Assertion Roulette: 27
+  JNoseTool: Magic Number Test: 20
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 9
+GPSCoordinateTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2

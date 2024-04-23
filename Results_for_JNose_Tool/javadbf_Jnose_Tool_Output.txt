@@ -1,0 +1,34 @@
+DBFCharsetHelperTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 2
+DBFDataTypeTest.java:
+  JNoseTool: Assertion Roulette: 1
+DBFFieldTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Eager Test: 12
+DBFLockWriterTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Mystery Guest: 2
+DBFMemoFileTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 4
+  JNoseTool: Resource Optimism: 4
+  JNoseTool: IgnoredTest: 4

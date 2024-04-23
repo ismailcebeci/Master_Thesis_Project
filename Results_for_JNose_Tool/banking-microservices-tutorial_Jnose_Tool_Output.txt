@@ -1,0 +1,8 @@
+AccountTest.java:
+  JNoseTool: Unknown Test: 10
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Assertion Roulette: 11
+StandardAccountRulesTest.java:
+  JNoseTool: Assertion Roulette: 9
+TransactionSagaTest.java:
+  JNoseTool: Unknown Test: 3

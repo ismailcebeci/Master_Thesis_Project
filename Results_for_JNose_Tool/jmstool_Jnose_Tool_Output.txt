@@ -1,0 +1,24 @@
+AsyncMessageSenderTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 2
+ConnectionFactoryDecoratingPostProcessorTest.java:
+  JNoseTool: Assertion Roulette: 1
+JmsMessageListenerTest.java:
+  JNoseTool: Assertion Roulette: 16
+SimpleMessageTextCreatorTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+SimpleMessageTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 1
+QueueManagerTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: General Fixture: 4
+LocalMessageStorageTest.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Conditional Test Logic: 1

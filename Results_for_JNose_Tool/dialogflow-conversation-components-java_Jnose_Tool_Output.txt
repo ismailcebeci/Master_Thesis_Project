@@ -1,0 +1,4 @@
+ConversationComponentsAppTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 21

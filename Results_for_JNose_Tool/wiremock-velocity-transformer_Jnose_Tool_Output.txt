@@ -1,0 +1,6 @@
+VelocityResponseTransformerTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 26
+  JNoseTool: General Fixture: 2
+  JNoseTool: Print Statement: 2

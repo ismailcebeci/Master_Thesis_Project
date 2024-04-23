@@ -1,0 +1,3 @@
+CsvFunctionTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: General Fixture: 1

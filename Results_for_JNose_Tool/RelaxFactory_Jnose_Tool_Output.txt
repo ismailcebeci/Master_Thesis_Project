@@ -1,0 +1,16 @@
+CookieRfc6265UtilTest.java:
+  JNoseTool: Assertion Roulette: 4
+DateHeaderParserTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Conditional Test Logic: 2
+CouchServiceTest.java:
+  JNoseTool: Assertion Roulette: 47
+  JNoseTool: Conditional Test Logic: 11
+  JNoseTool: Magic Number Test: 20
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Exception Catching Throwing: 3
+Rfc822HeaderStateTest.java:
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1

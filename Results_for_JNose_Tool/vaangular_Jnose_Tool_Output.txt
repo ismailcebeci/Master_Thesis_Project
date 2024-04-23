@@ -1,0 +1,16 @@
+MethodInvokerTest.java:
+  JNoseTool: IgnoredTest: 2
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 5
+NgTemplatePlusTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 4
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Verbose Test: 1
+NgTemplateTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 4
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Verbose Test: 1

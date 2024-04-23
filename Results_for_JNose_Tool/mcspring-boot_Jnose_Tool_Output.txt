@@ -1,0 +1,18 @@
+CommandInterceptorTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 2
+DefaultCommandExecutorTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Magic Number Test: 7
+ScopePostProcessorTest.java:
+  JNoseTool: Unknown Test: 1
+SpringSpigotAutoConfigurationTest.java:
+  JNoseTool: Unknown Test: 1
+SpringSpigotInitializerTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 1
+UtilAspectTest.java:
+  JNoseTool: Unknown Test: 2
+CommandUtilsTest.java:
+  JNoseTool: Magic Number Test: 4

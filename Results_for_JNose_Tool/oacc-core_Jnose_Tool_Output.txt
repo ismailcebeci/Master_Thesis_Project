@@ -1,0 +1,62 @@
+BCryptPasswordEncryptorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Exception Catching Throwing: 2
+PasswordEncoderDecoderTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Exception Catching Throwing: 3
+JasyptPasswordEncryptorTest.java:
+  JNoseTool: Assertion Roulette: 8
+LegacyJasyptPasswordEncryptorTest.java:
+  JNoseTool: Assertion Roulette: 8
+StandardByteDigesterPoolTest.java:
+  JNoseTool: Assertion Roulette: 13
+TransitioningPasswordEncryptorTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 13
+TextNormalizerTest.java:
+  JNoseTool: Assertion Roulette: 7
+TestDomainCreatePermission.java:
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Assertion Roulette: 42
+  JNoseTool: Exception Catching Throwing: 14
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 10
+  JNoseTool: Conditional Test Logic: 13
+TestDomainPermission.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Exception Catching Throwing: 12
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 10
+  JNoseTool: Conditional Test Logic: 9
+TestResource.java:
+  JNoseTool: Assertion Roulette: 4
+TestResourceCreatePermission.java:
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Assertion Roulette: 42
+  JNoseTool: Exception Catching Throwing: 14
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 10
+  JNoseTool: Conditional Test Logic: 13
+TestResourcePermission.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 44
+  JNoseTool: Exception Catching Throwing: 10
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 9
+  JNoseTool: Conditional Test Logic: 11

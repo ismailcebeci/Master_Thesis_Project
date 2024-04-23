@@ -1,0 +1,6 @@
+TestBadRequest.java:
+  JNoseTool: Assertion Roulette: 1
+TestTrackerProtocol.java:
+  JNoseTool: Assertion Roulette: 85
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1

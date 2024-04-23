@@ -1,0 +1,3 @@
+GuavaCollectorsTest.java:
+  JNoseTool: Lazy Test: 11
+  JNoseTool: Assertion Roulette: 25

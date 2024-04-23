@@ -1,0 +1,10 @@
+MockJedisClusterTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+MockJedisPoolTest.java:
+  JNoseTool: Unknown Test: 1
+MockJedisTest.java:
+  JNoseTool: Assertion Roulette: 60
+  JNoseTool: Magic Number Test: 23
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Exception Catching Throwing: 1

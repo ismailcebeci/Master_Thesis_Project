@@ -1,0 +1,3 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+FriendlyDemo;StoreTest;C:\Users\cebec\.jnose_projects\FriendlyDemo\app\src\test\java\nyc\friendlyrobot\demo\data\store\StoreTest.java;C:\Users\cebec\.jnose_projects\FriendlyDemo\app\src\main\java\nyc\friendlyrobot\demo\data\store\base\Store.java;JUnit4;26;3;Magic Number Test;testStore;24;24
+FriendlyDemo;StoreTest;C:\Users\cebec\.jnose_projects\FriendlyDemo\app\src\test\java\nyc\friendlyrobot\demo\data\store\StoreTest.java;C:\Users\cebec\.jnose_projects\FriendlyDemo\app\src\main\java\nyc\friendlyrobot\demo\data\store\base\Store.java;JUnit4;26;3;Assertion Roulette;testStore;24-24;24-24

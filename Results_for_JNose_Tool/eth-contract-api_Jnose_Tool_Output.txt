@@ -1,0 +1,8 @@
+EthereumFacadeTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Print Statement: 1
+KeystoreTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 1

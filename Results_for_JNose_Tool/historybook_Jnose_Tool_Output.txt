@@ -1,0 +1,44 @@
+IndexTest.java:
+  JNoseTool: Magic Number Test: 17
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 39
+  JNoseTool: Exception Catching Throwing: 6
+IndexDocumentAdapterTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Eager Test: 6
+LongConstValueSourceTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 1
+LittleProxyRequestTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 1
+LittleProxyResponseTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 3
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 1
+ProxyTest.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Exception Catching Throwing: 3
+IndexingProxyResponseInfoSelectorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 6
+CollectionResourceTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 3
+HtmlTextExtractorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 2

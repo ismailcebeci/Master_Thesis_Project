@@ -1,0 +1,22 @@
+ImportConfigPropertiesTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 31
+KeycloakConfigPropertiesTest.java:
+  JNoseTool: Assertion Roulette: 12
+ClientScopeUtilTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Duplicate Assert: 1
+CloneUtilTest.java:
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Assertion Roulette: 29
+  JNoseTool: Lazy Test: 3
+CryptoUtilTest.java:
+  JNoseTool: Assertion Roulette: 2
+JsonUtilTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Lazy Test: 6
+KeycloakUtilTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Duplicate Assert: 1
+VersionUtilTest.java:
+  JNoseTool: Assertion Roulette: 19

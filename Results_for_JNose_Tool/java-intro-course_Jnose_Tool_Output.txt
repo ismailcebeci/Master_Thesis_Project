@@ -1,0 +1,7 @@
+PersonDaoTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: General Fixture: 1
+StaticContextTest.java:
+  JNoseTool: Assertion Roulette: 14

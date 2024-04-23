@@ -1,0 +1,21 @@
+WADFlowTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Print Statement: 1
+ConfiguratorTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+CopierTest.java:
+  JNoseTool: Assertion Roulette: 2
+FolderWatchServiceTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+PreBuildChecksTest.java:
+  JNoseTool: Assertion Roulette: 2
+SubstitutorTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Lazy Test: 1
+AppTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Duplicate Assert: 1

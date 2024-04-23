@@ -1,0 +1,6 @@
+AuthApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+GatewayApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+ServiceApplicationTests.java:
+  JNoseTool: EmptyTest: 1

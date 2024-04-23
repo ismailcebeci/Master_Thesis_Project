@@ -1,0 +1,70 @@
+ActionTests.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: General Fixture: 3
+ActionMetaTableTest.java:
+  JNoseTool: Unknown Test: 6
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Print Statement: 11
+RecommendationQualityTesterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Constructor Initialization: 1
+IntersectionFinderTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 1
+  JNoseTool: Assertion Roulette: 3
+MetaExampleTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 3
+MetaValueTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Eager Test: 1
+RecommendationTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Print Statement: 2
+ClassificationExpertSnCTest.java:
+  JNoseTool: Constructor Initialization: 1
+ClassificationSnCTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Magic Number Test: 1
+RegressionActionSnCTest.java:
+  JNoseTool: Constructor Initialization: 1
+RegressionExpertSnCTest.java:
+  JNoseTool: Constructor Initialization: 1
+RegressionSnCTest.java:
+  JNoseTool: Constructor Initialization: 1
+SurvivalLogRankExpertSnCTest.java:
+  JNoseTool: Constructor Initialization: 1
+SurvivalLogRankSnCTest.java:
+  JNoseTool: Constructor Initialization: 1
+ActionRuleTest.java:
+  JNoseTool: General Fixture: 2
+  JNoseTool: Assertion Roulette: 2
+ActionTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Eager Test: 7
+DoubleFormatterTest.java:
+  JNoseTool: Conditional Test Logic: 1
+IntervalTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 17
+  JNoseTool: Eager Test: 6
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Duplicate Assert: 1

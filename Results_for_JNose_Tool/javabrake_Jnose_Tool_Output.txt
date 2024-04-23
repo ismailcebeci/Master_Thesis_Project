@@ -1,0 +1,31 @@
+WeatherApplicationTests.java:
+  JNoseTool: Assertion Roulette: 4
+NotifierTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Sensitive Equality: 4
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 2
+PollTaskTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 3
+  JNoseTool: Lazy Test: 3
+QueriesTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Sleepy Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Exception Catching Throwing: 6
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+QueuesTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sleepy Test: 3
+  JNoseTool: Exception Catching Throwing: 7
+  JNoseTool: Verbose Test: 2
+SettingsDataTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Eager Test: 15
+  JNoseTool: Lazy Test: 8

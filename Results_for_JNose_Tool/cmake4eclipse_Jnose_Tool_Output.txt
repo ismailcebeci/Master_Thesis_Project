@@ -1,0 +1,7 @@
+CMakeCacheFileParserTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 3
+CmakeGeneratorTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Assertion Roulette: 24

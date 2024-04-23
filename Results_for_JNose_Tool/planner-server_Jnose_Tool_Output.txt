@@ -1,0 +1,77 @@
+CalendarControllerTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Conditional Test Logic: 1
+EventControllerTests.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 36
+  JNoseTool: Conditional Test Logic: 5
+  JNoseTool: Unknown Test: 4
+  JNoseTool: IgnoredTest: 1
+EventPatternControllerTests.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Unknown Test: 4
+PermissionControllerTests.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Conditional Test Logic: 12
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Sensitive Equality: 10
+TaskControllerTests.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Assertion Roulette: 39
+  JNoseTool: Conditional Test Logic: 12
+  JNoseTool: Unknown Test: 5
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Magic Number Test: 2
+EventPatternExruleTests.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 1
+EventPatternTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Lazy Test: 2
+EventTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Eager Test: 1
+PermissionTests.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Eager Test: 1
+TaskTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Eager Test: 3
+  JNoseTool: Lazy Test: 2
+UserTests.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 1
+EventPatternServiceTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Conditional Test Logic: 5
+EventServiceTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Conditional Test Logic: 5
+PermissionServiceTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Conditional Test Logic: 13
+ShareServiceTests.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 1
+TaskServiceTests.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 7
+  JNoseTool: Assertion Roulette: 23
+  JNoseTool: Conditional Test Logic: 5

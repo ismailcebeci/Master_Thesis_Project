@@ -1,0 +1,6 @@
+KeyRingServiceTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 15

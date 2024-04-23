@@ -1,0 +1,30 @@
+TestActivityHandler.java:
+  JNoseTool: Unknown Test: 25
+  JNoseTool: Verbose Test: 22
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: General Fixture: 6
+  JNoseTool: Mystery Guest: 1
+TestActivityPackage.java:
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: IgnoredTest: 12
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Conditional Test Logic: 24
+  JNoseTool: Constructor Initialization: 1
+TestAttributionHandler.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Exception Catching Throwing: 5
+  JNoseTool: General Fixture: 4
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 5
+TestPackageHandler.java:
+  JNoseTool: Unknown Test: 6
+  JNoseTool: Verbose Test: 4
+  JNoseTool: General Fixture: 5
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 2

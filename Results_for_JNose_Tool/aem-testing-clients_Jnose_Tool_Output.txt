@@ -1,0 +1,18 @@
+PackageManagerClientTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Assertion Roulette: 26
+TogglesClientTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+LogFileRuleTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Unknown Test: 2
+TemporaryUserTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Conditional Test Logic: 5
+  JNoseTool: Exception Catching Throwing: 2

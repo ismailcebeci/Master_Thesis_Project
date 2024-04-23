@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+airfield;AppTest;C:\Users\cebec\.jnose_projects\airfield\src\test\java\airfield\AppTest.java;C:\Users\cebec\.jnose_projects\airfield\src\main\java\airfield\App.java;JUnit4;23;1;Unknown Test;mainUsage;15-21;15-21

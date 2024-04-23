@@ -1,0 +1,51 @@
+CommunityTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Print Statement: 3
+OrderBuildingTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 7
+  JNoseTool: Print Statement: 3
+OrderRentHouseTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 7
+  JNoseTool: Print Statement: 3
+RentHouseCommentTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Print Statement: 3
+RentHouseDealTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Print Statement: 3
+RentHousePicTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Print Statement: 3
+RentHouseTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Print Statement: 3
+  JNoseTool: Conditional Test Logic: 1
+TestAgentDao.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Print Statement: 4
+TestBuildingDealDao.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Print Statement: 4
+TestBuildingInfoDao.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Print Statement: 4
+TestBuildingLayoutDao.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Print Statement: 4
+TestBuildingPicDao.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Print Statement: 3
+TestBuyHouseCommentDao.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Print Statement: 4
+UserTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Print Statement: 3

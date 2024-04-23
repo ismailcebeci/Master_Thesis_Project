@@ -1,0 +1,39 @@
+EpisodeCheckpointTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 4
+EpisodeDownloaderTest.java:
+  JNoseTool: Unknown Test: 2
+EpisodeFeedsActivityTest.java:
+  JNoseTool: Assertion Roulette: 9
+  JNoseTool: Unknown Test: 3
+EpisodeFileTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Unknown Test: 1
+EpisodeListAdapterTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: General Fixture: 2
+EpisodeListFragmentTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: General Fixture: 1
+  JNoseTool: Sensitive Equality: 1
+EpisodeViewInflaterTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 22
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 4
+LatestEpisodesActivityTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Unknown Test: 3
+FeedsAdapterTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 3
+MyPodcastsActivityTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Sensitive Equality: 1

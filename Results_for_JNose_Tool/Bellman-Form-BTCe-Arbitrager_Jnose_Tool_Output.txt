@@ -1,0 +1,7 @@
+BtceQuotePullerTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Conditional Test Logic: 4

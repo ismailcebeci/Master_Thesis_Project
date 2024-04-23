@@ -1,0 +1,564 @@
+TestDrawLine.java:
+  JNoseTool: Magic Number Test: 24
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 6
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 5
+TestBounds.java:
+  JNoseTool: Eager Test: 1
+TestColor.java:
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Eager Test: 5
+TestMathUtil.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Conditional Test Logic: 23
+  JNoseTool: EmptyTest: 1
+  JNoseTool: Unknown Test: 2
+TestUnits.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 6
+TestBox.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+TestComplement.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+TestCompositeShape.java:
+  JNoseTool: EmptyTest: 1
+TestCone.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Unknown Test: 1
+TestCylinder.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+TestDataSourceGrid.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: EmptyTest: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: IgnoredTest: 1
+TestEmbossing.java:
+  JNoseTool: EmptyTest: 1
+TestImage3D.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 2
+TestImageColorMap.java:
+  JNoseTool: Unknown Test: 1
+TestImageMap.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 1
+TestIntersection.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+TestPlane.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+TestRing.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+TestText2D.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Exception Catching Throwing: 1
+TestTextUtil.java:
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Resource Optimism: 1
+TestThinLayerDataSource.java:
+  JNoseTool: EmptyTest: 1
+TestTorus.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 2
+TestTriangle.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 3
+  JNoseTool: Conditional Test Logic: 2
+TestUnion.java:
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 30
+  JNoseTool: Assertion Roulette: 24
+TestVolumePatterns.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Unknown Test: 1
+TestAttributedTriangleMeshSurfaceBuilder.java:
+  JNoseTool: EmptyTest: 1
+TestDistanceToTriangleSet.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: EmptyTest: 1
+  JNoseTool: Unknown Test: 1
+TestParametricSurfaceMaker.java:
+  JNoseTool: EmptyTest: 1
+TestTriangleMeshShellBuilder.java:
+  JNoseTool: EmptyTest: 1
+TestTriangleModelCreator.java:
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 7
+TestTriangulatedModels.java:
+  JNoseTool: EmptyTest: 1
+TestClosestPointIndexer.java:
+  JNoseTool: EmptyTest: 1
+TestClosestPointIndexerMT.java:
+  JNoseTool: EmptyTest: 1
+TestCopy.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Assertion Roulette: 7
+TestDilationCube.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Assertion Roulette: 4
+TestDilationDistance.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: EmptyTest: 1
+TestDilationShape.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Unknown Test: 1
+TestDilationShapeMT.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 2
+TestDilationSphere.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 2
+TestDownsampleAlpha.java:
+  JNoseTool: Magic Number Test: 19
+  JNoseTool: Verbose Test: 17
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 13
+  JNoseTool: Conditional Test Logic: 70
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Print Statement: 6
+TestErosionCube.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Assertion Roulette: 4
+TestErosionDistance.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 11
+  JNoseTool: Unknown Test: 2
+TestErosionShape.java:
+  JNoseTool: Conditional Test Logic: 1
+TestErosionShapeMT.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: EmptyTest: 1
+TestErosionSphere.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 2
+TestImageLoader.java:
+  JNoseTool: EmptyTest: 1
+TestImageMaker.java:
+  JNoseTool: EmptyTest: 1
+TestInteriorFinderVoxelBased.java:
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Assertion Roulette: 1
+TestNeighborhood.java:
+  JNoseTool: EmptyTest: 1
+TestPointSetShellBuilder.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+  JNoseTool: EmptyTest: 1
+TestRemoveMaterial.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Verbose Test: 1
+TestRingSpaceWarp.java:
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 3
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Print Statement: 6
+  JNoseTool: Mystery Guest: 2
+TestVolumeCalculator.java:
+  JNoseTool: Eager Test: 1
+TestCanMoveMaterial.java:
+  JNoseTool: Verbose Test: 5
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 4
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Print Statement: 4
+  JNoseTool: Sensitive Equality: 2
+TestCanMoveMaterialTargeted.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 6
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 4
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Print Statement: 2
+  JNoseTool: Sensitive Equality: 2
+TestCanMoveMaterialTargetedBounds.java:
+  JNoseTool: Verbose Test: 5
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Print Statement: 3
+  JNoseTool: Sensitive Equality: 6
+TestRegionFinder.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Eager Test: 4
+  JNoseTool: Conditional Test Logic: 31
+  JNoseTool: Print Statement: 1
+TestArrayAttributeGridByte.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 28
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Print Statement: 1
+TestArrayAttributeGridByteIndexLong.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Unknown Test: 28
+  JNoseTool: Assertion Roulette: 10
+TestArrayAttributeGridInt.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Unknown Test: 28
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Assertion Roulette: 10
+TestArrayAttributeGridShort.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Unknown Test: 28
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Print Statement: 1
+TestArrayAttributeGridShortIndexLong.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Unknown Test: 28
+  JNoseTool: Assertion Roulette: 10
+TestArrayGridByte.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Unknown Test: 17
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Assertion Roulette: 10
+TestBlockArrayTwoBitGrid.java:
+  JNoseTool: Magic Number Test: 66
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 10
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 16
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Assertion Roulette: 16
+TestBlockBasedAttributeGridByte.java:
+  JNoseTool: Magic Number Test: 95
+  JNoseTool: Verbose Test: 18
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Duplicate Assert: 18
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 42
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Assertion Roulette: 21
+TestBlockBasedGridBit.java:
+  JNoseTool: Magic Number Test: 51
+  JNoseTool: Verbose Test: 9
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Duplicate Assert: 9
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 17
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Assertion Roulette: 13
+TestGrid2DByte.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 6
+TestGrid2DInt.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 3
+TestGrid2DShort.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Exception Catching Throwing: 1
+TestGridBitInt.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 4
+TestGridBitIntervals.java:
+  JNoseTool: Conditional Test Logic: 4
+TestGridMask.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 8
+TestIntIntervals.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Unknown Test: 29
+  JNoseTool: Assertion Roulette: 10
+TestMaterialIndexedWrapper.java:
+  JNoseTool: Magic Number Test: 51
+  JNoseTool: Verbose Test: 8
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 6
+  JNoseTool: Conditional Test Logic: 66
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Print Statement: 11
+TestRangeCheckAttributeWrapper.java:
+  JNoseTool: Magic Number Test: 36
+  JNoseTool: Verbose Test: 12
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Duplicate Assert: 30
+  JNoseTool: Eager Test: 18
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Unknown Test: 5
+  JNoseTool: Exception Catching Throwing: 81
+  JNoseTool: Assertion Roulette: 29
+TestRangeCheckWrapper.java:
+  JNoseTool: Magic Number Test: 33
+  JNoseTool: Verbose Test: 8
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Duplicate Assert: 24
+  JNoseTool: Eager Test: 14
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Unknown Test: 6
+  JNoseTool: Exception Catching Throwing: 61
+  JNoseTool: Assertion Roulette: 22
+TestVoxelCoordinate.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 2
+TestVoxelDataByte.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 7
+  JNoseTool: Assertion Roulette: 20
+TestVoxelDataInt.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 7
+  JNoseTool: Assertion Roulette: 20
+TestVoxelDataShort.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 7
+  JNoseTool: Assertion Roulette: 20
+TestWorldCoordinate.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+TestGridVisited.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 7
+  JNoseTool: Conditional Test Logic: 9
+  JNoseTool: Assertion Roulette: 4
+TestDataSourceIntersector.java:
+  JNoseTool: EmptyTest: 1
+TestCLIScanner.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 3
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Unknown Test: 1
+TestCLISliceReader.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Unknown Test: 1
+TestCLISliceWriter.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 4
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Mystery Guest: 2
+TestAttributedDistanceRasterizer.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Unknown Test: 1
+TestAttributedMeshReader.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 8
+  JNoseTool: Unknown Test: 3
+TestModelLoader.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Verbose Test: 6
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 2
+TestWaveletRasterizer.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Conditional Test Logic: 8
+TestEdgeCollapseSimplifier.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Print Statement: 7
+TestGridSaver.java:
+  JNoseTool: EmptyTest: 1
+TestX3DWriter.java:
+  JNoseTool: EmptyTest: 1
+TestAreaCalculator.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 2
+TestIndexedTriangleSetBuilder.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Print Statement: 2
+TestLaplasianSmooth.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Print Statement: 3
+TestPointSet.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Conditional Test Logic: 29
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Print Statement: 18
+TestTriangleQualityCalculator.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 1
+TestWingedEdgeTriangleMesh.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Verbose Test: 6
+  JNoseTool: Lazy Test: 12
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Eager Test: 8
+  JNoseTool: Conditional Test Logic: 13
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Resource Optimism: 3
+  JNoseTool: Print Statement: 2
+TestResource.java:
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Sleepy Test: 4
+TestBufferDiskCache.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 11
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Sleepy Test: 1
+TestDiskCache.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Conditional Test Logic: 8
+  JNoseTool: Resource Optimism: 5
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Mystery Guest: 6
+TestParamJson.java:
+  JNoseTool: EmptyTest: 1
+TestProject.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 7
+  JNoseTool: Eager Test: 2
+  JNoseTool: EmptyTest: 1
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Exception Catching Throwing: 2
+TestReflection.java:
+  JNoseTool: EmptyTest: 1
+TestPeriodicWrap.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Unknown Test: 1
+TestColorMapperIndex.java:
+  JNoseTool: EmptyTest: 1
+TestICCProfile.java:
+  JNoseTool: EmptyTest: 1
+TestImageGray16.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Exception Catching Throwing: 4
+TestImageUtil.java:
+  JNoseTool: Conditional Test Logic: 1
+TestPerlinNoise3D.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Conditional Test Logic: 7
+  JNoseTool: Unknown Test: 3
+TestPointToTriangleDistance.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 1
+TestQuaternionUtil.java:
+  JNoseTool: EmptyTest: 1
+TestRandomMLCG.java:
+  JNoseTool: EmptyTest: 1
+TestRectPacking.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 1
+TestTriangleMeshSurfaceBuilder.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: EmptyTest: 1
+TestTriangulatedSphere.java:
+  JNoseTool: EmptyTest: 1

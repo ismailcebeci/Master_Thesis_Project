@@ -1,0 +1,9 @@
+ImageSizeTest.java:
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 26
+  JNoseTool: General Fixture: 3
+BaseImageDownloaderTest.java:
+  JNoseTool: Assertion Roulette: 7

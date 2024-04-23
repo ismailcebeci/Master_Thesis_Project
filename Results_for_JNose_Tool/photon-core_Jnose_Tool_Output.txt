@@ -1,0 +1,4 @@
+PhotoResourceTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Sensitive Equality: 5
+  JNoseTool: Assertion Roulette: 14

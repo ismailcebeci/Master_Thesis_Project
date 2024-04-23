@@ -1,0 +1,9 @@
+StyleMapTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 6
+StyleMergerTest.java:
+  JNoseTool: Assertion Roulette: 6
+StyleParserTest.java:
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 17

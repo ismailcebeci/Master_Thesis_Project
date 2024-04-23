@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+spark-on-spring-boot;BootstrapTests;C:\Users\cebec\.jnose_projects\spark-on-spring-boot\src\test\java\org\adi\spring\spark\BootstrapTests.java;C:\Users\cebec\.jnose_projects\spark-on-spring-boot\src\main\java\org\adi\spring\spark\Bootstrap.java;JUnit4;15;1;EmptyTest;contextLoads;12-14;12-14

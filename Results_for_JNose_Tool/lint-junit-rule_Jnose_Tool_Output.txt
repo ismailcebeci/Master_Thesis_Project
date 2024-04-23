@@ -1,0 +1,11 @@
+WarningAssertTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 1
+WarningMatcherTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 1
+LintTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Lazy Test: 1
+HelloWorldDetectorTest.java:
+  JNoseTool: Assertion Roulette: 2

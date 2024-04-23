@@ -1,0 +1,56 @@
+RepositoryClientTest.java:
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: General Fixture: 2
+RepositoryConnectorTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 10
+RepositoryResponseHandlerTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 3
+MavenPackageConfigTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: IgnoredTest: 1
+MavenRepoConfigTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 11
+ConfigurationProviderTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 9
+MavenRepositoryMaterialTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Assertion Roulette: 30
+  JNoseTool: Eager Test: 2
+  JNoseTool: Duplicate Assert: 4
+MavenRepositoryPollerTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: General Fixture: 1
+ConfigurationMessageTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 5
+MavenArtifactFilesTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 3
+MavenRevisionTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 2
+MavenVersionTest.java:
+  JNoseTool: Magic Number Test: 28
+  JNoseTool: Lazy Test: 8
+  JNoseTool: Assertion Roulette: 45
+  JNoseTool: Eager Test: 7
+RepositoryURLTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Eager Test: 4
+  JNoseTool: Duplicate Assert: 1

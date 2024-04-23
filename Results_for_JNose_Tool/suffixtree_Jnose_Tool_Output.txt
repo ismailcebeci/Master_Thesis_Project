@@ -1,0 +1,12 @@
+EdgeBagTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: EmptyTest: 1
+UtilsTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: Print Statement: 2

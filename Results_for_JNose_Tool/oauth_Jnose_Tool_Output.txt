@@ -1,0 +1,23 @@
+OAuthCredentialHasherTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+UserInfoResolverTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 2
+EncryptedTokenSerializerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Print Statement: 2
+RememberMeTokenUtilTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+TokenDocumentTest.java:
+  JNoseTool: Assertion Roulette: 23
+  JNoseTool: Magic Number Test: 1
+AuthApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+GatewayApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+ServiceApplicationTests.java:
+  JNoseTool: EmptyTest: 1

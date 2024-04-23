@@ -1,0 +1,43 @@
+BreakerTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 23
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Exception Catching Throwing: 3
+CallbackTest.java:
+  JNoseTool: Assertion Roulette: 21
+ExpectedTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Unknown Test: 5
+ExpectedImplTest.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Unknown Test: 2
+PromiseTest.java:
+  JNoseTool: Verbose Test: 9
+  JNoseTool: Duplicate Assert: 11
+  JNoseTool: Assertion Roulette: 148
+  JNoseTool: Conditional Test Logic: 10
+  JNoseTool: Exception Catching Throwing: 16
+  JNoseTool: Unknown Test: 5
+  JNoseTool: IgnoredTest: 3
+  JNoseTool: Sleepy Test: 5
+  JNoseTool: Print Statement: 2
+ReactorImplTest.java:
+  JNoseTool: Magic Number Test: 15
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 15
+  JNoseTool: Assertion Roulette: 77
+  JNoseTool: Conditional Test Logic: 9
+  JNoseTool: Sleepy Test: 4
+  JNoseTool: General Fixture: 1
+ResultTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Exception Catching Throwing: 2
+StreamTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Conditional Test Logic: 1

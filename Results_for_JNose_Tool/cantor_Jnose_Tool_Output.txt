@@ -1,0 +1,18 @@
+TestHLLCounter.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Magic Number Test: 13
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Eager Test: 5
+  JNoseTool: Assertion Roulette: 32
+  JNoseTool: Conditional Test Logic: 7
+  JNoseTool: Mystery Guest: 1
+TestHLLWritable.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Lazy Test: 6
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Eager Test: 8
+  JNoseTool: Assertion Roulette: 34
+  JNoseTool: Conditional Test Logic: 5

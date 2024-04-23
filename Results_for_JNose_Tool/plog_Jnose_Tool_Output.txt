@@ -1,0 +1,9 @@
+MultipartMessageTest.java:
+  JNoseTool: Assertion Roulette: 1
+PlogClientTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Lazy Test: 1
+FlinkPartitionerTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 1

@@ -1,0 +1,74 @@
+DatasetBuilderTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Mystery Guest: 1
+MemoryFactoryTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+StreamFactoryTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Lazy Test: 1
+MatchTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Sleepy Test: 6
+  JNoseTool: Print Statement: 6
+MostFrequentFilterTest.java:
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Conditional Test Logic: 13
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Print Statement: 2
+ProviderTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Eager Test: 1
+AutoUpdateTest.java:
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Conditional Test Logic: 5
+  JNoseTool: Mystery Guest: 1
+  JNoseTool: Unknown Test: 1
+AllProfilesTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+BenchmarkTest.java:
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Unknown Test: 4
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: General Fixture: 1
+DynamicFiltersTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Conditional Test Logic: 1
+FindProfilesTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Sensitive Equality: 2
+GettingStartedTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Print Statement: 6
+MatchForDeviceIdTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Verbose Test: 1
+MatchMetricsTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Conditional Test Logic: 6
+  JNoseTool: Magic Number Test: 9
+MetadataExampleTest.java:
+  JNoseTool: Unknown Test: 1
+OfflineProcessingExampleTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 2
+StronglyTypedValuesTest.java:
+  JNoseTool: Assertion Roulette: 3

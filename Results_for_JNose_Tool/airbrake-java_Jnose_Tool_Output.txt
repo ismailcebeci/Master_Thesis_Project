@@ -1,0 +1,16 @@
+AirbrakeAppenderTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 7
+  JNoseTool: Assertion Roulette: 13
+AirbrakeNoticeBuilderTest.java:
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 2
+AirbrakeNoticeTest.java:
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 36
+  JNoseTool: Unknown Test: 4
+AirbrakeNotifierTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Magic Number Test: 10

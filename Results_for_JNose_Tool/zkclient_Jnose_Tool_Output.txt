@@ -1,0 +1,13 @@
+ZkClientTest.java:
+  JNoseTool: Magic Number Test: 34
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Sleepy Test: 1
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Duplicate Assert: 7
+  JNoseTool: Eager Test: 3
+  JNoseTool: Assertion Roulette: 65
+  JNoseTool: Exception Catching Throwing: 1
+ZkClientUtilsTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Assertion Roulette: 6

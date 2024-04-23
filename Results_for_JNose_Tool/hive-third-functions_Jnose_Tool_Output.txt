@@ -1,0 +1,29 @@
+UDFArrayContainsTest.java:
+  JNoseTool: Eager Test: 1
+UDFArrayIntersectTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 3
+UDFArrayShuffleTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 1
+UDFArrayValueCountTest.java:
+  JNoseTool: Eager Test: 1
+UDFBitCountTest.java:
+  JNoseTool: Unknown Test: 1
+UDFDayOfYearTest.java:
+  JNoseTool: Unknown Test: 1
+UDFGeoBdToGcjTest.java:
+  JNoseTool: Unknown Test: 1
+UDFMathCosineSimilarityTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Redundant Assertion: 1
+  JNoseTool: Duplicate Assert: 1
+UDFRe2JRegexpExtractAllTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 1
+UDFUrlDecodeTest.java:
+  JNoseTool: Unknown Test: 1
+UDFUrlEncodeTest.java:
+  JNoseTool: Unknown Test: 1

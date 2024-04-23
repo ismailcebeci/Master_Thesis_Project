@@ -1,0 +1,9 @@
+WorkshopTest.java:
+  JNoseTool: Assertion Roulette: 2
+HttpMatchersTest.java:
+  JNoseTool: Assertion Roulette: 6
+JAXRSClientProviderTest.java:
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Eager Test: 2

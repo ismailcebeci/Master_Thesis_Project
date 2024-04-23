@@ -1,0 +1,50 @@
+TestClientAcctProcessor.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Assertion Roulette: 8
+Convert_PostgreSQLTest.java:
+  JNoseTool: IgnoredTest: 1
+AccessSqlParserTest.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Sensitive Equality: 1
+TestGridTab.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Assertion Roulette: 1
+TestDocumentEngine.java:
+  JNoseTool: IgnoredTest: 14
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Lazy Test: 180
+  JNoseTool: Assertion Roulette: 54
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Verbose Test: 4
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Eager Test: 14
+  JNoseTool: Exception Catching Throwing: 14
+TestMsg.java:
+  JNoseTool: Assertion Roulette: 1
+TimeUtilTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 2
+TestMAsset.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Assertion Roulette: 7
+TestDoc.java:
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Assertion Roulette: 1
+TestAcctProcessor.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+ListModelTableTest.java:
+  JNoseTool: IgnoredTest: 9
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: Assertion Roulette: 15
+WListItemRendererTest.java:
+  JNoseTool: IgnoredTest: 11
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Assertion Roulette: 10

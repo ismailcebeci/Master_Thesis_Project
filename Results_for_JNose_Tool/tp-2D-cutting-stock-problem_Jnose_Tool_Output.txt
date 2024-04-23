@@ -1,0 +1,49 @@
+BoxTest.java:
+  JNoseTool: Assertion Roulette: 7
+PatternTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 1
+PlacedBoxTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 1
+SolutionTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 1
+  JNoseTool: Eager Test: 2
+VectorTest.java:
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Lazy Test: 1
+BinTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 1
+GuillotineSortBAFTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: General Fixture: 1
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 1
+ContextLoaderUtilsTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Resource Optimism: 4
+  JNoseTool: Mystery Guest: 4
+ResolutionTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Mystery Guest: 1
+ToImgTest.java:
+  JNoseTool: Unknown Test: 1
+IncrementNeighbourTest.java:
+  JNoseTool: General Fixture: 2
+  JNoseTool: EmptyTest: 1
+MoveNeighbourTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Print Statement: 1
+SimulatedAnnealingTest.java:
+  JNoseTool: Assertion Roulette: 1

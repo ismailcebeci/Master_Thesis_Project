@@ -1,0 +1,6 @@
+DefaultDiamondManagerTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 1
+HttpClientTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Print Statement: 9

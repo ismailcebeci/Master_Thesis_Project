@@ -1,0 +1,18 @@
+FileControllerTest.java:
+  JNoseTool: Assertion Roulette: 3
+FileServiceTest.java:
+  JNoseTool: Assertion Roulette: 3
+HospitalServiceTest.java:
+  JNoseTool: Assertion Roulette: 17
+MaterialRequiredServiceTest.java:
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Verbose Test: 1
+MaterialSuppliedServiceTest.java:
+  JNoseTool: Assertion Roulette: 88
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Verbose Test: 4
+SupplierServiceTest.java:
+  JNoseTool: Assertion Roulette: 18
+UserInfoServiceTest.java:
+  JNoseTool: Assertion Roulette: 12

@@ -1,0 +1,5 @@
+SingleModuleApplicationTests.java:
+  JNoseTool: EmptyTest: 1
+SuggestionServiceImplTest.java:
+  JNoseTool: EmptyTest: 5
+  JNoseTool: General Fixture: 1

@@ -1,0 +1,4 @@
+MainActivityTest.java:
+  JNoseTool: Assertion Roulette: 1
+UserTest.java:
+  JNoseTool: Assertion Roulette: 1

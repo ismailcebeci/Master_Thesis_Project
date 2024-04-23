@@ -1,0 +1,4 @@
+EddystoneURLTest.java:
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Conditional Test Logic: 6

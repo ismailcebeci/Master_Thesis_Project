@@ -1,0 +1,22 @@
+AnnotatedAlgorithmMetadataTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Exception Catching Throwing: 1
+FileBasedResultPersistenceTest.java:
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+ExecuteDeserializerTest.java:
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Assertion Roulette: 16
+JSONBoundingBoxInputOutputHandlerTest.java:
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Sensitive Equality: 1
+JobIdParameterValidatorTest.java:
+  JNoseTool: Lazy Test: 2
+  JNoseTool: Unknown Test: 1
+WPSResponseWriterTest.java:
+  JNoseTool: Unknown Test: 1

@@ -1,0 +1,30 @@
+ASCityTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Assertion Roulette: 14
+  JNoseTool: Conditional Test Logic: 4
+ASClientTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 18
+  JNoseTool: Conditional Test Logic: 5
+ASContractTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: General Fixture: 3
+ASEmployeeTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: General Fixture: 3
+ASMainOfficeTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: General Fixture: 4
+ASRentalTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 4
+ASServiceTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 1

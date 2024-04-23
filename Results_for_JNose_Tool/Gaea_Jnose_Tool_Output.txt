@@ -1,0 +1,100 @@
+AutoResetEventTest.java:
+  JNoseTool: Unknown Test: 4
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 4
+  JNoseTool: Print Statement: 8
+TimeSpanHelperTest.java:
+  JNoseTool: Print Statement: 3
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Constructor Initialization: 1
+ProtocolHelperTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Print Statement: 3
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 1
+ByteConverterTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 2
+  JNoseTool: Conditional Test Logic: 1
+ClassScanerTest.java:
+  JNoseTool: Constructor Initialization: 1
+  JNoseTool: EmptyTest: 1
+SerializerTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 18
+  JNoseTool: Print Statement: 1
+  JNoseTool: Assertion Roulette: 36
+  JNoseTool: Magic Number Test: 2
+MainTest.java:
+  JNoseTool: Unknown Test: 1
+JsonConvertTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 10
+  JNoseTool: Assertion Roulette: 21
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Verbose Test: 1
+RequestMappingTest.java:
+  JNoseTool: Assertion Roulette: 48
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Magic Number Test: 21
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 2
+ServiceConfigTest.java:
+  JNoseTool: Lazy Test: 5
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 71
+  JNoseTool: Magic Number Test: 38
+  JNoseTool: Verbose Test: 2
+CreateManagerTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Print Statement: 2
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: EmptyTest: 1
+ProxyClassCreaterTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: Print Statement: 3
+  JNoseTool: Conditional Test Logic: 4
+ScanClassTest.java:
+  JNoseTool: Print Statement: 9
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Conditional Test Logic: 13
+  JNoseTool: Verbose Test: 1
+ProtocolParseFilterTest.java:
+  JNoseTool: Unknown Test: 1
+CountTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Magic Number Test: 2
+ExecTest.java:
+  JNoseTool: Assertion Roulette: 3
+TimeTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Magic Number Test: 9
+CommandTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Magic Number Test: 10
+CreaterManagerTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Print Statement: 16
+  JNoseTool: Conditional Test Logic: 7
+  JNoseTool: Verbose Test: 1
+DESHelperTest.java:
+  JNoseTool: Lazy Test: 3
+  JNoseTool: Eager Test: 2
+  JNoseTool: Assertion Roulette: 2
+RSAHelperTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Eager Test: 4
+  JNoseTool: Print Statement: 11
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 5
+  JNoseTool: Verbose Test: 1
+ClassHelperTest.java:
+  JNoseTool: Unknown Test: 3
+  JNoseTool: Print Statement: 8
+  JNoseTool: Conditional Test Logic: 8
+UtilTest.java:
+  JNoseTool: Assertion Roulette: 5

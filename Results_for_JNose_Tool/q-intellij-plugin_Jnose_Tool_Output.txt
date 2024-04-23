@@ -1,0 +1,2 @@
+KSettingsTest.java:
+  JNoseTool: Assertion Roulette: 9

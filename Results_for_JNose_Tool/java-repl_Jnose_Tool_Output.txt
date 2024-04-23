@@ -1,0 +1,37 @@
+JavaREPLClientTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: General Fixture: 1
+AggregateCompleterTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 1
+CommandCompleterTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Eager Test: 2
+  JNoseTool: Lazy Test: 2
+ConsoleCompleterTest.java:
+  JNoseTool: Assertion Roulette: 10
+InstanceMemberCompleterTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+StaticMemberCompleterTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 2
+  JNoseTool: Lazy Test: 8
+StringCompleterTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Eager Test: 1
+TypeCompleterTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+CommandTest.java:
+  JNoseTool: Assertion Roulette: 6
+ConsoleHistoryTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Resource Optimism: 1
+  JNoseTool: Mystery Guest: 1
+ConsoleLoggerPrintStreamTest.java:
+  JNoseTool: Assertion Roulette: 24
+  JNoseTool: Eager Test: 5
+  JNoseTool: Lazy Test: 1
+  JNoseTool: Verbose Test: 2

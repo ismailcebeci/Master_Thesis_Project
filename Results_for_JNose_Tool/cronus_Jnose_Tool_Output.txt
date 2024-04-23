@@ -1,0 +1,15 @@
+CronParserTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Exception Catching Throwing: 1
+CronPatternTest.java:
+  JNoseTool: Assertion Roulette: 70
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Lazy Test: 4
+  JNoseTool: Duplicate Assert: 11
+  JNoseTool: Eager Test: 6
+IntervalTest.java:
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Magic Number Test: 6

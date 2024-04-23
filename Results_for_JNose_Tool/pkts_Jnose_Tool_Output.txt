@@ -1,0 +1,204 @@
+AbstractBufferTest.java:
+  JNoseTool: Magic Number Test: 35
+  JNoseTool: Sensitive Equality: 36
+  JNoseTool: Verbose Test: 7
+  JNoseTool: Duplicate Assert: 12
+  JNoseTool: Assertion Roulette: 128
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Exception Catching Throwing: 6
+BoundedInputStreamBufferTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Eager Test: 1
+ByteBufferTest.java:
+  JNoseTool: Magic Number Test: 41
+  JNoseTool: Sensitive Equality: 45
+  JNoseTool: Verbose Test: 3
+  JNoseTool: Duplicate Assert: 13
+  JNoseTool: Assertion Roulette: 139
+  JNoseTool: Exception Catching Throwing: 6
+InputStreamBufferTest.java:
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Unknown Test: 1
+FilterFactoryTest.java:
+  JNoseTool: Assertion Roulette: 3
+PcapGlobalHeaderTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Eager Test: 5
+  JNoseTool: Lazy Test: 2
+PcapRecordHeaderTest.java:
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Eager Test: 1
+EthernetFramerTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 1
+IPv6FramerTest.java:
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Conditional Test Logic: 2
+IPv4FramerTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 1
+PcapFramerTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Conditional Test Logic: 1
+SctpFramerTest.java:
+  JNoseTool: Magic Number Test: 66
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 21
+SllFramerTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Eager Test: 1
+TCPFramerTest.java:
+  JNoseTool: Magic Number Test: 6
+  JNoseTool: Assertion Roulette: 39
+UDPFramerTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1
+IPv4PacketImplTest.java:
+  JNoseTool: Magic Number Test: 37
+  JNoseTool: Assertion Roulette: 59
+  JNoseTool: Conditional Test Logic: 2
+IPv6PacketImplTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Exception Catching Throwing: 1
+TransportPacketFactoryImplTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 7
+  JNoseTool: Unknown Test: 1
+SctpChunkTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Conditional Test Logic: 2
+SctpPacketTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Eager Test: 1
+PcapOutputStreamTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Conditional Test Logic: 1
+PcapTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Eager Test: 2
+  JNoseTool: Lazy Test: 4
+AddressImplTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Sensitive Equality: 28
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 6
+  JNoseTool: Assertion Roulette: 42
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Redundant Assertion: 1
+TelURIImplTest.java:
+  JNoseTool: Sensitive Equality: 7
+  JNoseTool: Assertion Roulette: 10
+AddressParametersHeaderTest.java:
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Assertion Roulette: 3
+ContactHeaderTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Assertion Roulette: 8
+ContentTypeHeaderTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Sensitive Equality: 28
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 8
+  JNoseTool: Assertion Roulette: 48
+  JNoseTool: Exception Catching Throwing: 4
+CSeqHeaderTest.java:
+  JNoseTool: Sensitive Equality: 13
+  JNoseTool: Assertion Roulette: 14
+ExpiresHeaderTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Sensitive Equality: 7
+  JNoseTool: Assertion Roulette: 11
+FromHeaderTest.java:
+  JNoseTool: Sensitive Equality: 10
+  JNoseTool: Assertion Roulette: 7
+MaxForwardsHeaderTest.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Sensitive Equality: 7
+  JNoseTool: Assertion Roulette: 11
+ParametersSupportTest.java:
+  JNoseTool: Sensitive Equality: 13
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Assertion Roulette: 16
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Eager Test: 5
+  JNoseTool: Lazy Test: 4
+ParametersTest.java:
+  JNoseTool: Sensitive Equality: 3
+  JNoseTool: Assertion Roulette: 3
+ViaHeaderImplTest.java:
+  JNoseTool: Magic Number Test: 10
+  JNoseTool: Sensitive Equality: 19
+  JNoseTool: Assertion Roulette: 22
+SipHeaderTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Unknown Test: 1
+SipInitialLineTest.java:
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Sensitive Equality: 13
+  JNoseTool: Duplicate Assert: 2
+  JNoseTool: Assertion Roulette: 44
+  JNoseTool: Exception Catching Throwing: 4
+  JNoseTool: Eager Test: 1
+  JNoseTool: Lazy Test: 4
+SipMessageStreamBuilderTest.java:
+  JNoseTool: Magic Number Test: 7
+  JNoseTool: Sensitive Equality: 5
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Exception Catching Throwing: 1
+  JNoseTool: Unknown Test: 2
+SipParserTest.java:
+  JNoseTool: Magic Number Test: 70
+  JNoseTool: Sensitive Equality: 55
+  JNoseTool: Verbose Test: 5
+  JNoseTool: Duplicate Assert: 15
+  JNoseTool: Assertion Roulette: 98
+  JNoseTool: Conditional Test Logic: 4
+  JNoseTool: Exception Catching Throwing: 8
+  JNoseTool: Redundant Assertion: 1
+SipRequestTest.java:
+  JNoseTool: Magic Number Test: 32
+  JNoseTool: Sensitive Equality: 22
+  JNoseTool: Verbose Test: 2
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 57
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Exception Catching Throwing: 1
+SipResponseTest.java:
+  JNoseTool: Magic Number Test: 23
+  JNoseTool: Sensitive Equality: 9
+  JNoseTool: Verbose Test: 5
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Assertion Roulette: 37
+  JNoseTool: Conditional Test Logic: 1
+TransportTest.java:
+  JNoseTool: Assertion Roulette: 6
+DefaultStreamHandlerTest.java:
+  JNoseTool: Magic Number Test: 11
+  JNoseTool: Assertion Roulette: 6
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Lazy Test: 3
+SimpleCallStateMachineTest.java:
+  JNoseTool: Duplicate Assert: 4
+  JNoseTool: Assertion Roulette: 13
+  JNoseTool: Eager Test: 1
+  JNoseTool: Lazy Test: 3
+SipStreamTest.java:
+  JNoseTool: Unknown Test: 1
+  JNoseTool: Print Statement: 10

@@ -1,0 +1,9 @@
+TopicsTest.java:
+  JNoseTool: Lazy Test: 2
+MqttVersionTest.java:
+  JNoseTool: Unknown Test: 1
+ValidatorTest.java:
+  JNoseTool: Unknown Test: 2
+RedisSyncSingleStorageTest.java:
+  JNoseTool: Unknown Test: 9
+  JNoseTool: Verbose Test: 4

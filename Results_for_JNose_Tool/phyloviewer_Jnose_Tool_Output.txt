@@ -1,0 +1,12 @@
+TestImportTree.java:
+  JNoseTool: Magic Number Test: 15
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Duplicate Assert: 12
+  JNoseTool: Eager Test: 1
+  JNoseTool: Assertion Roulette: 44
+TestDatabaseTreeData.java:
+  JNoseTool: Magic Number Test: 4
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Assertion Roulette: 20
+TestBuildTreeFromJSON.java:
+  JNoseTool: Magic Number Test: 2

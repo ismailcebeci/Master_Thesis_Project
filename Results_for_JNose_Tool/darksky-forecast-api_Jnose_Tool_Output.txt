@@ -1,0 +1,10 @@
+ForecastRequestBuilderTest.java:
+  JNoseTool: Assertion Roulette: 1
+LatitudeTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Eager Test: 1
+LongitudeTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Sensitive Equality: 1
+  JNoseTool: Eager Test: 1

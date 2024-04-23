@@ -1,0 +1,2 @@
+projectName;name;pathFile;productionFile;junitVersion;loc;qtdMethods;testSmellName;testSmellMethod;testSmellLineBegin;testSmellLineEnd
+spring-cloud-alibaba-seata;UserServiceApplicationTests;C:\Users\cebec\.jnose_projects\spring-cloud-alibaba-seata\user-service\src\test\java\app\itw\cloud\seata\user\UserServiceApplicationTests.java;C:\Users\cebec\.jnose_projects\spring-cloud-alibaba-seata\user-service\src\main\java\app\itw\cloud\seata\user\UserServiceApplication.java;JUnit5;13;1;EmptyTest;contextLoads;9-11;9-11

@@ -1,0 +1,58 @@
+DefaultAppSearchAlgorithmTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 34
+  JNoseTool: Conditional Test Logic: 1
+FileLogTest.java:
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Resource Optimism: 2
+  JNoseTool: Sensitive Equality: 8
+  JNoseTool: Duplicate Assert: 1
+AddWorkspaceItemsTaskTest.java:
+  JNoseTool: Assertion Roulette: 10
+  JNoseTool: Duplicate Assert: 1
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 3
+CacheDataUpdatedTaskTest.java:
+  JNoseTool: Assertion Roulette: 3
+  JNoseTool: Conditional Test Logic: 3
+  JNoseTool: Unknown Test: 2
+DbDowngradeHelperTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 15
+  JNoseTool: Duplicate Assert: 3
+  JNoseTool: Magic Number Test: 12
+  JNoseTool: General Fixture: 3
+  JNoseTool: Exception Catching Throwing: 2
+  JNoseTool: Mystery Guest: 2
+GridSizeMigrationTaskTest.java:
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Conditional Test Logic: 2
+  JNoseTool: Lazy Test: 6
+  JNoseTool: General Fixture: 3
+  JNoseTool: Unknown Test: 8
+  JNoseTool: Eager Test: 8
+LoaderCursorTest.java:
+  JNoseTool: Assertion Roulette: 28
+  JNoseTool: Lazy Test: 1
+  JNoseTool: General Fixture: 6
+PackageInstallStateChangedTaskTest.java:
+  JNoseTool: Unknown Test: 3
+PopupPopulatorTest.java:
+  JNoseTool: Unknown Test: 2
+RestoreDbTaskTest.java:
+  JNoseTool: Assertion Roulette: 5
+  JNoseTool: Conditional Test Logic: 1
+  JNoseTool: Magic Number Test: 5
+  JNoseTool: Mystery Guest: 2
+SwipeDetectorTest.java:
+  JNoseTool: General Fixture: 1
+  JNoseTool: Unknown Test: 5
+GridOccupancyTest.java:
+  JNoseTool: Assertion Roulette: 12
+  JNoseTool: Magic Number Test: 12
+WidgetsListAdapterTest.java:
+  JNoseTool: General Fixture: 3
+  JNoseTool: Unknown Test: 4
+  JNoseTool: EmptyTest: 2

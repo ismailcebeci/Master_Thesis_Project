@@ -1,0 +1,9 @@
+PatternElementTest.java:
+  JNoseTool: Assertion Roulette: 9
+PatternTest.java:
+  JNoseTool: Assertion Roulette: 4
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Eager Test: 2
+RevisionTest.java:
+  JNoseTool: Assertion Roulette: 2
+  JNoseTool: Eager Test: 1

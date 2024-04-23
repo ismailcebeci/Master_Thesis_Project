@@ -1,0 +1,12 @@
+H2StreamPersistenceTest.java:
+  JNoseTool: Magic Number Test: 3
+  JNoseTool: Verbose Test: 1
+  JNoseTool: Assertion Roulette: 11
+  JNoseTool: Conditional Test Logic: 4
+OM20ParserTest.java:
+  JNoseTool: Magic Number Test: 1
+WXXMParserTest.java:
+  JNoseTool: Eager Test: 1
+SimpleAltitudeQueryTest.java:
+  JNoseTool: Eager Test: 1
+  JNoseTool: Duplicate Assert: 1

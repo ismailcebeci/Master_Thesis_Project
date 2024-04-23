@@ -1,0 +1,19 @@
+OrientationDetectorTest.java:
+  JNoseTool: Unknown Test: 7
+  JNoseTool: IgnoredTest: 1
+  JNoseTool: General Fixture: 2
+SenseyTest.java:
+  JNoseTool: Conditional Test Logic: 13
+TouchTypeDetectorTest.java:
+  JNoseTool: Unknown Test: 18
+FlipDetectorTest.java:
+  JNoseTool: Unknown Test: 2
+LightDetectorTest.java:
+  JNoseTool: Unknown Test: 7
+  JNoseTool: IgnoredTest: 3
+ProximityDetectorTest.java:
+  JNoseTool: Unknown Test: 2
+  JNoseTool: IgnoredTest: 2
+ShakeDetectorTest.java:
+  JNoseTool: Unknown Test: 7
+  JNoseTool: IgnoredTest: 2

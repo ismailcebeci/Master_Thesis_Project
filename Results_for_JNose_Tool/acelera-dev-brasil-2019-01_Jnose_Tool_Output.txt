@@ -1,0 +1,24 @@
+OperacaoTest.java:
+  JNoseTool: Magic Number Test: 8
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: General Fixture: 4
+PessoaBuilderTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 8
+  JNoseTool: Verbose Test: 1
+CarrinhoTest.java:
+  JNoseTool: Assertion Roulette: 2
+ContadorTest.java:
+  JNoseTool: Magic Number Test: 2
+  JNoseTool: Assertion Roulette: 2
+AppTest.java:
+  JNoseTool: Assertion Roulette: 1
+  JNoseTool: Redundant Assertion: 1
+ProdutoControllerTest.java:
+  JNoseTool: Assertion Roulette: 7
+PersonControllerTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 4
+PersonRepositoryTest.java:
+  JNoseTool: Magic Number Test: 1
+  JNoseTool: Assertion Roulette: 3
